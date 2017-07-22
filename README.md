@@ -19,6 +19,11 @@
   - [Ending Scene](https://www.youtube.com/watch?v=x8-7mHT9edg) This part of my life... this part right here? This is called "happyness."
 
 
+## Posts
+
+- [Nobody’s going to help you. It’s all up to you.](https://sivers.org/up2you)
+
+
 ## Quotes
 
 - Michael Jordan

@@ -40,4 +40,4 @@
 ## Videos
 
 - [Inspiring Story of Robert Downey Jr.](https://www.facebook.com/TheBornRealist/videos/919818351502217)
-
+- [Steve Jobs narrates the first Think different commercial "Here's to the Crazy Ones"](https://www.youtube.com/watch?v=8rwsuXHA7RA)

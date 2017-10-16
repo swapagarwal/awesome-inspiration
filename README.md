@@ -51,3 +51,4 @@
 - [This is what Peter Dinklage walked away from, to become Tyrion Lannister](https://www.facebook.com/goalcast/videos/1487480434662475)
 - [What they don't see is the mountain](https://www.facebook.com/goalcast/videos/1364131340330719)
 - [A clever lesson in self-worth](https://www.facebook.com/diply/videos/1453994404678917)
+- [Professor Ndubuisi Ekekwe Inspiring Africans at The Tony Elumelu Foundation Program 2017.](https://youtu.be/_WYoQgdZxkI)

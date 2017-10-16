@@ -20,8 +20,13 @@
 - Facing the Giants [IMDb](http://www.imdb.com/title/tt0805526/) [Wikipedia](https://en.wikipedia.org/wiki/Facing_the_Giants)
   - [The Death Crawl Scene](https://www.youtube.com/watch?v=-sUKoKQlEC4) The scene where the football coach gets the most influential player on the team to do a blind-fold crawl, so that he would not know how far he could go, while carrying a teammate on his back. The coach pushes him with extreme motivation and tells him to never quit. Even when the player yells it hurts, the coach yells "let it!". The player finally drops and he has made it all the way to the end zone, where the coach tells him how important it is for an influential individual to lead by example.
 - Pelé: Birth of a Legend [IMDb](http://www.imdb.com/title/tt0995868/) [Wikipedia](https://en.wikipedia.org/wiki/Pel%C3%A9:_Birth_of_a_Legend)
+  - * Pele: I can't play like the other guys. 
+    * Coach: What's wrong with not playing the way the other guys do? 
+    * Coach: Show us the what happens when you have the courage to embrace who you truly are.
 - Jobs [IMDb](http://www.imdb.com/title/tt2357129/) [Wikipedia](https://en.wikipedia.org/wiki/Jobs_(film))
+  - Here's to the crazy ones. The misfits, the rebels, the troublemakers, the round pegs in the square holes, the ones who see things differently. They're not fond of rules, and they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things - they push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.
 - The Imitation Game [IMDb](http://www.imdb.com/title/tt2084970/) [Wikipedia](https://en.wikipedia.org/wiki/The_Imitation_Game)
+  -  Sometimes it's the very people who no one imagines anything of who do the things no one can imagine.
 
 ## Posts
 

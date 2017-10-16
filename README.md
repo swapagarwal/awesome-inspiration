@@ -19,6 +19,9 @@
   - [Ending Scene](https://www.youtube.com/watch?v=x8-7mHT9edg) This part of my life... this part right here? This is called "happyness."
 - Facing the Giants [IMDb](http://www.imdb.com/title/tt0805526/) [Wikipedia](https://en.wikipedia.org/wiki/Facing_the_Giants)
   - [The Death Crawl Scene](https://www.youtube.com/watch?v=-sUKoKQlEC4) The scene where the football coach gets the most influential player on the team to do a blind-fold crawl, so that he would not know how far he could go, while carrying a teammate on his back. The coach pushes him with extreme motivation and tells him to never quit. Even when the player yells it hurts, the coach yells "let it!". The player finally drops and he has made it all the way to the end zone, where the coach tells him how important it is for an influential individual to lead by example.
+- Pelé: Birth of a Legend [IMDb](http://www.imdb.com/title/tt0995868/) [Wikipedia](https://en.wikipedia.org/wiki/Pel%C3%A9:_Birth_of_a_Legend)
+- Jobs [IMDb](http://www.imdb.com/title/tt2357129/) [Wikipedia](https://en.wikipedia.org/wiki/Jobs_(film))
+- The Imitation Game [IMDb](http://www.imdb.com/title/tt2084970/) [Wikipedia](https://en.wikipedia.org/wiki/The_Imitation_Game)
 
 ## Posts
 

@@ -44,8 +44,18 @@
 
 - Hall of Fame [YouTube](https://www.youtube.com/watch?v=mk48xRzuNvA) [Wikipedia](https://en.wikipedia.org/wiki/Hall_of_Fame_(song)) [Lyrics](http://www.azlyrics.com/lyrics/script/halloffame.html)
 - Don't You Worry Child [YouTube](https://www.youtube.com/watch?v=1y6smkh6c-0) [Wikipedia](https://en.wikipedia.org/wiki/Don%27t_You_Worry_Child) [Lyrics](https://www.azlyrics.com/lyrics/swedishhousemafia/dontyouworrychild.html)
-- Remember the Name [YouTube](https://www.youtube.com/watch?v=VDvr08sCPOc) [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Name) [Lyrics](https://www.azlyrics.com/lyrics/fortminor/rememberthename.html)
-
+- Remember The Name [YouTube](https://www.youtube.com/watch?v=VDvr08sCPOc) [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Name) [Lyrics](https://www.azlyrics.com/lyrics/fortminor/rememberthename.html)
+- Dream On [YouTube](https://www.youtube.com/watch?v=qzTZ76vhnKk) [Wikipedia](https://en.wikipedia.org/wiki/Dream_On_(Aerosmith_song)) [Lyrics](https://www.azlyrics.com/lyrics/aerosmith/dreamon.html)
+- Wind of Change [YouTube](https://youtu.be/n4RjJKxsamQ) [Wikipedia](https://en.wikipedia.org/wiki/Wind_of_Change_(Scorpions_song)) [Lyrics](https://www.azlyrics.com/lyrics/scorpions/windofchange.html)
+- We Are The Champions [YouTube](https://youtu.be/04854XqcfCY) [Wikipedia](https://en.wikipedia.org/wiki/We_Are_the_Champions) [Lyrics](https://www.azlyrics.com/lyrics/queen/wearethechampions.html) 
+- Eye of the Tiger [YouTube](https://youtu.be/btPJPFnesV4) [Wikipedia](https://en.wikipedia.org/wiki/Eye_of_the_Tiger) [Lyrics](https://www.azlyrics.com/lyrics/survivor/eyeofthetiger.html)
+- In The Air Tonight [YouTube](https://youtu.be/gZrcUDRUBjw) [Wikipedia](https://en.wikipedia.org/wiki/In_the_Air_Tonight) [Lyrics](https://www.azlyrics.com/lyrics/philcollins/intheairtonight.html)
+- Drive  [YouTube](https://youtu.be/fgT9zGkiLig ) [Wikipedia](https://en.wikipedia.org/wiki/Drive_(Incubus_song)) [Lyrics](https://www.azlyrics.com/lyrics/incubus/drive.html)
+- Beautiful Day [YouTube](https://youtu.be/co6WMzDOh1o) [Wikipedia](https://en.wikipedia.org/wiki/Beautiful_Day) [Lyrics](https://www.azlyrics.com/lyrics/u2band/beautifulday.html)
+- I Feel Good [YouTube](https://youtu.be/SzlpTRNIAvc) [Wikipedia](https://en.wikipedia.org/wiki/I_Got_You_(I_Feel_Good)) [Lyrics](https://www.azlyrics.com/lyrics/jamesbrown/igotyouifeelgood.html)
+- Walk [YouTube](https://youtu.be/4PkcfQtibmU ) [Wikipedia](https://en.wikipedia.org/wiki/Walk_(Foo_Fighters_song)) [Lyrics](https://www.azlyrics.com/lyrics/foofighters/walk.html)
+- Whatever It Takes [YouTube](https://www.youtube.com/watch?v=gOsM-DYAEhY) [Wikipedia](https://en.wikipedia.org/wiki/Whatever_It_Takes_(Imagine_Dragons_song)) [Lyrics](https://www.azlyrics.com/lyrics/imaginedragons/whateverittakes.html)
+- Imagine  [YouTube](https://youtu.be/XLgYAHHkPFs) [Wikipedia](https://en.wikipedia.org/wiki/Imagine_(John_Lennon_song)) [Lyrics](https://www.azlyrics.com/lyrics/johnlennon/imagine.html)
 
 ## Videos
 

@@ -38,6 +38,14 @@
   - The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else's highlight reel.
 - Dr. Seuss
   - Sometimes the questions are complicated and the answers are simple.
+- Rabindranath Tagore 
+  - You can't cross the sea merely by standing and staring at the water.
+- George Bernard Shaw
+  -  Life isn't about finding yourself. Life is about creating yourself. -0-
+- Sadhguru 
+  - If you resist change, you resist life.
+- Osho  
+  - You feel good, you feel bad, and these feelings are bubbling from your own unconsciousness, from your own past. Nobody is responsible except you. Nobody can make you angry, and nobody can make you happy. 
 
 
 ## Songs

@@ -45,6 +45,7 @@
 - Hall of Fame [YouTube](https://www.youtube.com/watch?v=mk48xRzuNvA) [Wikipedia](https://en.wikipedia.org/wiki/Hall_of_Fame_(song)) [Lyrics](http://www.azlyrics.com/lyrics/script/halloffame.html)
 - Don't You Worry Child [YouTube](https://www.youtube.com/watch?v=1y6smkh6c-0) [Wikipedia](https://en.wikipedia.org/wiki/Don%27t_You_Worry_Child) [Lyrics](https://www.azlyrics.com/lyrics/swedishhousemafia/dontyouworrychild.html)
 - Remember the Name [YouTube](https://www.youtube.com/watch?v=VDvr08sCPOc) [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Name) [Lyrics](https://www.azlyrics.com/lyrics/fortminor/rememberthename.html)
+- Bohemian Rhapsody [YouTube](https://www.youtube.com/watch?v=fJ9rUzIMcZQ) [Wikipedia](https://en.wikipedia.org/wiki/Bohemian_Rhapsody) [Lyrics](https://www.azlyrics.com/lyrics/queen/bohemianrhapsody.html)
 
 
 ## Videos

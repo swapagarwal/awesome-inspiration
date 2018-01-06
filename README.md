@@ -1,4 +1,4 @@
-# Awesome Inspiration [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/github/stars/swapagarwal/awesome-inspiration.svg?style=social) ![](https://img.shields.io/github/followers/swapagarwal.svg?style=social)
+# Awesome Inspiration [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![https://github.com/swapagarwal/awesome-inspiration](https://img.shields.io/github/stars/swapagarwal/awesome-inspiration.svg?style=social) ![https://github.com/swapagarwal](https://img.shields.io/github/followers/swapagarwal.svg?style=social)
 
 > A curated list of content worth sharing to help you get inspired! :fire:
 

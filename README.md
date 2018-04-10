@@ -48,6 +48,7 @@
 | Don't You Worry Child | [YouTube](https://www.youtube.com/watch?v=1y6smkh6c-0) | [Wikipedia](https://en.wikipedia.org/wiki/Don%27t_You_Worry_Child) | [Lyrics](https://www.azlyrics.com/lyrics/swedishhousemafia/dontyouworrychild.html) |
 | Remember the Name | [YouTube](https://www.youtube.com/watch?v=VDvr08sCPOc) | [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Name) | [Lyrics](https://www.azlyrics.com/lyrics/fortminor/rememberthename.html) |
 
+
 ## Videos
 
 - [Inspiring Story of Robert Downey Jr.](https://www.facebook.com/TheBornRealist/videos/919818351502217)
@@ -55,3 +56,9 @@
 - [This is what Peter Dinklage walked away from, to become Tyrion Lannister](https://www.facebook.com/goalcast/videos/1487480434662475)
 - [What they don't see is the mountain](https://www.facebook.com/goalcast/videos/1364131340330719)
 - [A clever lesson in self-worth](https://www.facebook.com/diply/videos/1453994404678917)
+
+
+<details><summary>Hindi</summary>
+- [Don't fear... fear](https://www.facebook.com/hrithikroshan/videos/10156426479529407)
+</details>
+

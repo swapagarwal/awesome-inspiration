@@ -1,7 +1,8 @@
 # Awesome Inspiration [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Codeship Status for swapagarwal/awesome-inspiration](https://app.codeship.com/projects/4ac95290-2237-0136-0375-32ba36ce517b/status?branch=master)](https://app.codeship.com/projects/285996) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/swapagarwal/awesome-inspiration/fork) [![open issues](https://img.shields.io/github/issues/swapagarwal/awesome-inspiration.svg)](https://github.com/swapagarwal/awesome-inspiration/issues?q=is%3Aopen+is%3Aissue) [![closed pull requests](https://img.shields.io/github/issues-pr-closed/swapagarwal/awesome-inspiration.svg)](https://github.com/swapagarwal/awesome-inspiration/pulls?q=is%3Apr+is%3Aclosed) [![Open Source Helpers](https://www.codetriage.com/swapagarwal/awesome-inspiration/badges/users.svg)](https://www.codetriage.com/swapagarwal/awesome-inspiration) [![](https://img.shields.io/github/stars/swapagarwal/awesome-inspiration.svg?style=social)](https://github.com/swapagarwal/awesome-inspiration) [![](https://img.shields.io/github/followers/swapagarwal.svg?style=social)](https://github.com/swapagarwal)
 
-> A curated list of content worth sharing to help you get inspired! 🔥
+> 🔥 A curated list of content worth sharing to help you get inspired! ⚡️
 
+<a href="https://www.buymeacoffee.com/swap" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ## Contents
 

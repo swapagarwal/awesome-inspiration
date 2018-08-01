@@ -63,5 +63,6 @@
 <details><summary>Hindi</summary>
 
 - [Don't fear... fear](https://www.facebook.com/hrithikroshan/videos/10156426479529407)
+- [Never lose hope. Universe will make it happen. 🙂](https://www.facebook.com/BuddyBits/videos/1997502376986459)
 </details>
 

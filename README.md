@@ -2,7 +2,6 @@
 
 > 🔥 A curated list of content worth sharing to help you get inspired! ⚡️
 
-<a href="https://www.buymeacoffee.com/swap" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ## Contents
 
@@ -66,3 +65,16 @@
 - [Never lose hope. Universe will make it happen. 🙂](https://www.facebook.com/BuddyBits/videos/1997502376986459)
 </details>
 
+
+## Contributing
+
+Feel free to open an issue (or even better, send a Pull Request) for expanding this list. Contributions are very welcome!! 😄
+
+<a href="https://www.buymeacoffee.com/swap" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Swapnil Agarwal](http://swapnil.net) has waived all copyright and related or neighboring rights to this work.

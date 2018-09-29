@@ -61,9 +61,9 @@
 
 <details><summary>Hindi</summary>
 
-- [Don't fear... fear](https://www.facebook.com/hrithikroshan/videos/10156426479529407)
-- [Never lose hope. Universe will make it happen. 🙂](https://www.facebook.com/BuddyBits/videos/1997502376986459)
-- [WHY SMILING CAN CHANGE YOUR LIFE by Gaur Gopal Das](https://www.youtube.com/watch?v=6agY0okQiAg)
+- <a href="https://www.facebook.com/hrithikroshan/videos/10156426479529407" target="_blank">Don't fear... fear</a>
+- <a href="https://www.facebook.com/BuddyBits/videos/1997502376986459" target="_blank">Never lose hope. Universe will make it happen. 🙂</a>
+- <a href="https://www.youtube.com/watch?v=6agY0okQiAg" target="_blank">WHY SMILING CAN CHANGE YOUR LIFE by Gaur Gopal Das</a>
 </details>
 
 

@@ -15,7 +15,7 @@
 ## Movies
 
 - The Pursuit of Happyness [IMDb](https://www.imdb.com/title/tt0454921/) [Wikipedia](https://en.wikipedia.org/wiki/The_Pursuit_of_Happyness)
-  - [Basketball Scene](https://www.youtube.com/watch?v=dPEdwaLQLag) Don't ever let somebody tell you... You can't do something. Not even me. All right? You got a dream... You gotta protect it. People can't do somethin' themselves, they wanna tell you you can't do it. If you want somethin', go get it. Period.
+  - [Basketball Scene](https://www.youtube.com/watch?v=dPEdwaLQLag) Don't ever let somebody tell you... You can't do something. Not even me. All right? You got a dream... You gotta protect it. People can't do somethin' themselves, they wanna tell you you can't do it. If you want somethin', go get it !!!
   - [Ending Scene](https://www.youtube.com/watch?v=x8-7mHT9edg) This part of my life... this part right here? This is called "happyness."
 - Facing the Giants [IMDb](https://www.imdb.com/title/tt0805526/) [Wikipedia](https://en.wikipedia.org/wiki/Facing_the_Giants)
   - [The Death Crawl Scene](https://www.youtube.com/watch?v=-sUKoKQlEC4) The scene where the football coach gets the most influential player on the team to do a blind-fold crawl, so that he would not know how far he could go, while carrying a teammate on his back. The coach pushes him with extreme motivation and tells him to never quit. Even when the player yells it hurts, the coach yells "let it!". The player finally drops and he has made it all the way to the end zone, where the coach tells him how important it is for an influential individual to lead by example.

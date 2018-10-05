@@ -41,7 +41,7 @@
 -Robert H. Schuller
   -Tough times never last, but tough people do. <br> ![](http://files.planetofsuccess.com/blog/wp-content/uploads/2015/10/tough-times1.jpg)
 -Confucius
-  -Our greatest glory is not in never falling,But in rising every time we fall. <br> ![](https://motivationping.com/wp-content/uploads/2017/10/motivational-inspirational-quotes-41.jpg)
+  -Our greatest glory is not in never falling,But in rising every time we fall.<br> ![](https://motivationping.com/wp-content/uploads/2017/10/motivational-inspirational-quotes-41.jpg)
 
 
 ## Songs

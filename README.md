@@ -40,6 +40,8 @@
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://successlive.com/wp-content/uploads/mark-cuban-success-quotes131-758x426.png)
 -Robert H. Schuller
   -Tough times never last, but tough people do. <br> ![](http://files.planetofsuccess.com/blog/wp-content/uploads/2015/10/tough-times1.jpg)
+-Confucius
+  -Our greatest glory is not in never falling,But in rising every time we fall. <br> ![](https://motivationping.com/wp-content/uploads/2017/10/motivational-inspirational-quotes-41.jpg)
 
 
 ## Songs

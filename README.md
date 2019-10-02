@@ -10,6 +10,7 @@
 - [Quotes](#quotes)
 - [Songs](#songs)
 - [Videos](#videos)
+- [Books](#books)
 
 
 ## Movies
@@ -57,6 +58,16 @@
 - [What they don't see is the mountain](https://www.facebook.com/goalcast/videos/1364131340330719)
 - [A clever lesson in self-worth](https://www.facebook.com/diply/videos/1453994404678917)
 - [It all starts from within](https://www.facebook.com/philippinesreportcom/videos/1908189436175704)
+
+
+## Books
+
+- Screw It Lets Do It: Lessons in Life, by Richard Branson
+- The Art of Happiness, by Dalai Lama
+- The Magic of Thinking Big, by David J Schwartz
+- Don’t Sweat the Small Stuff, by Richard Carlson
+- The Gifts of Imperfection, by Brene Brown
+
 
 
 <details><summary>Hindi</summary>

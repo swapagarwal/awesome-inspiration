@@ -39,7 +39,7 @@
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://successlive.com/wp-content/uploads/mark-cuban-success-quotes131-758x426.png)
 - Bill Gates
-  - Success is a lousy teacher. It seduces smart people into thinking they can't lose. <br> ![](https://images.app.goo.gl/xEPkQrD6dny5eiBk6)
+  - Success is a lousy teacher. It seduces smart people into thinking they can't lose. <br> ![](https://1zl13gzmcsu3l9yq032yyf51-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/bill-gates-quote-success-1068x561.gif)
 
 
 ## Songs

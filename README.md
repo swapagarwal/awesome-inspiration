@@ -21,6 +21,9 @@
   - [The Death Crawl Scene](https://www.youtube.com/watch?v=-sUKoKQlEC4) The scene where the football coach gets the most influential player on the team to do a blind-fold crawl, so that he would not know how far he could go, while carrying a teammate on his back. The coach pushes him with extreme motivation and tells him to never quit. Even when the player yells it hurts, the coach yells "let it!". The player finally drops and he has made it all the way to the end zone, where the coach tells him how important it is for an influential individual to lead by example.
 - Rocky Balboa [IMDb](https://www.imdb.com/title/tt0479143/) [Wikipedia](https://en.wikipedia.org/wiki/Rocky_Balboa_(film))
   - [Inspirational Speech](https://www.youtube.com/watch?v=D_Vg4uyYwEk) Let me tell you something you already know. The world ain't all sunshine and rainbows. It's a very mean and nasty place and I don't care how tough you are it will beat you to your knees and keep you there permanently if you let it. You, me, or nobody is gonna hit as hard as life. But it ain't about how hard you hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward. That's how winning is done! Now if you know what you're worth then go out and get what you're worth. But ya gotta be willing to take the hits, and not pointing fingers saying you ain't where you wanna be because of him, or her, or anybody! Cowards do that and that ain't you! You're better than that!
+- The Greatest Game Ever Played [IMDb](https://www.imdb.com/title/tt0388980/) [Wikipedia](https://en.wikipedia.org/wiki/The_Greatest_Game_Ever_Played)
+  - [Ending Scene](https://www.youtube.com/watch?v=13ylVfXVHLo) Throughout the movie, the protagonist's father expresses severe discontent with his son playing golf. However, this does not stop Francis Ouimet from participating in the U.S. Open as an amateur. Most of the movie shows the games that Francis played in the U.S. Open and how he competed against top players at that time like the British golf champions Harry Vardon and Ted Ray. After a compelling tie-breaker at the end, Francis wins the U.S. Open and is the first amateur to do so. He is lifted into the air by the crowd to celebrate his success and people pass around his hat to give him tips. While Francis is happy with his success, he does not accept anyone's tip and suggests that they tip his caddie (Eddie Lowery). However, he does accept only one note as a tip, and it is shown to be his father, who has tears in his eyes due to joy.
+
 
 
 ## Posts
@@ -47,6 +50,7 @@
 | Hall of Fame | [YouTube](https://www.youtube.com/watch?v=mk48xRzuNvA) | [Wikipedia](https://en.wikipedia.org/wiki/Hall_of_Fame_(song)) | [Lyrics](https://www.azlyrics.com/lyrics/script/halloffame.html) |
 | Don't You Worry Child | [YouTube](https://www.youtube.com/watch?v=1y6smkh6c-0) | [Wikipedia](https://en.wikipedia.org/wiki/Don%27t_You_Worry_Child) | [Lyrics](https://www.azlyrics.com/lyrics/swedishhousemafia/dontyouworrychild.html) |
 | Remember the Name | [YouTube](https://www.youtube.com/watch?v=VDvr08sCPOc) | [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Name) | [Lyrics](https://www.azlyrics.com/lyrics/fortminor/rememberthename.html) |
+| The Nights | [YouTube](https://www.youtube.com/watch?v=UtF6Jej8yb4) | [Wikipedia](https://en.wikipedia.org/wiki/The_Nights) | [Lyrics](https://www.azlyrics.com/lyrics/avicii/thenights.html) |
 
 
 ## Videos

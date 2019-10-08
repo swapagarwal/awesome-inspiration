@@ -42,11 +42,11 @@
 
 ## Songs
 
-|  | YouTube | Wikipedia | Lyrics |
-|--|:-------:|:---------:|:------:|
-| Hall of Fame | [YouTube](https://www.youtube.com/watch?v=mk48xRzuNvA) | [Wikipedia](https://en.wikipedia.org/wiki/Hall_of_Fame_(song)) | [Lyrics](https://www.azlyrics.com/lyrics/script/halloffame.html) |
-| Don't You Worry Child | [YouTube](https://www.youtube.com/watch?v=1y6smkh6c-0) | [Wikipedia](https://en.wikipedia.org/wiki/Don%27t_You_Worry_Child) | [Lyrics](https://www.azlyrics.com/lyrics/swedishhousemafia/dontyouworrychild.html) |
-| Remember the Name | [YouTube](https://www.youtube.com/watch?v=VDvr08sCPOc) | [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Name) | [Lyrics](https://www.azlyrics.com/lyrics/fortminor/rememberthename.html) |
+|  | YouTube | Wikipedia | Lyrics | Spotify | Genius |
+|--|:-------:|:---------:|:------:|:-------:|:------:|
+| Hall of Fame | [YouTube](https://www.youtube.com/watch?v=mk48xRzuNvA) | [Wikipedia](https://en.wikipedia.org/wiki/Hall_of_Fame_(song)) | [Lyrics](https://www.azlyrics.com/lyrics/script/halloffame.html) | [Spotify](https://open.spotify.com/track/7wMq5n8mYSKlQIGECKUgTX?si=noMzBUdHRBeWgLfPwopf6A) | [Genius](https://genius.com/The-script-hall-of-fame-lyrics)
+| Don't You Worry Child | [YouTube](https://www.youtube.com/watch?v=1y6smkh6c-0) | [Wikipedia](https://en.wikipedia.org/wiki/Don%27t_You_Worry_Child) | [Lyrics](https://www.azlyrics.com/lyrics/swedishhousemafia/dontyouworrychild.html) | [Spotify](https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p?si=Pd75YSD2Tt-9CPKW98mYEA) | [Genius](https://genius.com/Swedish-house-mafia-dont-you-worry-child-lyrics)
+| Remember the Name | [YouTube](https://www.youtube.com/watch?v=VDvr08sCPOc) | [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Name) | [Lyrics](https://www.azlyrics.com/lyrics/fortminor/rememberthename.html) | [Spotify](https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K?si=jJklDCoWTlmEwv1y9FsdgQ) | [Genius](https://genius.com/Fort-minor-remember-the-name-lyrics)
 
 
 ## Videos

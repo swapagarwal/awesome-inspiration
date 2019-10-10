@@ -27,7 +27,7 @@
 
 - [Nobody’s going to help you. It’s all up to you.](https://sivers.org/up2you)
 
-
+-[Do good for others it will come back in unexpected.]
 ## Quotes
 
 - Michael Jordan

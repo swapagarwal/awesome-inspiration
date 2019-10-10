@@ -1,4 +1,4 @@
-# Awesome Inspiration [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Codeship Status for swapagarwal/awesome-inspiration](https://app.codeship.com/projects/4ac95290-2237-0136-0375-32ba36ce517b/status?branch=master)](https://app.codeship.com/projects/285996) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/swapagarwal/awesome-inspiration/fork) [![open issues](https://img.shields.io/github/issues/swapagarwal/awesome-inspiration.svg)](https://github.com/swapagarwal/awesome-inspiration/issues?q=is%3Aopen+is%3Aissue) [![closed pull requests](https://img.shields.io/github/issues-pr-closed/swapagarwal/awesome-inspiration.svg)](https://github.com/swapagarwal/awesome-inspiration/pulls?q=is%3Apr+is%3Aclosed) [![Open Source Helpers](https://www.codetriage.com/swapagarwal/awesome-inspiration/badges/users.svg)](https://www.codetriage.com/swapagarwal/awesome-inspiration) [![](https://img.shields.io/github/stars/swapagarwal/awesome-inspiration.svg?style=social)](https://github.com/swapagarwal/awesome-inspiration) [![](https://img.shields.io/github/followers/swapagarwal.svg?style=social)](https://github.com/swapagarwal)
+﻿# Awesome Inspiration [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Codeship Status for swapagarwal/awesome-inspiration](https://app.codeship.com/projects/4ac95290-2237-0136-0375-32ba36ce517b/status?branch=master)](https://app.codeship.com/projects/285996) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/swapagarwal/awesome-inspiration/fork) [![open issues](https://img.shields.io/github/issues/swapagarwal/awesome-inspiration.svg)](https://github.com/swapagarwal/awesome-inspiration/issues?q=is%3Aopen+is%3Aissue) [![closed pull requests](https://img.shields.io/github/issues-pr-closed/swapagarwal/awesome-inspiration.svg)](https://github.com/swapagarwal/awesome-inspiration/pulls?q=is%3Apr+is%3Aclosed) [![Open Source Helpers](https://www.codetriage.com/swapagarwal/awesome-inspiration/badges/users.svg)](https://www.codetriage.com/swapagarwal/awesome-inspiration) [![](https://img.shields.io/github/stars/swapagarwal/awesome-inspiration.svg?style=social)](https://github.com/swapagarwal/awesome-inspiration) [![](https://img.shields.io/github/followers/swapagarwal.svg?style=social)](https://github.com/swapagarwal)
 
 > 🔥 A curated list of content worth sharing to help you get inspired! ⚡️
 
@@ -21,7 +21,8 @@
   - [The Death Crawl Scene](https://www.youtube.com/watch?v=-sUKoKQlEC4) The scene where the football coach gets the most influential player on the team to do a blind-fold crawl, so that he would not know how far he could go, while carrying a teammate on his back. The coach pushes him with extreme motivation and tells him to never quit. Even when the player yells it hurts, the coach yells "let it!". The player finally drops and he has made it all the way to the end zone, where the coach tells him how important it is for an influential individual to lead by example.
 - Rocky Balboa [IMDb](https://www.imdb.com/title/tt0479143/) [Wikipedia](https://en.wikipedia.org/wiki/Rocky_Balboa_(film))
   - [Inspirational Speech](https://www.youtube.com/watch?v=D_Vg4uyYwEk) Let me tell you something you already know. The world ain't all sunshine and rainbows. It's a very mean and nasty place and I don't care how tough you are it will beat you to your knees and keep you there permanently if you let it. You, me, or nobody is gonna hit as hard as life. But it ain't about how hard you hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward. That's how winning is done! Now if you know what you're worth then go out and get what you're worth. But ya gotta be willing to take the hits, and not pointing fingers saying you ain't where you wanna be because of him, or her, or anybody! Cowards do that and that ain't you! You're better than that!
-
+- Taare Zameen Par [IMDb](https://www.imdb.com/title/tt0986264/) [Wikipedia](https://en.wikipedia.org/wiki/Taare_Zameen_Par)
+  - Every scene from the movie is inspiration.. It's a story about "Dyslexic Child" who fights society and a greart Mentor who helps him to come up..
 
 ## Posts
 
@@ -38,7 +39,8 @@
   - The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else's highlight reel. <br> ![](https://i.pinimg.com/originals/46/45/c3/4645c3caec17c4bdb22a4bad231fd16d.jpg)
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://successlive.com/wp-content/uploads/mark-cuban-success-quotes131-758x426.png)
-
+- A.P.J. Abdul Kalam 
+  - Dreams are not those which comes while we are sleeping, but dreams are those when u don't sleep before fulfilling them. <br> ![](https://www.goodreads.com/quotes/620745-dreams-are-not-those-which-comes-while-we-are-sleeping#targetText=“Dreams%20are%20not%20those%20which%20comes%20while%20we%20are%20sleeping,t%20sleep%20before%20fulfilling%20them.”)
 
 ## Songs
 
@@ -57,6 +59,7 @@
 - [What they don't see is the mountain](https://www.facebook.com/goalcast/videos/1364131340330719)
 - [A clever lesson in self-worth](https://www.facebook.com/diply/videos/1453994404678917)
 - [It all starts from within](https://www.facebook.com/philippinesreportcom/videos/1908189436175704)
+- [World's Best Motivational Video - story of Károly Takács](https://www.youtube.com/watch?v=Sd-YsMs3OzA)
 
 
 <details><summary>Hindi</summary>

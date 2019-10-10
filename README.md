@@ -47,8 +47,8 @@
 | Hall of Fame | [YouTube](https://www.youtube.com/watch?v=mk48xRzuNvA) | [Wikipedia](https://en.wikipedia.org/wiki/Hall_of_Fame_(song)) | [Lyrics](https://www.azlyrics.com/lyrics/script/halloffame.html) |
 | Don't You Worry Child | [YouTube](https://www.youtube.com/watch?v=1y6smkh6c-0) | [Wikipedia](https://en.wikipedia.org/wiki/Don%27t_You_Worry_Child) | [Lyrics](https://www.azlyrics.com/lyrics/swedishhousemafia/dontyouworrychild.html) |
 | Remember the Name | [YouTube](https://www.youtube.com/watch?v=VDvr08sCPOc) | [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Name) | [Lyrics](https://www.azlyrics.com/lyrics/fortminor/rememberthename.html) |
-| 'Till I Collapse | [YouTube](https://youtu.be/Pi3_Zs-oRUo) | [Wikipedia](https://en.wikipedia.org/wiki/%27Till_I_Collapse) | [Lyrics](https://genius.com/Eminem-till-i-collapse-lyrics) |
-| Don't Stop Me Now | [YouTube](https://youtu.be/HgzGwKwLmgM) | [Wikipedia](https://en.wikipedia.org/wiki/Don't_Stop_Me_Now) | [Lyrics](https://genius.com/Queen-dont-stop-me-now-lyrics) |
+| I Want To Break Free | [YouTube](https://youtu.be/f4Mc-NYPHaQ) | [Wikipedia](https://en.wikipedia.org/wiki/I_Want_to_Break_Free) | [Lyrics](https://genius.com/Queen-i-want-to-break-free-lyrics) |
+| We Are The Champions | [YouTube](https://youtu.be/04854XqcfCY) | [Wikipedia](https://en.wikipedia.org/wiki/We_Are_the_Champions) | [Lyrics](https://genius.com/Queen-we-are-the-champions-lyrics) |
 
 
 ## Videos

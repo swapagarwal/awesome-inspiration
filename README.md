@@ -47,7 +47,7 @@
 | Hall of Fame | [YouTube](https://www.youtube.com/watch?v=mk48xRzuNvA) | [Wikipedia](https://en.wikipedia.org/wiki/Hall_of_Fame_(song)) | [Lyrics](https://www.azlyrics.com/lyrics/script/halloffame.html) |
 | Don't You Worry Child | [YouTube](https://www.youtube.com/watch?v=1y6smkh6c-0) | [Wikipedia](https://en.wikipedia.org/wiki/Don%27t_You_Worry_Child) | [Lyrics](https://www.azlyrics.com/lyrics/swedishhousemafia/dontyouworrychild.html) |
 | Remember the Name | [YouTube](https://www.youtube.com/watch?v=VDvr08sCPOc) | [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Name) | [Lyrics](https://www.azlyrics.com/lyrics/fortminor/rememberthename.html) |
-
+| My December | [YouTube](https://www.youtube.com/watch?v=9DCdCoQ49u8) | [Wikipedia](https://www.wikiwand.com/en/Hybrid_Theory) | [Lyrics](https://genius.com/Linkin-park-my-december-lyrics) |
 
 ## Videos
 
@@ -57,7 +57,7 @@
 - [What they don't see is the mountain](https://www.facebook.com/goalcast/videos/1364131340330719)
 - [A clever lesson in self-worth](https://www.facebook.com/diply/videos/1453994404678917)
 - [It all starts from within](https://www.facebook.com/philippinesreportcom/videos/1908189436175704)
-
+- [Sarunas Jasikevicius talks about kids](https://www.youtube.com/watch?v=G0a-Nr_vRjM)
 
 <details><summary>Hindi</summary>
 

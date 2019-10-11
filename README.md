@@ -26,6 +26,7 @@
 ## Posts
 
 - [Nobody’s going to help you. It’s all up to you.](https://sivers.org/up2you)
+- [Where to Start When It Feels Like Nothing Is Going Right in Your Life.](https://lifehacker.com/where-to-start-when-it-feels-like-nothing-is-going-righ-1640250197)
 
 
 ## Quotes
@@ -57,6 +58,8 @@
 - [What they don't see is the mountain](https://www.facebook.com/goalcast/videos/1364131340330719)
 - [A clever lesson in self-worth](https://www.facebook.com/diply/videos/1453994404678917)
 - [It all starts from within](https://www.facebook.com/philippinesreportcom/videos/1908189436175704)
+- [Facing the Giants: Motivational Scene](https://www.youtube.com/watch?v=-sUKoKQlEC4)
+- [Finding your personal mission in life](https://www.ted.com/talks/philip_krinks_finding_your_personal_mission_in_life#t-18329)
 
 
 <details><summary>Hindi</summary>

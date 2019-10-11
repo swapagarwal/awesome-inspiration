@@ -26,6 +26,8 @@
 ## Posts
 
 - [Nobody’s going to help you. It’s all up to you.](https://sivers.org/up2you)
+- [Productivity](https://jamesclear.com/productivity)
+- [Cool modelling of space and celestial objects](https://www.brainpickings.org/2019/10/08/margaret-nazon-celestial-beadwork/)
 
 
 ## Quotes
@@ -38,6 +40,10 @@
   - The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else's highlight reel. <br> ![](https://i.pinimg.com/originals/46/45/c3/4645c3caec17c4bdb22a4bad231fd16d.jpg)
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://successlive.com/wp-content/uploads/mark-cuban-success-quotes131-758x426.png)
+- Steve Jobs
+  - Your time is limited,so don't waste it living someone else's life! <br> ![](https://static.boredpanda.com/blog/wp-content/uploads/2019/04/famous-people-inspiring-quotes-8-5cb436509c66a__700.jpg)
+- Robert Downey Junior
+  - Do I want to be a hero to my son? No, I would like to be a very real human being. That’s hard enough.<br> ![](https://static.india.com/wp-content/uploads/2017/06/Robert-Downey-Jr-1.jpg) 
 
 
 ## Songs
@@ -47,6 +53,10 @@
 | Hall of Fame | [YouTube](https://www.youtube.com/watch?v=mk48xRzuNvA) | [Wikipedia](https://en.wikipedia.org/wiki/Hall_of_Fame_(song)) | [Lyrics](https://www.azlyrics.com/lyrics/script/halloffame.html) |
 | Don't You Worry Child | [YouTube](https://www.youtube.com/watch?v=1y6smkh6c-0) | [Wikipedia](https://en.wikipedia.org/wiki/Don%27t_You_Worry_Child) | [Lyrics](https://www.azlyrics.com/lyrics/swedishhousemafia/dontyouworrychild.html) |
 | Remember the Name | [YouTube](https://www.youtube.com/watch?v=VDvr08sCPOc) | [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Name) | [Lyrics](https://www.azlyrics.com/lyrics/fortminor/rememberthename.html) |
+| Hotel California | [YouTube](https://www.youtube.com/watch?v=EqPtz5qN7HM) | [Wikipedia](https://en.wikipedia.org/wiki/Hotel_California) | [Lyrics](https://www.azlyrics.com/lyrics/eagles/hotelcalifornia.html) |
+| We don't talk anymore | [YouTube](https://www.youtube.com/watch?v=3AtDnEC4zak) | [Wikipedia](https://en.wikipedia.org/wiki/We_Don%27t_Talk_Anymore_(Charlie_Puth_song)) | [Lyrics](https://www.azlyrics.com/lyrics/charlieputh/wedonttalkanymore.html) |
+| Senorita | [YouTube](https://www.youtube.com/watch?v=Pkh8UtuejGw) | [Wikipedia](https://en.wikipedia.org/wiki/Se%C3%B1orita_(Shawn_Mendes_and_Camila_Cabello_song)) | [Lyrics](https://www.azlyrics.com/lyrics/shawnmendes/senorita.html) |
+
 
 
 ## Videos
@@ -57,13 +67,16 @@
 - [What they don't see is the mountain](https://www.facebook.com/goalcast/videos/1364131340330719)
 - [A clever lesson in self-worth](https://www.facebook.com/diply/videos/1453994404678917)
 - [It all starts from within](https://www.facebook.com/philippinesreportcom/videos/1908189436175704)
-
+- [Dream - Motivational Video](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
+- [8 traits of successful people - Richard St. John](https://www.youtube.com/watch?v=NOl0v54DaXo)
 
 <details><summary>Hindi</summary>
 
 - <a href="https://www.facebook.com/hrithikroshan/videos/10156426479529407" target="_blank">Don't fear... fear</a><br>
 - <a href="https://www.facebook.com/BuddyBits/videos/1997502376986459" target="_blank">Never lose hope. Universe will make it happen. 🙂</a><br>
 - <a href="https://www.youtube.com/watch?v=6agY0okQiAg" target="_blank">WHY SMILING CAN CHANGE YOUR LIFE by Gaur Gopal Das</a>
+- <a href="https://www.youtube.com/watch?v=Sd-YsMs3OzA" target="_blank">Best Motivation by Sandeep Maheshwari</a>
+- <a href="https://www.youtube.com/watch?v=le6eNngljto" target="_blank">Enjoy the Journey</a>
 </details>
 
 

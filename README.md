@@ -38,7 +38,8 @@
   - The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else's highlight reel. <br> ![](https://i.pinimg.com/originals/46/45/c3/4645c3caec17c4bdb22a4bad231fd16d.jpg)
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://successlive.com/wp-content/uploads/mark-cuban-success-quotes131-758x426.png)
-
+- Keanu Reeves
+  - You have to change your life if you're not happy, and wake up if things aren't going the way you want. <br> ![](https://www.azquotes.com/vangogh-image-quotes/85/92/Quotation-Keanu-Reeves-You-have-to-change-your-life-if-you-re-not-85-92-94.jpg)
 
 ## Songs
 

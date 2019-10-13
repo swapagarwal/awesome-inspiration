@@ -26,6 +26,7 @@
 ## Posts
 
 - [Nobody’s going to help you. It’s all up to you.](https://sivers.org/up2you)
+- [6 Life-Changing Lessons, Advice, & Tips From Elon Musk](https://blog.hubspot.com/sales/lessons-from-elon-musk)
 
 
 ## Quotes

@@ -10,6 +10,7 @@
 - [Quotes](#quotes)
 - [Songs](#songs)
 - [Videos](#videos)
+- [Books](#books)
 
 
 ## Movies
@@ -66,6 +67,9 @@
 - <a href="https://www.youtube.com/watch?v=6agY0okQiAg" target="_blank">WHY SMILING CAN CHANGE YOUR LIFE by Gaur Gopal Das</a>
 </details>
 
+## Books
+
+- <a href="https://www.goodreads.com/book/show/25541028-elon-musk" traget="_blank">Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future</a><br>
 
 ## Contributing
 

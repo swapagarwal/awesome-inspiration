@@ -26,6 +26,7 @@
 ## Posts
 
 - [Nobody’s going to help you. It’s all up to you.](https://sivers.org/up2you)
+- [Achieve Your Life Goals and Start Living Your Best Life](https://www.lifehack.org/)
 
 
 ## Quotes

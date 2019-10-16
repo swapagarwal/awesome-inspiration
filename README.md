@@ -26,7 +26,7 @@
 ## Posts
 
 - [Nobody’s going to help you. It’s all up to you.](https://sivers.org/up2you)
-
+- [Positive Thinking - Give Life To Your Dreams And Change Your Destiny.](https://www.motivation-for-dreamers.com/positive-thinking.html)
 
 ## Quotes
 

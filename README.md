@@ -38,7 +38,8 @@
   - The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else's highlight reel. <br> ![](https://i.pinimg.com/originals/46/45/c3/4645c3caec17c4bdb22a4bad231fd16d.jpg)
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://successlive.com/wp-content/uploads/mark-cuban-success-quotes131-758x426.png)
-
+- Panic! At The Disco
+  - Heroes always get remembered but you know legends never die. ![](https://i.pinimg.com/236x/23/57/80/235780e7ac1ba4af7142e3d10f0b3fbf--panic-at-the-disco-song-quotes-panic-at-the-disco-lyrics-emperors.jpg)
 
 ## Songs
 

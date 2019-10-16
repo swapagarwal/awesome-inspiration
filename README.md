@@ -38,7 +38,8 @@
   - The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else's highlight reel. <br> ![](https://i.pinimg.com/originals/46/45/c3/4645c3caec17c4bdb22a4bad231fd16d.jpg)
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://successlive.com/wp-content/uploads/mark-cuban-success-quotes131-758x426.png)
-
+- Marilyn Monroe
+  - I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and, at times, hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best. <br> ![](https://images.gr-assets.com/quotes/1511992603p8/8630.jpg)
 
 ## Songs
 

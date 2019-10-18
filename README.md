@@ -57,6 +57,8 @@
 - [What they don't see is the mountain](https://www.facebook.com/goalcast/videos/1364131340330719)
 - [A clever lesson in self-worth](https://www.facebook.com/diply/videos/1453994404678917)
 - [It all starts from within](https://www.facebook.com/philippinesreportcom/videos/1908189436175704)
+- [Arnold Schwarzenegger 2018 - The speech that broke the internet](https://www.youtube.com/watch?v=u_ktRTWMX3M)
+
 
 
 <details><summary>Hindi</summary>

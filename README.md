@@ -39,7 +39,7 @@
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://successlive.com/wp-content/uploads/mark-cuban-success-quotes131-758x426.png)
 - Mahatma Gandhi
-  - Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength.. <br> ![](https://i.ytimg.com/vi/aq2XqaPqQuE/maxresdefault.jpg) 
+  - Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength. <br> ![](https://i.ytimg.com/vi/aq2XqaPqQuE/maxresdefault.jpg) 
 
 
 ## Songs

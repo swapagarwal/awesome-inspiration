@@ -38,6 +38,8 @@
   - The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else's highlight reel. <br> ![](https://i.pinimg.com/originals/46/45/c3/4645c3caec17c4bdb22a4bad231fd16d.jpg)
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://successlive.com/wp-content/uploads/mark-cuban-success-quotes131-758x426.png)
+- C.S. Lewis
+  - You can't go back and change the beginning, but you can start where you are and change the ending. <br> ![](https://i.pinimg.com/originals/b1/60/95/b16095ff6800621d8b7161abfe365b87.jpg)
 
 
 ## Songs

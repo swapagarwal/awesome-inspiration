@@ -38,6 +38,8 @@
   - The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else's highlight reel. <br> ![](https://i.pinimg.com/originals/46/45/c3/4645c3caec17c4bdb22a4bad231fd16d.jpg)
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://successlive.com/wp-content/uploads/mark-cuban-success-quotes131-758x426.png)
+- Barbara Streisand
+  - I arrived in Hollywood without having my nose fixed, my teeth capped, or my name changed. That is very gratifying to me. <br> ![](https://www.azquotes.com/picture-quotes/quote-i-arrived-in-hollywood-without-having-my-nose-fixed-my-teeth-capped-or-my-name-changed-barbra-streisand-28-60-81.jpg)
 
 
 ## Songs

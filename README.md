@@ -38,6 +38,8 @@
   - The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else's highlight reel. <br> ![](https://i.pinimg.com/originals/46/45/c3/4645c3caec17c4bdb22a4bad231fd16d.jpg)
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://successlive.com/wp-content/uploads/mark-cuban-success-quotes131-758x426.png)
+- Kim Namjoon
+  - Maybe I made a mistake yesterday, but yesterday’s me is still me. I am who I am today, with all my faults. Tomorrow I might be a tiny bit wiser, and that’s me, too. These faults and mistakes are what I am, making up the brightest stars in the constellation of my life. I have come to love myself for who I was, who I am, and who I hope to become. (...) Like most people, I made many mistakes in my life. I have many faults and I have many fears, but I am going to embrace myself as hard as I can, and I’m starting to love myself, little by little. <br> ![](https://thebite.aisb.ro/wp-content/uploads/Namjoon-UN.jpg)
 
 
 ## Songs
@@ -57,6 +59,7 @@
 - [What they don't see is the mountain](https://www.facebook.com/goalcast/videos/1364131340330719)
 - [A clever lesson in self-worth](https://www.facebook.com/diply/videos/1453994404678917)
 - [It all starts from within](https://www.facebook.com/philippinesreportcom/videos/1908189436175704)
+- [The full speech that RM of BTS gave at the United Nations](https://www.youtube.com/watch?v=ZhJ-LAQ6e_Y)
 
 
 <details><summary>Hindi</summary>

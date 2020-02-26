@@ -39,6 +39,9 @@
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://successlive.com/wp-content/uploads/mark-cuban-success-quotes131-758x426.png)
 
+- C.S. Lewis
+  - You are never too old to set another goal or to dream a new dream! <br> ![](https://images.app.goo.gl/twU5weYMDgdMms4b7)
+
 
 ## Songs
 

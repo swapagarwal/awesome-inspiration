@@ -10,6 +10,7 @@
 - [Quotes](#quotes)
 - [Songs](#songs)
 - [Videos](#videos)
+- [Books](#Books)
 
 
 ## Movies
@@ -67,6 +68,11 @@
 </details>
 
 
+## Books
+
+- Think And Grow Rich [Wikipedia](https://en.wikipedia.org/wiki/Think_and_Grow_Rich)
+- The Power Of Habit [Wikipedia](https://en.wikipedia.org/wiki/The_Power_of_Habit)
+- As a man thinketh [Wikipedia](https://en.wikipedia.org/wiki/As_a_Man_Thinketh)
 ## Contributing
 
 Feel free to open an issue (or even better, send a Pull Request) for expanding this list. Contributions are very welcome!! 😄

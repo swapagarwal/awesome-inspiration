@@ -10,6 +10,7 @@
 - [Quotes](#quotes)
 - [Songs](#songs)
 - [Videos](#videos)
+- [books](#books)
 
 
 ## Movies
@@ -67,6 +68,8 @@
 </details>
 
 
+## Books
+-[Atomic Habits by James Clear] (https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/)
 ## Contributing
 
 Feel free to open an issue (or even better, send a Pull Request) for expanding this list. Contributions are very welcome!! 😄

@@ -38,6 +38,8 @@
   - The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else's highlight reel. <br> ![](https://i.pinimg.com/originals/46/45/c3/4645c3caec17c4bdb22a4bad231fd16d.jpg)
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://successlive.com/wp-content/uploads/mark-cuban-success-quotes131-758x426.png)
+- Anonymous
+  - Your only limit is your mind <br> ![](https://i.pinimg.com/564x/c4/c2/31/c4c231de76cb2f420b5bb09ba62ca6f0.jpg)
 
 
 ## Songs

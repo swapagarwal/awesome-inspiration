@@ -48,6 +48,7 @@
 | Don't You Worry Child | [YouTube](https://www.youtube.com/watch?v=1y6smkh6c-0) | [Wikipedia](https://en.wikipedia.org/wiki/Don%27t_You_Worry_Child) | [Lyrics](https://www.azlyrics.com/lyrics/swedishhousemafia/dontyouworrychild.html) |
 | Remember the Name | [YouTube](https://www.youtube.com/watch?v=VDvr08sCPOc) | [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Name) | [Lyrics](https://www.azlyrics.com/lyrics/fortminor/rememberthename.html) |
 | We are the Champions | [YouTube](https://www.youtube.com/watch?v=04854XqcfCY&ab) | [Wikipedia](https://en.wikipedia.org/wiki/We_Are_the_Champions) | [Lyrics](https://www.azlyrics.com/lyrics/queen/wearethechampions.html) |
+| Not Afraid| [YouTube](https://www.youtube.com/watch?v=j5-yKhDd64s) | [Wikipedia](https://en.wikipedia.org/wiki/Not_Afraid) | [Lyrics](https://www.azlyrics.com/lyrics/eminem/notafraid.html) |
 
 
 ## Videos

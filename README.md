@@ -39,7 +39,7 @@
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://successlive.com/wp-content/uploads/mark-cuban-success-quotes131-758x426.png)
 - Kobe Bryant
-  - If you are afraid to fail, you're probably going to fail.<br>![] (https://addicted2success.com/wp-content/uploads/2016/01/Kobe-Bryant-2.jpg)
+  - If you are afraid to fail, you're probably going to fail.<br> ![](https://addicted2success.com/wp-content/uploads/2016/01/Kobe-Bryant-2.jpg)
 
 ## Songs
 

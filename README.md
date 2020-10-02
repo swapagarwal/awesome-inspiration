@@ -38,7 +38,8 @@
   - The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else's highlight reel. <br> ![](https://i.pinimg.com/originals/46/45/c3/4645c3caec17c4bdb22a4bad231fd16d.jpg)
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://successlive.com/wp-content/uploads/mark-cuban-success-quotes131-758x426.png)
-
+- Bob Ross
+  - As long as you are learning you are not failing. <br> ![](https://www.brianhousand.com/uploads/2/4/2/8/2428164/767912407_orig.jpg)
 
 ## Songs
 
@@ -57,6 +58,7 @@
 - [What they don't see is the mountain](https://www.facebook.com/goalcast/videos/1364131340330719)
 - [A clever lesson in self-worth](https://www.facebook.com/diply/videos/1453994404678917)
 - [It all starts from within](https://www.facebook.com/philippinesreportcom/videos/1908189436175704)
+- [Against All Odds by Elon Musk](https://www.youtube.com/watch?v=k9zTr2MAFRg)
 
 
 <details><summary>Hindi</summary>

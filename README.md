@@ -26,6 +26,7 @@
 ## Posts
 
 - [Nobody’s going to help you. It’s all up to you.](https://sivers.org/up2you)
+- [Good students find questions, not answers](https://lemire.me/blog/2020/09/07/good-students-find-questions-not-answers/)
 
 
 ## Quotes

@@ -57,14 +57,16 @@
 - [What they don't see is the mountain](https://www.facebook.com/goalcast/videos/1364131340330719)
 - [A clever lesson in self-worth](https://www.facebook.com/diply/videos/1453994404678917)
 - [It all starts from within](https://www.facebook.com/philippinesreportcom/videos/1908189436175704)
-
+- [Entrepreneur Fearless Motivation](https://www.youtube.com/watch?v=3AkjzDHuWKM)
 
 <details><summary>Hindi</summary>
 
 - <a href="https://www.facebook.com/hrithikroshan/videos/10156426479529407" target="_blank">Don't fear... fear</a><br>
 - <a href="https://www.facebook.com/BuddyBits/videos/1997502376986459" target="_blank">Never lose hope. Universe will make it happen. 🙂</a><br>
 - <a href="https://www.youtube.com/watch?v=6agY0okQiAg" target="_blank">WHY SMILING CAN CHANGE YOUR LIFE by Gaur Gopal Das</a>
+- <a href="<a href="https://www.youtube.com/watch?v=6agY0okQiAg" target="_blank">Who is Entrepreneur? </a>" target="_blank"></a>
 </details>
+
 
 
 ## Contributing

@@ -40,6 +40,8 @@
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://successlive.com/wp-content/uploads/mark-cuban-success-quotes131-758x426.png)
 - Muhammad Ali
   - I hated every minute of training, but I said, ‘Don’t quit. Suffer now and live the rest of your life a champion. <br> ![](https://www.fearlessmotivation.com/wp-content/uploads/2017/08/ali-athlete-quotes-1024x536.jpg)
+- Mahatma Gandhi
+  - In a gentle way, you can shake the world. <br> ![](https://1zl13gzmcsu3l9yq032yyf51-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/Mahatma-Gandhi-quote-In-a-gentle-way-you-can-shake-the-world-1068x561.jpg)
 
 ## Songs
 

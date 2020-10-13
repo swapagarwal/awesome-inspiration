@@ -38,6 +38,8 @@
   - The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else's highlight reel. <br> ![](https://i.pinimg.com/originals/46/45/c3/4645c3caec17c4bdb22a4bad231fd16d.jpg)
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://successlive.com/wp-content/uploads/mark-cuban-success-quotes131-758x426.png)
+- Stephen Hawking
+  - However difficult life may seem, There is always something you can do and succeed at. <br> ![](https://https://www.lottoland.co.uk/cms/599aa02b0eb35823c1d8df10/quotes-motivational-hawking.jpg)
 
 
 ## Songs
@@ -47,6 +49,7 @@
 | Hall of Fame | [YouTube](https://www.youtube.com/watch?v=mk48xRzuNvA) | [Wikipedia](https://en.wikipedia.org/wiki/Hall_of_Fame_(song)) | [Lyrics](https://www.azlyrics.com/lyrics/script/halloffame.html) |
 | Don't You Worry Child | [YouTube](https://www.youtube.com/watch?v=1y6smkh6c-0) | [Wikipedia](https://en.wikipedia.org/wiki/Don%27t_You_Worry_Child) | [Lyrics](https://www.azlyrics.com/lyrics/swedishhousemafia/dontyouworrychild.html) |
 | Remember the Name | [YouTube](https://www.youtube.com/watch?v=VDvr08sCPOc) | [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Name) | [Lyrics](https://www.azlyrics.com/lyrics/fortminor/rememberthename.html) |
+| Never Say Never | [YouTube](https://www.youtube.com/watch?v=_Z5-P9v3F8w) | [Wikipedia](https://en.wikipedia.org/wiki/Justin_Bieber:_Never_Say_Never) | [Lyrics](https://www.azlyrics.com/lyrics/justinbieber/neversaynever.html) |
 
 
 ## Videos

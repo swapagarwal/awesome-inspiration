@@ -47,6 +47,7 @@
 | Hall of Fame | [YouTube](https://www.youtube.com/watch?v=mk48xRzuNvA) | [Wikipedia](https://en.wikipedia.org/wiki/Hall_of_Fame_(song)) | [Lyrics](https://www.azlyrics.com/lyrics/script/halloffame.html) |
 | Don't You Worry Child | [YouTube](https://www.youtube.com/watch?v=1y6smkh6c-0) | [Wikipedia](https://en.wikipedia.org/wiki/Don%27t_You_Worry_Child) | [Lyrics](https://www.azlyrics.com/lyrics/swedishhousemafia/dontyouworrychild.html) |
 | Remember the Name | [YouTube](https://www.youtube.com/watch?v=VDvr08sCPOc) | [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Name) | [Lyrics](https://www.azlyrics.com/lyrics/fortminor/rememberthename.html) |
+| Firework | [YouTube](https://www.youtube.com/watch?v=QGJuMBdaqIw&list=PLTd6y4Jz24ge-OoGMjwFK8mGq7PoZ1jPg&index=11&t=0s) | [Wikipedia](https://en.wikipedia.org/wiki/Firework_(song)) | [Lyrics](https://genius.com/Katy-perry-firework-lyrics) |
 
 
 ## Videos

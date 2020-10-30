@@ -40,6 +40,7 @@
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://successlive.com/wp-content/uploads/mark-cuban-success-quotes131-758x426.png)
 
 
+
 ## Songs
 
 |  | YouTube | Wikipedia | Lyrics |
@@ -57,7 +58,8 @@
 - [What they don't see is the mountain](https://www.facebook.com/goalcast/videos/1364131340330719)
 - [A clever lesson in self-worth](https://www.facebook.com/diply/videos/1453994404678917)
 - [It all starts from within](https://www.facebook.com/philippinesreportcom/videos/1908189436175704)
-
+- [The next outbreak? We’re not ready | Speech by- Bill Gates](https://www.youtube.com/watch?v=6Af6b_wyiwI)
+- [Bill Gates Harvard Commencement Address 2007 ](https://www.youtube.com/watch?v=zPx5N6Lh3sw)
 
 <details><summary>Hindi</summary>
 

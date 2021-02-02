@@ -10,6 +10,7 @@
 - [Quotes](#quotes)
 - [Songs](#songs)
 - [Videos](#videos)
+- [Books](#books)
 
 
 ## Movies
@@ -57,6 +58,12 @@
 - [What they don't see is the mountain](https://www.facebook.com/goalcast/videos/1364131340330719)
 - [A clever lesson in self-worth](https://www.facebook.com/diply/videos/1453994404678917)
 - [It all starts from within](https://www.facebook.com/philippinesreportcom/videos/1908189436175704)
+
+## Books
+
+- [David Goggins - Can't Hurt Me: Master Your Mind and Defy the Odds](https://davidgoggins.com/book/)
+- [Charles Duhigg - Smarter, Faster, Better: The Secrets of Being Productive in Life and Business](https://charlesduhigg.com/books/smarter-faster-better/)
+- [Arnold Schwarzenegger - Total Recall: My Unbelievably True Life Story](http://www.schwarzenegger.com/totalrecall)
 
 
 <details><summary>Hindi</summary>

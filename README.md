@@ -35,7 +35,7 @@
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://successlive.com/wp-content/uploads/mark-cuban-success-quotes131-758x426.png)
 - John Jhonson
-  - First solve the problem, Then write the code. <br> ![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f46b6766445899.5b1697fb1b195.jpg)
+  - First Solve the problem, Then write the code. <br> ![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f46b6766445899.5b1697fb1b195.jpg)
 
 ## Songs
 

@@ -38,6 +38,8 @@
   - The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else's highlight reel. <br> ![](https://i.pinimg.com/originals/46/45/c3/4645c3caec17c4bdb22a4bad231fd16d.jpg)
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://successlive.com/wp-content/uploads/mark-cuban-success-quotes131-758x426.png)
+- APJ Abdul Kalam
+  - There is a divine power that looks over us, that gently lifts us from our sadness and miseries.If we open our minds and let it, it will guide us to our true place .Release yourself from the bindings that limit you and let that power overtake your mind,and that's when you will be on the road to true happiness and peace.
 
 
 ## Songs

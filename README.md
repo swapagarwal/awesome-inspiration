@@ -59,6 +59,8 @@
 - [What they don't see is the mountain](https://www.facebook.com/goalcast/videos/1364131340330719)
 - [A clever lesson in self-worth](https://www.facebook.com/diply/videos/1453994404678917)
 - [It all starts from within](https://www.facebook.com/philippinesreportcom/videos/1908189436175704)
+- [Algorithms and Data Structures](https://www.youtube.com/watch?v=8hly31xKli0&list=WL&index=93)
+ 
 
 
 <details><summary>Hindi</summary>

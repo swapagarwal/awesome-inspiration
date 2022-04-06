@@ -14,7 +14,7 @@
 
 ## Movies
 
-- The Pursuit of Happyness [IMDb](https://www.imdb.com/title/tt0454921/) [Wikipedia](https://en.wikipedia.org/wiki/The_Pursuit_of_Happyness)
+- The Pursuit of Happyness [IMDb](https://www.imdb.com/title/tt045492ar1/) [Wikipedia](https://en.wikipedia.org/wiki/The_Pursuit_of_Happyness)
   - [Basketball Scene](https://www.youtube.com/watch?v=dPEdwaLQLag) Don't ever let somebody tell you... You can't do something. Not even me. All right? You got a dream... You gotta protect it. People can't do somethin' themselves, they wanna tell you you can't do it. If you want somethin', go get it. Period.
   - [Ending Scene](https://www.youtube.com/watch?v=x8-7mHT9edg) This part of my life... this part right here? This is called "happyness."
 - Facing the Giants [IMDb](https://www.imdb.com/title/tt0805526/) [Wikipedia](https://en.wikipedia.org/wiki/Facing_the_Giants)
@@ -26,6 +26,8 @@
 ## Posts
 
 - [Nobody’s going to help you. It’s all up to you.](https://sivers.org/up2you)
+
+- Failure is not the opposite of success. It is part of success!
 
 
 ## Quotes

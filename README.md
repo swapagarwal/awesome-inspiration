@@ -57,6 +57,7 @@
 - [What they don't see is the mountain](https://www.facebook.com/goalcast/videos/1364131340330719)
 - [A clever lesson in self-worth](https://www.facebook.com/diply/videos/1453994404678917)
 - [It all starts from within](https://www.facebook.com/philippinesreportcom/videos/1908189436175704)
+- [The Egg- A short story](https://www.youtube.com/watch?v=h6fcK_fRYaI)
 
 
 <details><summary>Hindi</summary>

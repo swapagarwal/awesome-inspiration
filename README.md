@@ -9,6 +9,7 @@
 - [Quotes](#quotes)
 - [Songs](#songs)
 - [Videos](#videos)
+- [Books](#books)
 
 ## Movies
 
@@ -92,6 +93,16 @@
 - [Professor Ndubuisi Ekekwe Inspiring Africans at The Tony Elumelu Foundation Program 2017](https://youtu.be/_WYoQgdZxkI)
 - [It all starts from within](https://www.facebook.com/philippinesreportcom/videos/1908189436175704)
 - [The poetry of programming, Linda Liukas](https://youtu.be/-jRREn6ifEQ)
+
+
+## Books
+
+- Screw It Lets Do It: Lessons in Life, by Richard Branson
+- The Art of Happiness, by Dalai Lama
+- The Magic of Thinking Big, by David J Schwartz
+- Don’t Sweat the Small Stuff, by Richard Carlson
+- The Gifts of Imperfection, by Brene Brown
+
 
 
 <details><summary>Hindi</summary>

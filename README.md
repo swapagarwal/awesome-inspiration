@@ -71,6 +71,7 @@
 | Walk                             | [YouTube](https://youtu.be/4PkcfQtibmU)                | [Wikipedia](https://en.wikipedia.org/wiki/Walk_(Foo_Fighters_song))               | [Lyrics](https://www.azlyrics.com/lyrics/foofighters/walk.html) |
 | Whatever It Takes                | [YouTube](https://www.youtube.com/watch?v=gOsM-DYAEhY) | [Wikipedia](https://en.wikipedia.org/wiki/Whatever_It_Takes_(Imagine_Dragons_song)) | [Lyrics](https://www.azlyrics.com/lyrics/imaginedragons/whateverittakes.html) |
 | Imagine                          | [YouTube](https://youtu.be/XLgYAHHkPFs)                | [Wikipedia](https://en.wikipedia.org/wiki/Imagine_(John_Lennon_song))             | [Lyrics](https://www.azlyrics.com/lyrics/johnlennon/imagine.html) |
+| Miracles                         | [YouTube](https://www.youtube.com/watch?v=z9BPMjL44Aw) | [Wikipedia](https://en.wikipedia.org/wiki/Miracles_(Coldplay_song))               | [Lyrics](https://genius.com/Coldplay-miracles-someone-special-lyrics) |
 
 
 ## Videos
@@ -82,7 +83,7 @@
 - [A clever lesson in self-worth](https://www.facebook.com/diply/videos/1453994404678917)
 - [Professor Ndubuisi Ekekwe Inspiring Africans at The Tony Elumelu Foundation Program 2017](https://youtu.be/_WYoQgdZxkI)
 - [It all starts from within](https://www.facebook.com/philippinesreportcom/videos/1908189436175704)
-- [The poetry of programming | Linda Liukas] (https://youtu.be/-jRREn6ifEQ)
+- [The poetry of programming | Linda Liukas](https://youtu.be/-jRREn6ifEQ)
 
 <details><summary>Hindi</summary>
 

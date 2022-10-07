@@ -60,6 +60,7 @@
 | Hall of Fame | [YouTube](https://www.youtube.com/watch?v=mk48xRzuNvA) | [Wikipedia](https://en.wikipedia.org/wiki/Hall_of_Fame_(song)) | [Lyrics](https://www.azlyrics.com/lyrics/script/halloffame.html) |
 | Don't You Worry Child | [YouTube](https://www.youtube.com/watch?v=1y6smkh6c-0) | [Wikipedia](https://en.wikipedia.org/wiki/Don%27t_You_Worry_Child) | [Lyrics](https://www.azlyrics.com/lyrics/swedishhousemafia/dontyouworrychild.html) |
 | Remember the Name | [YouTube](https://www.youtube.com/watch?v=VDvr08sCPOc) | [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Name) | [Lyrics](https://www.azlyrics.com/lyrics/fortminor/rememberthename.html) |
+| Firework | [YouTube](https://www.youtube.com/watch?v=QGJuMBdaqIw&list=PLTd6y4Jz24ge-OoGMjwFK8mGq7PoZ1jPg&index=11) | [Wikipedia](https://en.wikipedia.org/wiki/Firework_(song)) | [Lyrics](https://genius.com/Katy-perry-firework-lyrics) |
 | Dream On | [YouTube](https://www.youtube.com/watch?v=qzTZ76vhnKk) | [Wikipedia](https://en.wikipedia.org/wiki/Dream_On_(Aerosmith_song)) | [Lyrics](https://www.azlyrics.com/lyrics/aerosmith/dreamon.html) |
 | Wind of Change | [YouTube](https://youtu.be/n4RjJKxsamQ) | [Wikipedia](https://en.wikipedia.org/wiki/Wind_of_Change_(Scorpions_song)) | [Lyrics](https://www.azlyrics.com/lyrics/scorpions/windofchange.html) |
 | We Are The Champions | [YouTube](https://youtu.be/04854XqcfCY) | [Wikipedia](https://en.wikipedia.org/wiki/We_Are_the_Champions) | [Lyrics](https://www.azlyrics.com/lyrics/queen/wearethechampions.html) |
@@ -71,6 +72,7 @@
 | Walk | [YouTube](https://youtu.be/4PkcfQtibmU) | [Wikipedia](https://en.wikipedia.org/wiki/Walk_(Foo_Fighters_song)) | [Lyrics](https://www.azlyrics.com/lyrics/foofighters/walk.html) |
 | Whatever It Takes | [YouTube](https://www.youtube.com/watch?v=gOsM-DYAEhY) | [Wikipedia](https://en.wikipedia.org/wiki/Whatever_It_Takes_(Imagine_Dragons_song)) [Lyrics](https://www.azlyrics.com/lyrics/imaginedragons/whateverittakes.html) |
 | Imagine | [YouTube](https://youtu.be/XLgYAHHkPFs) | [Wikipedia](https://en.wikipedia.org/wiki/Imagine_(John_Lennon_song)) [Lyrics](https://www.azlyrics.com/lyrics/johnlennon/imagine.html) |
+
 
 
 ## Videos

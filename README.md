@@ -45,6 +45,8 @@
   - You feel good, you feel bad, and these feelings are bubbling from your own unconsciousness, from your own past. Nobody is responsible except you. Nobody can make you angry, and nobody can make you happy.
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://succeedfeed.com/wp-content/uploads/2016/12/mark-cuban-quote-work-like-24.jpg)
+- Rick Warren
+  - True humility is not thinking less of yourself; it is thinking of yourself less.
 - Ir. Soekarno
   - Rose <b>never</b> propagandize its fragnant, but its own fragnant spreads through its surrounding. <br> ![](https://www.azquotes.com/picture-quotes/quote-rose-never-propagandize-its-fragrant-but-its-own-fragrance-spreads-through-its-surrounding-sukarno-109-63-43.jpg)
 - David Goggins

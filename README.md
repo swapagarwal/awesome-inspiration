@@ -26,18 +26,31 @@
 ## Posts
 
 - [Nobody’s going to help you. It’s all up to you.](https://sivers.org/up2you)
+- [Elon Musk: Success Story](https://www.investopedia.com/university/elon-musk-biography/elon-musk-success-story.asp)
 
 
 ## Quotes
 
 - Michael Jordan
-  - I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed. <br> ![](https://callingdreams.com/wp-content/uploads/2016/02/Michael-Jordan-Quote-1.jpg)
+  - I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed. <br> ![](https://www.azquotes.com/picture-quotes/quote-i-ve-missed-more-than-9000-shots-in-my-career-i-ve-lost-almost-300-games-26-times-i-michael-jordan-15-6-0618.jpg)
 - Will Smith
   - The only thing that I see that is distinctly different about me is I'm not afraid to die on a treadmill. I will not be out-worked, period. You might have more talent than me, you might be smarter than me, you might be sexier than me, you might be all of those things you got it on me in nine categories. But if we get on the treadmill together, there's two things: You're getting off first, or I'm going to die. It's really that simple, right? <br> ![](https://image.slidesharecdn.com/pppt-willsmith-140925035833-phpapp01/95/will-smith-quotes-9-638.jpg?cb=1411617693)
 - Steven Furtick
   - The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else's highlight reel. <br> ![](https://i.pinimg.com/originals/46/45/c3/4645c3caec17c4bdb22a4bad231fd16d.jpg)
+- Dr. Seuss
+  - Sometimes the questions are complicated and the answers are simple.
+- Rabindranath Tagore 
+  - You can't cross the sea merely by standing and staring at the water.
+- George Bernard Shaw
+  -  Life isn't about finding yourself. Life is about creating yourself. -0-
+- Sadhguru 
+  - If you resist change, you resist life.
+- Osho  
+  - You feel good, you feel bad, and these feelings are bubbling from your own unconsciousness, from your own past. Nobody is responsible except you. Nobody can make you angry, and nobody can make you happy.
 - Mark Cuban
-  - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://successlive.com/wp-content/uploads/mark-cuban-success-quotes131-758x426.png)
+  - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://succeedfeed.com/wp-content/uploads/2016/12/mark-cuban-quote-work-like-24.jpg)
+- Jimmy Dean
+  - I can’t change the direction of the wind, but I can adjust my sails to always reach my destination. <br> ![](http://www.power-living.com/blog/wp-content/uploads/2014/10/JimmyDeanSailcflatJ.jpg)
 
 
 ## Songs
@@ -47,7 +60,19 @@
 | Hall of Fame | [YouTube](https://www.youtube.com/watch?v=mk48xRzuNvA) | [Wikipedia](https://en.wikipedia.org/wiki/Hall_of_Fame_(song)) | [Lyrics](https://www.azlyrics.com/lyrics/script/halloffame.html) |
 | Don't You Worry Child | [YouTube](https://www.youtube.com/watch?v=1y6smkh6c-0) | [Wikipedia](https://en.wikipedia.org/wiki/Don%27t_You_Worry_Child) | [Lyrics](https://www.azlyrics.com/lyrics/swedishhousemafia/dontyouworrychild.html) |
 | Remember the Name | [YouTube](https://www.youtube.com/watch?v=VDvr08sCPOc) | [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Name) | [Lyrics](https://www.azlyrics.com/lyrics/fortminor/rememberthename.html) |
-| Firework | [YouTube](https://www.youtube.com/watch?v=QGJuMBdaqIw&list=PLTd6y4Jz24ge-OoGMjwFK8mGq7PoZ1jPg&index=11&t=0s) | [Wikipedia](https://en.wikipedia.org/wiki/Firework_(song)) | [Lyrics](https://genius.com/Katy-perry-firework-lyrics) |
+| Firework | [YouTube](https://www.youtube.com/watch?v=QGJuMBdaqIw&list=PLTd6y4Jz24ge-OoGMjwFK8mGq7PoZ1jPg&index=11) | [Wikipedia](https://en.wikipedia.org/wiki/Firework_(song)) | [Lyrics](https://genius.com/Katy-perry-firework-lyrics) |
+| Dream On | [YouTube](https://www.youtube.com/watch?v=qzTZ76vhnKk) | [Wikipedia](https://en.wikipedia.org/wiki/Dream_On_(Aerosmith_song)) | [Lyrics](https://www.azlyrics.com/lyrics/aerosmith/dreamon.html) |
+| Wind of Change | [YouTube](https://youtu.be/n4RjJKxsamQ) | [Wikipedia](https://en.wikipedia.org/wiki/Wind_of_Change_(Scorpions_song)) | [Lyrics](https://www.azlyrics.com/lyrics/scorpions/windofchange.html) |
+| We Are The Champions | [YouTube](https://youtu.be/04854XqcfCY) | [Wikipedia](https://en.wikipedia.org/wiki/We_Are_the_Champions) | [Lyrics](https://www.azlyrics.com/lyrics/queen/wearethechampions.html) |
+| Eye of the Tiger | [YouTube](https://youtu.be/btPJPFnesV4) | [Wikipedia](https://en.wikipedia.org/wiki/Eye_of_the_Tiger) | [Lyrics](https://www.azlyrics.com/lyrics/survivor/eyeofthetiger.html) |
+| In The Air Tonight | [YouTube](https://youtu.be/gZrcUDRUBjw) | [Wikipedia](https://en.wikipedia.org/wiki/In_the_Air_Tonight) | [Lyrics](https://www.azlyrics.com/lyrics/philcollins/intheairtonight.html) |
+| Drive | [YouTube](https://youtu.be/fgT9zGkiLig) | [Wikipedia](https://en.wikipedia.org/wiki/Drive_(Incubus_song)) | [Lyrics](https://www.azlyrics.com/lyrics/incubus/drive.html) |
+| Beautiful Day | [YouTube](https://youtu.be/co6WMzDOh1o) | [Wikipedia](https://en.wikipedia.org/wiki/Beautiful_Day) | [Lyrics](https://www.azlyrics.com/lyrics/u2band/beautifulday.html) |
+| I Feel Good [YouTube](https://youtu.be/SzlpTRNIAvc) | [Wikipedia](https://en.wikipedia.org/wiki/I_Got_You_(I_Feel_Good)) | [Lyrics](https://www.azlyrics.com/lyrics/jamesbrown/igotyouifeelgood.html) |
+| Walk | [YouTube](https://youtu.be/4PkcfQtibmU) | [Wikipedia](https://en.wikipedia.org/wiki/Walk_(Foo_Fighters_song)) | [Lyrics](https://www.azlyrics.com/lyrics/foofighters/walk.html) |
+| Whatever It Takes | [YouTube](https://www.youtube.com/watch?v=gOsM-DYAEhY) | [Wikipedia](https://en.wikipedia.org/wiki/Whatever_It_Takes_(Imagine_Dragons_song)) [Lyrics](https://www.azlyrics.com/lyrics/imaginedragons/whateverittakes.html) |
+| Imagine | [YouTube](https://youtu.be/XLgYAHHkPFs) | [Wikipedia](https://en.wikipedia.org/wiki/Imagine_(John_Lennon_song)) [Lyrics](https://www.azlyrics.com/lyrics/johnlennon/imagine.html) |
+
 
 
 ## Videos
@@ -57,7 +82,9 @@
 - [This is what Peter Dinklage walked away from, to become Tyrion Lannister](https://www.facebook.com/goalcast/videos/1487480434662475)
 - [What they don't see is the mountain](https://www.facebook.com/goalcast/videos/1364131340330719)
 - [A clever lesson in self-worth](https://www.facebook.com/diply/videos/1453994404678917)
+- [Professor Ndubuisi Ekekwe Inspiring Africans at The Tony Elumelu Foundation Program 2017](https://youtu.be/_WYoQgdZxkI)
 - [It all starts from within](https://www.facebook.com/philippinesreportcom/videos/1908189436175704)
+- [The poetry of programming | Linda Liukas] (https://youtu.be/-jRREn6ifEQ)
 
 
 <details><summary>Hindi</summary>

@@ -2,7 +2,6 @@
 
 > 🔥 A curated list of content worth sharing to help you get inspired! ⚡️
 
-
 ## Contents
 
 - [Movies](#movies)
@@ -11,7 +10,6 @@
 - [Songs](#songs)
 - [Videos](#videos)
 
-
 ## Movies
 
 - The Pursuit of Happyness [IMDb](https://www.imdb.com/title/tt0454921/) [Wikipedia](https://en.wikipedia.org/wiki/The_Pursuit_of_Happyness)
@@ -19,15 +17,13 @@
   - [Ending Scene](https://www.youtube.com/watch?v=x8-7mHT9edg) This part of my life... this part right here? This is called "happyness."
 - Facing the Giants [IMDb](https://www.imdb.com/title/tt0805526/) [Wikipedia](https://en.wikipedia.org/wiki/Facing_the_Giants)
   - [The Death Crawl Scene](https://www.youtube.com/watch?v=-sUKoKQlEC4) The scene where the football coach gets the most influential player on the team to do a blind-fold crawl, so that he would not know how far he could go, while carrying a teammate on his back. The coach pushes him with extreme motivation and tells him to never quit. Even when the player yells it hurts, the coach yells "let it!". The player finally drops and he has made it all the way to the end zone, where the coach tells him how important it is for an influential individual to lead by example.
-- Rocky Balboa [IMDb](https://www.imdb.com/title/tt0479143/) [Wikipedia](https://en.wikipedia.org/wiki/Rocky_Balboa_(film))
+- Rocky Balboa [IMDb](https://www.imdb.com/title/tt0479143/) [Wikipedia](<https://en.wikipedia.org/wiki/Rocky_Balboa_(film)>)
   - [Inspirational Speech](https://www.youtube.com/watch?v=D_Vg4uyYwEk) Let me tell you something you already know. The world ain't all sunshine and rainbows. It's a very mean and nasty place and I don't care how tough you are it will beat you to your knees and keep you there permanently if you let it. You, me, or nobody is gonna hit as hard as life. But it ain't about how hard you hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward. That's how winning is done! Now if you know what you're worth then go out and get what you're worth. But ya gotta be willing to take the hits, and not pointing fingers saying you ain't where you wanna be because of him, or her, or anybody! Cowards do that and that ain't you! You're better than that!
-
 
 ## Posts
 
 - [Nobody’s going to help you. It’s all up to you.](https://sivers.org/up2you)
 - [Elon Musk: Success Story](https://www.investopedia.com/university/elon-musk-biography/elon-musk-success-story.asp)
-
 
 ## Quotes
 
@@ -52,27 +48,27 @@
 - Jimmy Dean
   - I can’t change the direction of the wind, but I can adjust my sails to always reach my destination. <br> ![](http://www.power-living.com/blog/wp-content/uploads/2014/10/JimmyDeanSailcflatJ.jpg)
 
-
 ## Songs
 
-| Song Name | YouTube | Wikipedia | Lyrics |
-|--|:-------:|:---------:|:------:|
-| Hall of Fame | [YouTube](https://www.youtube.com/watch?v=mk48xRzuNvA) | [Wikipedia](https://en.wikipedia.org/wiki/Hall_of_Fame_(song)) | [Lyrics](https://www.azlyrics.com/lyrics/script/halloffame.html) |
-| Don't You Worry Child | [YouTube](https://www.youtube.com/watch?v=1y6smkh6c-0) | [Wikipedia](https://en.wikipedia.org/wiki/Don%27t_You_Worry_Child) | [Lyrics](https://www.azlyrics.com/lyrics/swedishhousemafia/dontyouworrychild.html) |
-| Remember the Name | [YouTube](https://www.youtube.com/watch?v=VDvr08sCPOc) | [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Name) | [Lyrics](https://www.azlyrics.com/lyrics/fortminor/rememberthename.html) |
-| This is Me (The Reimagined Remix)| [YouTube](https://www.youtube.com/watch?v=NziAZIxb3lg) | [Lyrics](https://genius.com/Keala-settle-kesha-and-missy-elliott-this-is-me-the-reimagined-remix-lyrics) |
-| Firework | [YouTube](https://www.youtube.com/watch?v=QGJuMBdaqIw&list=PLTd6y4Jz24ge-OoGMjwFK8mGq7PoZ1jPg&index=11) | [Wikipedia](https://en.wikipedia.org/wiki/Firework_(song)) | [Lyrics](https://genius.com/Katy-perry-firework-lyrics) |
-| Dream On | [YouTube](https://www.youtube.com/watch?v=qzTZ76vhnKk) | [Wikipedia](https://en.wikipedia.org/wiki/Dream_On_(Aerosmith_song)) | [Lyrics](https://www.azlyrics.com/lyrics/aerosmith/dreamon.html) |
-| Wind of Change | [YouTube](https://youtu.be/n4RjJKxsamQ) | [Wikipedia](https://en.wikipedia.org/wiki/Wind_of_Change_(Scorpions_song)) | [Lyrics](https://www.azlyrics.com/lyrics/scorpions/windofchange.html) |
-| We Are The Champions | [YouTube](https://youtu.be/04854XqcfCY) | [Wikipedia](https://en.wikipedia.org/wiki/We_Are_the_Champions) | [Lyrics](https://www.azlyrics.com/lyrics/queen/wearethechampions.html) |
-| Eye of the Tiger | [YouTube](https://youtu.be/btPJPFnesV4) | [Wikipedia](https://en.wikipedia.org/wiki/Eye_of_the_Tiger) | [Lyrics](https://www.azlyrics.com/lyrics/survivor/eyeofthetiger.html) |
-| In The Air Tonight | [YouTube](https://youtu.be/gZrcUDRUBjw) | [Wikipedia](https://en.wikipedia.org/wiki/In_the_Air_Tonight) | [Lyrics](https://www.azlyrics.com/lyrics/philcollins/intheairtonight.html) |
-| Drive | [YouTube](https://youtu.be/fgT9zGkiLig) | [Wikipedia](https://en.wikipedia.org/wiki/Drive_(Incubus_song)) | [Lyrics](https://www.azlyrics.com/lyrics/incubus/drive.html) |
-| Beautiful Day | [YouTube](https://youtu.be/co6WMzDOh1o) | [Wikipedia](https://en.wikipedia.org/wiki/Beautiful_Day) | [Lyrics](https://www.azlyrics.com/lyrics/u2band/beautifulday.html) |
-| I Feel Good [YouTube](https://youtu.be/SzlpTRNIAvc) | [Wikipedia](https://en.wikipedia.org/wiki/I_Got_You_(I_Feel_Good)) | [Lyrics](https://www.azlyrics.com/lyrics/jamesbrown/igotyouifeelgood.html) |
-| Walk | [YouTube](https://youtu.be/4PkcfQtibmU) | [Wikipedia](https://en.wikipedia.org/wiki/Walk_(Foo_Fighters_song)) | [Lyrics](https://www.azlyrics.com/lyrics/foofighters/walk.html) |
-| Whatever It Takes | [YouTube](https://www.youtube.com/watch?v=gOsM-DYAEhY) | [Wikipedia](https://en.wikipedia.org/wiki/Whatever_It_Takes_(Imagine_Dragons_song)) [Lyrics](https://www.azlyrics.com/lyrics/imaginedragons/whateverittakes.html) |
-| Imagine | [YouTube](https://youtu.be/XLgYAHHkPFs) | [Wikipedia](https://en.wikipedia.org/wiki/Imagine_(John_Lennon_song)) [Lyrics](https://www.azlyrics.com/lyrics/johnlennon/imagine.html) |
+| Song Name                        |                        YouTube                         |                                      Wikipedia                                    |                                       Lyrics                                       |
+| -------------------------------  | :----------------------------------------------------: | :-------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
+| Hall of Fame                     | [YouTube](https://www.youtube.com/watch?v=mk48xRzuNvA) |          [Wikipedia](https://en.wikipedia.org/wiki/Hall_of_Fame_(song))           |          [Lyrics](https://www.azlyrics.com/lyrics/script/halloffame.html)          |
+| Don't You Worry Child            | [YouTube](https://www.youtube.com/watch?v=1y6smkh6c-0) |         [Wikipedia](https://en.wikipedia.org/wiki/Don%27t_You_Worry_Child)        | [Lyrics](https://www.azlyrics.com/lyrics/swedishhousemafia/dontyouworrychild.html) |
+| Remember the Name                | [YouTube](https://www.youtube.com/watch?v=VDvr08sCPOc) |            [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Name)           |      [Lyrics](https://www.azlyrics.com/lyrics/fortminor/rememberthename.html)      |
+| Macklemore x Ryan Lewis "WINGS"  | [YouTube](https://www.youtube.com/watch?v=gAg3uMlNyHA) | [Wikipedia](https://en.wikipedia.org/wiki/Wings_(Macklemore_%26_Ryan_Lewis_song)) |          [Lyrics](https://www.azlyrics.com/lyrics/macklemore/wings.html)           |
+| This is Me (The Reimagined Remix)| [YouTube](https://www.youtube.com/watch?v=NziAZIxb3lg) | missing |  [Lyrics](https://genius.com/Keala-settle-kesha-and-missy-elliott-this-is-me-the-reimagined-remix-lyrics) |
+| Firework                         | [YouTube](https://www.youtube.com/watch?v=QGJuMBdaqIw&list=PLTd6y4Jz24ge-OoGMjwFK8mGq7PoZ1jPg&index=11) | [Wikipedia](https://en.wikipedia.org/wiki/Firework_(song)) | [Lyrics](https://genius.com/Katy-perry-firework-lyrics) |
+| Dream On                         | [YouTube](https://www.youtube.com/watch?v=qzTZ76vhnKk) | [Wikipedia](https://en.wikipedia.org/wiki/Dream_On_(Aerosmith_song))              | [Lyrics](https://www.azlyrics.com/lyrics/aerosmith/dreamon.html) |
+| Wind of Change                   | [YouTube](https://youtu.be/n4RjJKxsamQ)                | [Wikipedia](https://en.wikipedia.org/wiki/Wind_of_Change_(Scorpions_song))        | [Lyrics](https://www.azlyrics.com/lyrics/scorpions/windofchange.html) |
+| We Are The Champions             | [YouTube](https://youtu.be/04854XqcfCY)                | [Wikipedia](https://en.wikipedia.org/wiki/We_Are_the_Champions)                   | [Lyrics](https://www.azlyrics.com/lyrics/queen/wearethechampions.html) |
+| Eye of the Tiger                 | [YouTube](https://youtu.be/btPJPFnesV4)                | [Wikipedia](https://en.wikipedia.org/wiki/Eye_of_the_Tiger)                       | [Lyrics](https://www.azlyrics.com/lyrics/survivor/eyeofthetiger.html) |
+| In The Air Tonight               | [YouTube](https://youtu.be/gZrcUDRUBjw)                | [Wikipedia](https://en.wikipedia.org/wiki/In_the_Air_Tonight)                     | [Lyrics](https://www.azlyrics.com/lyrics/philcollins/intheairtonight.html) |
+| Drive                            | [YouTube](https://youtu.be/fgT9zGkiLig)                | [Wikipedia](https://en.wikipedia.org/wiki/Drive_(Incubus_song))                   | [Lyrics](https://www.azlyrics.com/lyrics/incubus/drive.html) |
+| Beautiful Day                    | [YouTube](https://youtu.be/co6WMzDOh1o)                | [Wikipedia](https://en.wikipedia.org/wiki/Beautiful_Day)                          | [Lyrics](https://www.azlyrics.com/lyrics/u2band/beautifulday.html) |
+| I Feel Good                      | [YouTube](https://youtu.be/SzlpTRNIAvc)                | [Wikipedia](https://en.wikipedia.org/wiki/I_Got_You_(I_Feel_Good))                | [Lyrics](https://www.azlyrics.com/lyrics/jamesbrown/igotyouifeelgood.html) |
+| Walk                             | [YouTube](https://youtu.be/4PkcfQtibmU)                | [Wikipedia](https://en.wikipedia.org/wiki/Walk_(Foo_Fighters_song))               | [Lyrics](https://www.azlyrics.com/lyrics/foofighters/walk.html) |
+| Whatever It Takes                | [YouTube](https://www.youtube.com/watch?v=gOsM-DYAEhY) | [Wikipedia](https://en.wikipedia.org/wiki/Whatever_It_Takes_(Imagine_Dragons_song)) | [Lyrics](https://www.azlyrics.com/lyrics/imaginedragons/whateverittakes.html) |
+| Imagine                          | [YouTube](https://youtu.be/XLgYAHHkPFs)                | [Wikipedia](https://en.wikipedia.org/wiki/Imagine_(John_Lennon_song))             | [Lyrics](https://www.azlyrics.com/lyrics/johnlennon/imagine.html) |
 
 
 ## Videos
@@ -86,14 +82,12 @@
 - [It all starts from within](https://www.facebook.com/philippinesreportcom/videos/1908189436175704)
 - [The poetry of programming | Linda Liukas] (https://youtu.be/-jRREn6ifEQ)
 
-
 <details><summary>Hindi</summary>
 
 - <a href="https://www.facebook.com/hrithikroshan/videos/10156426479529407" target="_blank">Don't fear... fear</a><br>
 - <a href="https://www.facebook.com/BuddyBits/videos/1997502376986459" target="_blank">Never lose hope. Universe will make it happen. 🙂</a><br>
 - <a href="https://www.youtube.com/watch?v=6agY0okQiAg" target="_blank">WHY SMILING CAN CHANGE YOUR LIFE by Gaur Gopal Das</a>
-</details>
-
+  </details>
 
 ## Contributing
 
@@ -101,7 +95,6 @@ Feel free to open an issue (or even better, send a Pull Request) for expanding t
 
 <a href="https://www.buymeacoffee.com/swap" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 <a href="https://www.patreon.com/bePatron?u=7999565" target="_blank"><img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patron!" height="41"></a>
-
 
 ## License
 

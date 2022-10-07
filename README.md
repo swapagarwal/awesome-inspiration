@@ -46,6 +46,8 @@
   - You feel good, you feel bad, and these feelings are bubbling from your own unconsciousness, from your own past. Nobody is responsible except you. Nobody can make you angry, and nobody can make you happy.
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://succeedfeed.com/wp-content/uploads/2016/12/mark-cuban-quote-work-like-24.jpg)
+- Jürgen Klopp
+  - I lost the last six finals I was in. They were hardly the best days of my life, but they didn't make me a broken person. For me, life is about trying again and again. <br> ![](https://pbs.twimg.com/media/D8NkGYHXkAApBgg.jpg)
 - Bruce Lee
   - Empty your mind, be formless, shapeless — like water. Now you put water in a cup, it becomes the cup; You put water into a bottle it becomes the bottle; You put it in a teapot it becomes the teapot. Now water can flow or it can crash. Be water, my friend. 
 - Socrates

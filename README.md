@@ -115,6 +115,7 @@
 - The Magic of Thinking Big, by David J Schwartz
 - Don’t Sweat the Small Stuff, by Richard Carlson
 - The Gifts of Imperfection, by Brene Brown
+- A Thousand Splendid Suns, by Khaled Hosseini
 
 ## Contributing
 

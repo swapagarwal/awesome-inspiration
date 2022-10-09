@@ -64,6 +64,13 @@
   - Most people who are criticizing and judging haven't even tried what you failed at. <br> ![]()
 - Jimmy Dean
   - I can’t change the direction of the wind, but I can adjust my sails to always reach my destination. <br> ![](http://www.power-living.com/blog/wp-content/uploads/2014/10/JimmyDeanSailcflatJ.jpg)
+- Dr.APJ Abdul Kalam
+  - You have to dream before your dreams can come true.
+  - A dream is not that which you see while sleeping, it is something that does not let you sleep.
+  - If you want to shine like a sun, first burn like a sun.
+  - Dream, dream, dream. Dreams transform into thoughts and thoughts result in action
+  - If you fail, never give up because Fail means “First Attempt In Learning".
+  - Failure will never overtake me if my determination to succeed is strong enough.
 
 ## Songs
 
@@ -115,6 +122,7 @@
 - The Magic of Thinking Big, by David J Schwartz
 - Don’t Sweat the Small Stuff, by Richard Carlson
 - The Gifts of Imperfection, by Brene Brown
+- Wings of Fire by Dr.APJ Abdul Kalam
 
 ## Contributing
 

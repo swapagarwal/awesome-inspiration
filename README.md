@@ -41,7 +41,7 @@
 - Rabindranath Tagore 
   - You can't cross the sea merely by standing and staring at the water.
 - George Bernard Shaw
-  -  Life isn't about finding yourself. Life is about creating yourself. -0-
+  -  Life isn't about finding yourself. Life is about creating yourself.
 - Sadhguru 
   - If you resist change, you resist life.
 - Osho  

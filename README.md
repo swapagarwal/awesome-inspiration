@@ -36,10 +36,12 @@
   - The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else's highlight reel. <br> ![](https://i.pinimg.com/originals/46/45/c3/4645c3caec17c4bdb22a4bad231fd16d.jpg)
 - Dr. Seuss
   - Sometimes the questions are complicated and the answers are simple.
+- John Henry Newman
+  - To live is to change, and to be perfect is to have changed often.
 - Rabindranath Tagore 
   - You can't cross the sea merely by standing and staring at the water.
 - George Bernard Shaw
-  -  Life isn't about finding yourself. Life is about creating yourself. -0-
+  -  Life isn't about finding yourself. Life is about creating yourself.
 - Sadhguru 
   - If you resist change, you resist life.
 - Osho  

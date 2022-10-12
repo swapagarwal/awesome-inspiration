@@ -55,7 +55,7 @@
 - Jürgen Klopp
   - I lost the last six finals I was in. They were hardly the best days of my life, but they didn't make me a broken person. For me, life is about trying again and again. <br> ![](https://pbs.twimg.com/media/D8NkGYHXkAApBgg.jpg)
 - Bruce Lee
-  - Empty your mind, be formless, shapeless — like water. Now you put water in a cup, it becomes the cup; You put water into a bottle it becomes the bottle; You put it in a teapot it becomes the teapot. Now water can flow or it can crash. Be water, my friend. 
+  - Empty your mind, be formless, shapeless — like water. Now you put water in a cup, it becomes the cup; You put water into a bottle it becomes the bottle; You put it in a teapot it becomes the teapot. Now water can flow or it can crash. Be water, my friend. <br> ![](https://themindsjournal.com/wp-content/uploads/2020/11/Empty-your-mind-be-formless-shapeless-like-water-1.jpg)
 - Socrates
   - I cannot teach anybody anything, I can only make them think. <br> ![](https://live.staticflickr.com/5759/23059484096_7b09e7ae1f_b.jpg)
 - Rick Warren

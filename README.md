@@ -50,6 +50,8 @@
   - You feel good, you feel bad, and these feelings are bubbling from your own unconsciousness, from your own past. Nobody is responsible except you. Nobody can make you angry, and nobody can make you happy.
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://succeedfeed.com/wp-content/uploads/2016/12/mark-cuban-quote-work-like-24.jpg)
+- Albert Einstein
+  - The true sign of intelligence is not knowledge, but imagination. <br> ![](https://i.pinimg.com/originals/6e/80/95/6e8095fa4b9f7d54ba4f812028f3bc64.jpg)
 - Edwin Markham
   - For all the days prepare, and meet them ever alike. When you are the anvil, bear. When you are the hammer, strike. <br> ![](https://www.azquotes.com/picture-quotes/quote-for-all-your-days-be-prepared-and-meet-them-ever-alike-when-you-are-the-anvil-bear-when-edwin-markham-18-74-84.jpg)
 - Mark Twain

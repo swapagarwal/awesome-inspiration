@@ -74,6 +74,8 @@
   - I can’t change the direction of the wind, but I can adjust my sails to always reach my destination. <br> ![](http://www.power-living.com/blog/wp-content/uploads/2014/10/JimmyDeanSailcflatJ.jpg)
 - Akshata Gunapache
   - Some stranger somewhere still remembers you because you were kind to them when no one else was. Be kind and spread love. <br> ![]()
+-Ecclesiastes 9:10
+  - Whatever your hand finds to do, do it with all your might <br>
 
 ## Songs
 

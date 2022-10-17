@@ -50,6 +50,8 @@
   - You feel good, you feel bad, and these feelings are bubbling from your own unconsciousness, from your own past. Nobody is responsible except you. Nobody can make you angry, and nobody can make you happy.
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://succeedfeed.com/wp-content/uploads/2016/12/mark-cuban-quote-work-like-24.jpg)
+- Stephen Hawking
+  - However difficult life may seem, There is always something you can do and succeed at. <br> ![](https://www.azquotes.com/picture-quotes/quote-however-difficult-life-may-seem-there-is-always-something-you-can-do-and-succeed-at-stephen-hawking-80-99-68.jpg)
 - Albert Einstein
   - The true sign of intelligence is not knowledge, but imagination. <br> ![](https://i.pinimg.com/originals/6e/80/95/6e8095fa4b9f7d54ba4f812028f3bc64.jpg)
 - Edwin Markham
@@ -100,6 +102,7 @@
 | Imagine                          | [YouTube](https://youtu.be/XLgYAHHkPFs)                | [Wikipedia](https://en.wikipedia.org/wiki/Imagine_(John_Lennon_song))             | [Lyrics](https://www.azlyrics.com/lyrics/johnlennon/imagine.html)                  |
 | Miracles                         | [YouTube](https://www.youtube.com/watch?v=z9BPMjL44Aw) | [Wikipedia](https://en.wikipedia.org/wiki/Miracles_(Coldplay_song))               | [Lyrics](https://genius.com/Coldplay-miracles-someone-special-lyrics)              |
 | Inhale Positivity                | [YouTube](https://www.youtube.com/watch?v=xxpJVgwd88U) | [Wikipedia](https://en.wikipedia.org/wiki/Inhale_Positivity)                      | [Lyrics](https://www.lyrics.com/lyric/27607414/Inhale+Positivity)                  |
+| Never Say Never                  | [YouTube](https://www.youtube.com/watch?v=_Z5-P9v3F8w) | [Wikipedia](https://en.wikipedia.org/wiki/Justin_Bieber:_Never_Say_Never)         | [Lyrics](https://www.azlyrics.com/lyrics/justinbieber/neversaynever.html)          |
 
 ## Videos
 

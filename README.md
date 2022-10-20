@@ -82,6 +82,8 @@
   - Some stranger somewhere still remembers you because you were kind to them when no one else was. Be kind and spread love. <br> ![]()
 - Ecclesiastes 9:10
   - Whatever your hand finds to do, do it with all your might <br>
+- Bill Gates
+  - It's fine to celebrate success, but it is more important to heed the lessons of failure. <br> ![](https://www.azquotes.com/picture-quotes/quote-it-s-fine-to-celebrate-success-but-it-is-more-important-to-heed-the-lessons-of-failure-bill-gates-10-73-17.jpg)
 
 ## Songs
 

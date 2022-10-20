@@ -50,6 +50,10 @@
   - You feel good, you feel bad, and these feelings are bubbling from your own unconsciousness, from your own past. Nobody is responsible except you. Nobody can make you angry, and nobody can make you happy.
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://succeedfeed.com/wp-content/uploads/2016/12/mark-cuban-quote-work-like-24.jpg)
+- Muhammad Ali
+  - I hated every minute of training, but I said, ‘Don’t quit. Suffer now and live the rest of your life a champion. <br> ![](https://www.fearlessmotivation.com/wp-content/uploads/2017/08/ali-athlete-quotes-1024x536.jpg)
+- Mahatma Gandhi
+  - In a gentle way, you can shake the world. <br> ![](https://www.azquotes.com/picture-quotes/quote-in-a-gentle-way-you-can-shake-the-world-mahatma-gandhi-10-58-52.jpg)
 - Stephen Hawking
   - However difficult life may seem, There is always something you can do and succeed at. <br> ![](https://www.azquotes.com/picture-quotes/quote-however-difficult-life-may-seem-there-is-always-something-you-can-do-and-succeed-at-stephen-hawking-80-99-68.jpg)
 - Albert Einstein

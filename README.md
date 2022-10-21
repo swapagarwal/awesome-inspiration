@@ -123,6 +123,7 @@
 - [Professor Ndubuisi Ekekwe Inspiring Africans at The Tony Elumelu Foundation Program 2017](https://youtu.be/_WYoQgdZxkI)
 - [It all starts from within](https://www.facebook.com/philippinesreportcom/videos/1908189436175704)
 - [The poetry of programming, Linda Liukas](https://youtu.be/-jRREn6ifEQ)
+- [Learn coding easily] (https://youtu.be/R2pIutTspQA)
 
 <details><summary>Hindi</summary>
 

@@ -84,6 +84,8 @@
   - Some stranger somewhere still remembers you because you were kind to them when no one else was. Be kind and spread love. <br> ![]()
 - Ecclesiastes 9:10
   - Whatever your hand finds to do, do it with all your might <br>
+- Syed Ahmad Khan
+  - The duties required of you now are:Develop a sound sense of discipline,character <br>  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Syed_Ahmad_Khan_1907.jpg/220px-Syed_Ahmad_Khan_1907.jpg)
 
 ## Songs
 

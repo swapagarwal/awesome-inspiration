@@ -64,6 +64,8 @@
   - For all the days prepare, and meet them ever alike. When you are the anvil, bear. When you are the hammer, strike. <br> ![](https://www.azquotes.com/picture-quotes/quote-for-all-your-days-be-prepared-and-meet-them-ever-alike-when-you-are-the-anvil-bear-when-edwin-markham-18-74-84.jpg)
 - Mark Twain
   - The two most important days in your life are the day you are born and the day you find out why.<br> ![](https://static.boredpanda.com/blog/wp-content/uploads/2019/04/famous-people-inspiring-quotes-3b-5cb43958baf96__700.jpg)
+  - - Quaid-e-Azam
+  - Muhammad Ali Jinnah was a barrister, politician and the founder of Pakistan<br> ![]([https://static.boredpanda.com/blog/wp-content/uploads/2019/04/famous-people-inspiring-quotes-3b-5cb43958baf96__700.jpg](https://parepjeddah.b-cdn.net/wp-content/uploads/2020/10/Quaid-e-Azam-Muhammad-Ali-Jinnah.png))
 - William Shakespeare
   - No legacy is so rich as honesty. <br> ![](https://pbs.twimg.com/media/CvZATfpUIAEg_7i.jpg)
 - Jürgen Klopp

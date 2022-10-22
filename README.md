@@ -84,6 +84,8 @@
   - Some stranger somewhere still remembers you because you were kind to them when no one else was. Be kind and spread love. <br> ![]()
 - Ecclesiastes 9:10
   - Whatever your hand finds to do, do it with all your might <br>
+  -  Imran Khan
+  - Leaders leads people. Leaders does not follow public openion. <br> ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwvVWsGiPDA_aoUnZFqzmiDdIPUGhFRtoQsxoZ9p-w&s)
 
 ## Songs
 

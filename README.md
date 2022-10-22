@@ -138,6 +138,8 @@
 - The Magic of Thinking Big, by David J Schwartz
 - Don’t Sweat the Small Stuff, by Richard Carlson
 - The Gifts of Imperfection, by Brene Brown
+- The 7 Habits of Highly Effective People, by Stephen Covey
+
 
 ## Contributing
 

@@ -115,6 +115,8 @@
 | Miracles                         | [YouTube](https://www.youtube.com/watch?v=z9BPMjL44Aw) | [Wikipedia](https://en.wikipedia.org/wiki/Miracles_(Coldplay_song))               | [Lyrics](https://genius.com/Coldplay-miracles-someone-special-lyrics)              |
 | Inhale Positivity                | [YouTube](https://www.youtube.com/watch?v=xxpJVgwd88U) | [Wikipedia](https://en.wikipedia.org/wiki/Inhale_Positivity)                      | [Lyrics](https://www.lyrics.com/lyric/27607414/Inhale+Positivity)                  |
 | Never Say Never                  | [YouTube](https://www.youtube.com/watch?v=_Z5-P9v3F8w) | [Wikipedia](https://en.wikipedia.org/wiki/Justin_Bieber:_Never_Say_Never)         | [Lyrics](https://www.azlyrics.com/lyrics/justinbieber/neversaynever.html)          |
+| 'Till I Collapse                 | [YouTube](https://youtu.be/Pi3_Zs-oRUo)                | [Wikipedia](https://en.wikipedia.org/wiki/%27Till_I_Collapse)                     | [Lyrics](https://genius.com/Eminem-till-i-collapse-lyrics)                         |
+| Don't Stop Me Now                | [YouTube](https://youtu.be/HgzGwKwLmgM)                | [Wikipedia](https://en.wikipedia.org/wiki/Don't_Stop_Me_Now)                      | [Lyrics](https://genius.com/Queen-dont-stop-me-now-lyrics)                         |
 
 ## Videos
 

@@ -117,6 +117,7 @@
 | Never Say Never                  | [YouTube](https://www.youtube.com/watch?v=_Z5-P9v3F8w) | [Wikipedia](https://en.wikipedia.org/wiki/Justin_Bieber:_Never_Say_Never)         | [Lyrics](https://www.azlyrics.com/lyrics/justinbieber/neversaynever.html)          |
 | 'Till I Collapse                 | [YouTube](https://youtu.be/Pi3_Zs-oRUo)                | [Wikipedia](https://en.wikipedia.org/wiki/%27Till_I_Collapse)                     | [Lyrics](https://genius.com/Eminem-till-i-collapse-lyrics)                         |
 | Don't Stop Me Now                | [YouTube](https://youtu.be/HgzGwKwLmgM)                | [Wikipedia](https://en.wikipedia.org/wiki/Don't_Stop_Me_Now)                      | [Lyrics](https://genius.com/Queen-dont-stop-me-now-lyrics)                         |
+| Try Everything                   | [YouTube](https://www.youtube.com/watch?v=c6rP-YP4c5I) | [Wikipedia](https://en.wikipedia.org/wiki/Try_Everything)                         | [Lyrics](https://www.azlyrics.com/lyrics/shakira/tryeverything.html)               |
 
 ## Videos
 

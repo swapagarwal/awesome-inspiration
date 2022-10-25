@@ -89,6 +89,8 @@
   - Some stranger somewhere still remembers you because you were kind to them when no one else was. Be kind and spread love. <br> ![]()
 - Ecclesiastes 9:10
   - Whatever your hand finds to do, do it with all your might <br>
+- Stephen King
+  - The scariest moment is always right before you start. <br> ![](https://i.pinimg.com/originals/98/a5/d1/98a5d1b0767ccacba01411552213cc92.jpg)
 
 ## Songs
 

@@ -93,6 +93,8 @@
   - Whatever your hand finds to do, do it with all your might <br>
 - Stephen King
   - The scariest moment is always right before you start. <br> ![](https://i.pinimg.com/originals/98/a5/d1/98a5d1b0767ccacba01411552213cc92.jpg)
+- Steve Jobs
+  - Your time is limited. Don't waste it living someone else's life. <br> ![](https://fossbytes.com/wp-content/uploads/2017/02/steve.png)
 
 ## Songs
 

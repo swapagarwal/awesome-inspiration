@@ -55,6 +55,8 @@
   - You feel good, you feel bad, and these feelings are bubbling from your own unconsciousness, from your own past. Nobody is responsible except you. Nobody can make you angry, and nobody can make you happy.
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://succeedfeed.com/wp-content/uploads/2016/12/mark-cuban-quote-work-like-24.jpg)
+- Keanu Reeves
+  - You have to change your life if you're not happy, and wake up if things aren't going the way you want. <br> ![](https://www.azquotes.com/vangogh-image-quotes/85/92/Quotation-Keanu-Reeves-You-have-to-change-your-life-if-you-re-not-85-92-94.jpg)
 - Muhammad Ali
   - I hated every minute of training, but I said, ‘Don’t quit. Suffer now and live the rest of your life a champion. <br> ![](https://www.fearlessmotivation.com/wp-content/uploads/2017/08/ali-athlete-quotes-1024x536.jpg)
 - Mahatma Gandhi

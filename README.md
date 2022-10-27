@@ -104,6 +104,8 @@
   - Your time is limited. Don't waste it living someone else's life. <br> ![](https://fossbytes.com/wp-content/uploads/2017/02/steve.png)
 - Hellen Keller
   - Life is either a daring adventure, or nothing at all. <br> ![](https://www.azquotes.com/picture-quotes/quote-life-is-a-daring-adventure-or-nothing-helen-keller-53-8-0856.jpg)
+- Winston Churchill
+  - Attitude is a little thing thats makes a big difference.
 
 ## Songs
 

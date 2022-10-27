@@ -100,6 +100,8 @@
   - The scariest moment is always right before you start. <br> ![](https://i.pinimg.com/originals/98/a5/d1/98a5d1b0767ccacba01411552213cc92.jpg)
 - Steve Jobs
   - Your time is limited. Don't waste it living someone else's life. <br> ![](https://fossbytes.com/wp-content/uploads/2017/02/steve.png)
+- Hellen Keller
+  - Life is either a daring adventure, or nothing at all. <br> ![](https://www.azquotes.com/picture-quotes/quote-life-is-a-daring-adventure-or-nothing-helen-keller-53-8-0856.jpg)
 
 ## Songs
 

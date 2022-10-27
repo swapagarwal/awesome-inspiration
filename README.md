@@ -133,6 +133,7 @@
 | Don't Stop Me Now                | [YouTube](https://youtu.be/HgzGwKwLmgM)                | [Wikipedia](https://en.wikipedia.org/wiki/Don't_Stop_Me_Now)                      | [Lyrics](https://genius.com/Queen-dont-stop-me-now-lyrics)                         |
 | Try Everything                   | [YouTube](https://www.youtube.com/watch?v=c6rP-YP4c5I) | [Wikipedia](https://en.wikipedia.org/wiki/Try_Everything)                         | [Lyrics](https://www.azlyrics.com/lyrics/shakira/tryeverything.html)               |
 | Mi Gente                         | [YouTube](https://www.youtube.com/watch?v=wnJ6LuUFpMo) | [Wikipedia](https://en.wikipedia.org/wiki/Mi_Gente_(J_Balvin_and_Willy_William_song)) | [Lyrics](https://www.lyrics.com/lyric/34169008/Willy+William/Mi+Gente)         |
+| We Will Recover                  | [Youtube](https://www.youtube.com/watch?v=XHC3O1bwTzk) | [Wikipedia](https://de.wikipedia.org/wiki/Kaaze)                                  | [Lyrics](https://www.musixmatch.com/lyrics/Kaaze-Michael-Feiner/We-Will-Recover)   |
 
 ## Videos
 

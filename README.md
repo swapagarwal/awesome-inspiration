@@ -137,6 +137,7 @@
 | Mi Gente                         | [YouTube](https://www.youtube.com/watch?v=wnJ6LuUFpMo) | [Wikipedia](https://en.wikipedia.org/wiki/Mi_Gente_(J_Balvin_and_Willy_William_song)) | [Lyrics](https://www.lyrics.com/lyric/34169008/Willy+William/Mi+Gente)         |
 | We Will Recover                  | [Youtube](https://www.youtube.com/watch?v=XHC3O1bwTzk) | [Wikipedia](https://de.wikipedia.org/wiki/Kaaze)                                  | [Lyrics](https://www.musixmatch.com/lyrics/Kaaze-Michael-Feiner/We-Will-Recover)   |
 | Fight back                       | [Youtube](https://youtu.be/CYDP_8UTAus)                | [Wikipedia](https://en.wikipedia.org/wiki/Neffex)                                 | [Lyrics](https://www.azlyrics.com/lyrics/neffex/fightback.html)                    |
+| Make Moves                       | [Youtube](https://www.youtube.com/watch?v=N10D8LZKWr8) | [Wikipedia](https://en.wikipedia.org/wiki/Neffex)                                 | [Lyrics](https://www.azlyrics.com/lyrics/neffex/makemoves.html)                    |
 
 ## Videos
 
@@ -157,7 +158,7 @@
 - <a href="https://www.facebook.com/hrithikroshan/videos/10156426479529407" target="_blank">Don't fear... fear</a><br>
 - <a href="https://www.facebook.com/BuddyBits/videos/1997502376986459" target="_blank">Never lose hope. Universe will make it happen. 🙂</a><br>
 - <a href="https://www.youtube.com/watch?v=6agY0okQiAg" target="_blank">WHY SMILING CAN CHANGE YOUR LIFE by Gaur Gopal Das</a>
-  </details>
+</details>
 
 ## Books
 

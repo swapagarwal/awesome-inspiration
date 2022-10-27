@@ -146,6 +146,7 @@
 - [A clever lesson in self-worth](https://www.facebook.com/diply/videos/1453994404678917)
 - [Professor Ndubuisi Ekekwe Inspiring Africans at The Tony Elumelu Foundation Program 2017](https://youtu.be/_WYoQgdZxkI)
 - [It all starts from within](https://www.facebook.com/philippinesreportcom/videos/1908189436175704)
+- [Happiness is a journey not a destination](https://www.youtube.com/watch?v=yYNdhOH-k64)
 - [Arnold Schwarzenegger 2018 - The speech that broke the internet](https://www.youtube.com/watch?v=u_ktRTWMX3M)
 - [No Excuses](https://www.youtube.com/watch?v=wnHW6o8WMas)
 - [The poetry of programming, Linda Liukas](https://youtu.be/-jRREn6ifEQ)

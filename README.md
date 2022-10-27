@@ -58,6 +58,8 @@
   - You feel good, you feel bad, and these feelings are bubbling from your own unconsciousness, from your own past. Nobody is responsible except you. Nobody can make you angry, and nobody can make you happy.
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://succeedfeed.com/wp-content/uploads/2016/12/mark-cuban-quote-work-like-24.jpg)
+- Mahatma Gandhi
+  - Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength. <br> ![](https://i.ytimg.com/vi/aq2XqaPqQuE/maxresdefault.jpg) 
 - Albert Einstein
   - Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. <br> ![](https://www.azquotes.com/picture-quotes/quote-learn-from-yesterday-live-for-today-hope-for-tomorrow-the-important-thing-is-not-to-albert-einstein-8-72-83.jpg)
 - Marilyn Monroe

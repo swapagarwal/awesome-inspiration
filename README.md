@@ -26,6 +26,8 @@
   - [Inspirational Speech](https://www.youtube.com/watch?v=oj16vfbsM9A) We’re fighting for our right to live, to exist and should we win the day, the Fourth of July will no longer be known as an American holiday, but as the day when the world declared in one voice, ‘We will not go quietly into the night! We will not vanish without a fight! We’re going to live on, we're going to survive.’ Today we celebrate our Independence Day!
   - The Shawshank Redemption [IMDB](https://www.imdb.com/title/tt0111161/) [Wikipedia](https://en.wikipedia.org/wiki/The_Shawshank_Redemption)
     - [Hope is a good thing](https://youtu.be/DAYXlC59yWs) Hope is a good thing, maybe the best of things, and no good thing ever dies.
+  - Remember the Titans [IMDB](https://www.imdb.com/title/tt0210945/) [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Titans)
+    - [Remember the Titans](https://youtu.be/vVOqoh43L8c) People say that it can't work, black and white. Here, we make it work every day. We still have our disagreements, of course, but before we reach for hate, always, always, we remember the Titans.
 
 ## Posts
 

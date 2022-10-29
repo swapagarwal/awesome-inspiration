@@ -24,6 +24,8 @@
   - [Does it get easier?](https://www.youtube.com/watch?v=eNK7N3AwVFQ) I'm stuck. Does it get easier? Charlotte and Bob lie beside each other in bed while talking about hardships in life and relationships.
 - Independence Day [IMDb](https://www.imdb.com/title/tt0116629/) [Wikipedia](https://en.wikipedia.org/wiki/Independence_Day_(1996_film))
   - [Inspirational Speech](https://www.youtube.com/watch?v=oj16vfbsM9A) We’re fighting for our right to live, to exist and should we win the day, the Fourth of July will no longer be known as an American holiday, but as the day when the world declared in one voice, ‘We will not go quietly into the night! We will not vanish without a fight! We’re going to live on, we're going to survive.’ Today we celebrate our Independence Day!
+  - The Shawshank Redemption [IMDB](https://www.imdb.com/title/tt0111161/) [Wikipedia](https://en.wikipedia.org/wiki/The_Shawshank_Redemption)
+    - [Hope is a good thing](https://youtu.be/DAYXlC59yWs) Hope is a good thing, maybe the best of things, and no good thing ever dies.
 
 ## Posts
 

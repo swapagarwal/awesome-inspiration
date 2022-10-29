@@ -172,6 +172,8 @@
 - Don’t Sweat the Small Stuff, by Richard Carlson
 - The Gifts of Imperfection, by Brene Brown
 - Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, by Ashlee Vance
+- 4 hour work week by Tim Ferris
+- Rich Dad Poor Dad by Robert Kiyosaki
 
 ## Contributing
 

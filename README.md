@@ -24,6 +24,8 @@
   - [Does it get easier?](https://www.youtube.com/watch?v=eNK7N3AwVFQ) I'm stuck. Does it get easier? Charlotte and Bob lie beside each other in bed while talking about hardships in life and relationships.
 - Independence Day [IMDb](https://www.imdb.com/title/tt0116629/) [Wikipedia](https://en.wikipedia.org/wiki/Independence_Day_(1996_film))
   - [Inspirational Speech](https://www.youtube.com/watch?v=oj16vfbsM9A) We’re fighting for our right to live, to exist and should we win the day, the Fourth of July will no longer be known as an American holiday, but as the day when the world declared in one voice, ‘We will not go quietly into the night! We will not vanish without a fight! We’re going to live on, we're going to survive.’ Today we celebrate our Independence Day!
+- Shutter Island [IMDB] (https://www.imdb.com/title/tt1130884/) [Wikipedia] (https://en.wikipedia.org/wiki/Shutter_Island_(film))
+  - [Live as a monster or be a good man] (https://www.youtube.com/watch?v=Z_0TQHoV_2I) They must investigate the disappearance of a patient named Rachel Solando, but Teddy is too preoccupied with memories of his troubled past. His wife and children died under tragic circumstances, and he also served in the war, leaving him with far too many memories he wishes he could forget. Here are ten of the most memorable quotes from this haunting thriller.
 
 ## Posts
 

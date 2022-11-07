@@ -116,6 +116,8 @@
   - Many of life's failures are people who did not realize how close they were to success when they gave up. <br> ![](https://www.azquotes.com/picture-quotes/quote-many-of-life-s-failures-are-people-who-did-not-realize-how-close-they-were-to-success-thomas-a-edison-8-65-00.jpg)
 - Bob Ross
   - As long as you are learning you are not failing. <br> ![](https://www.brianhousand.com/uploads/2/4/2/8/2428164/767912407_orig.jpg)
+- Elon Musk
+  - Persistence is very important. You should not give up unless you are forced to give up. <br> ![](https://www.azquotes.com/picture-quotes/quote-persistence-is-very-important-you-should-not-give-up-unless-you-are-forced-to-give-up-elon-musk-70-56-73.jpg)
 
 ## Songs
 

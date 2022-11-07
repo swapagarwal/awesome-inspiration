@@ -169,6 +169,7 @@
 - [Arnold Schwarzenegger 2018 - The speech that broke the internet](https://www.youtube.com/watch?v=u_ktRTWMX3M)
 - [No Excuses](https://www.youtube.com/watch?v=wnHW6o8WMas)
 - [The poetry of programming, Linda Liukas](https://youtu.be/-jRREn6ifEQ)
+- [Steve Jobs Stanford Commencement Speech "Connect the Dots Speech"](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
 
 <details><summary>Hindi</summary>
 

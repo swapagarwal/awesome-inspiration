@@ -171,7 +171,6 @@
 - [The poetry of programming, Linda Liukas](https://youtu.be/-jRREn6ifEQ)
 - [Steve Jobs Stanford Commencement Speech "Connect the Dots Speech"](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
 
-
 <details><summary>Hindi</summary>
 
 - <a href="https://www.facebook.com/hrithikroshan/videos/10156426479529407" target="_blank">Don't fear... fear</a><br>

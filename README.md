@@ -149,6 +149,8 @@
 | Fight back                       | [Youtube](https://youtu.be/CYDP_8UTAus)                | [Wikipedia](https://en.wikipedia.org/wiki/Neffex)                                 | [Lyrics](https://www.azlyrics.com/lyrics/neffex/fightback.html)                    |
 | Make Moves                       | [Youtube](https://www.youtube.com/watch?v=N10D8LZKWr8) | [Wikipedia](https://en.wikipedia.org/wiki/Neffex)                                 | [Lyrics](https://www.azlyrics.com/lyrics/neffex/makemoves.html)                    |
 | Heading Up High                  | [Youtube](https://www.youtube.com/watch?v=Q2C2V3kac08) | [Wikipedia](https://nl.wikipedia.org/wiki/Heading_Up_High)                        | [Lyrics](https://www.azlyrics.com/lyrics/arminvanbuuren/headinguphigh.html)        |
+| Remember the Name                | [YouTube](https://www.youtube.com/watch?v=VDvr08sCPOc) | [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Name) | [Lyrics](https://www.azlyrics.com/lyrics/fortminor/rememberthename.html)                                |
+| W.A.Y.S.                         | [Youtube] (https://www.youtube.com/watch?v=3H17EqhzLdw)| missing                                                                           | [Lyrics](https://www.azlyrics.com/lyrics/jheneaiko/ways.html)                      |
 
 ## Videos
 

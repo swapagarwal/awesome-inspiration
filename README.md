@@ -41,21 +41,21 @@
 - Will Smith
   - The only thing that I see that is distinctly different about me is I'm not afraid to die on a treadmill. I will not be out-worked, period. You might have more talent than me, you might be smarter than me, you might be sexier than me, you might be all of those things you got it on me in nine categories. But if we get on the treadmill together, there's two things: You're getting off first, or I'm going to die. It's really that simple, right? <br> ![](https://image.slidesharecdn.com/pppt-willsmith-140925035833-phpapp01/95/will-smith-quotes-9-638.jpg?cb=1411617693)
 - Steven Furtick
-  - The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else's highlight reel. <br> ![](https://i.pinimg.com/originals/46/45/c3/4645c3caec17c4bdb22a4bad231fd16d.jpg)
+  - The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else's highlight reel. <br> ![](https://www.azquotes.com/picture-quotes/quote-the-reason-why-we-struggle-with-insecurity-is-because-we-compare-our-behind-the-scenes-steven-furtick-53-16-87.jpg)
 - Steve Jobs
   - Sometimes life is going to hit you in the head with a brick. Don't lose faith <br> ![](https://www.netizenshouse.com/wp-content/uploads/2018/11/stevejobsmostinspiringquotes.jpg)
 - Dr. Seuss
-  - Sometimes the questions are complicated and the answers are simple.
+  - Sometimes the questions are complicated and the answers are simple. <br> ![](https://www.azquotes.com/picture-quotes/quote-sometimes-the-questions-are-complicated-and-the-answers-are-simple-dr-seuss-34-53-98.jpg)
 - John Henry Newman
-  - To live is to change, and to be perfect is to have changed often.
+  - To live is to change, and to be perfect is to have changed often. <br> ![](https://www.azquotes.com/picture-quotes/quote-to-live-is-to-change-and-to-be-perfect-is-to-have-changed-often-john-henry-newman-21-34-43.jpg)
 - Rabindranath Tagore 
-  - You can't cross the sea merely by standing and staring at the water.
+  - You can't cross the sea merely by standing and staring at the water. <br> ![](https://www.azquotes.com/picture-quotes/quote-you-can-t-cross-the-sea-merely-by-standing-and-staring-at-the-water-rabindranath-tagore-28-97-81.jpg)
 - George Bernard Shaw
-  -  Life isn't about finding yourself. Life is about creating yourself.
+  -  Life isn't about finding yourself. Life is about creating yourself. <br> ![](https://www.azquotes.com/picture-quotes/quote-life-isn-t-about-finding-yourself-life-is-about-creating-yourself-george-bernard-shaw-26-83-56.jpg)
 - Sadhguru 
-  - If you resist change, you resist life.
+  - If you resist change, you resist life. <br> ![](https://www.quotes.pics/i/quotes-pictures/10/246-sadhguru-resisting-change-change-ah.jpg)
 - Osho  
-  - You feel good, you feel bad, and these feelings are bubbling from your own unconsciousness, from your own past. Nobody is responsible except you. Nobody can make you angry, and nobody can make you happy.
+  - You feel good, you feel bad, and these feelings are bubbling from your own unconsciousness, from your own past. Nobody is responsible except you. Nobody can make you angry, and nobody can make you happy. <br> ![](https://3.bp.blogspot.com/--ron0U6trh8/VicxLAdWDxI/AAAAAAAAbOw/yuHzh9l1ruY/s1600/DailythoughtFeelgoodbad.png)
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://succeedfeed.com/wp-content/uploads/2016/12/mark-cuban-quote-work-like-24.jpg)
 - William Shakespeare
@@ -81,7 +81,7 @@
 - Mark Twain
   - The two most important days in your life are the day you are born and the day you find out why.<br> ![](https://static.boredpanda.com/blog/wp-content/uploads/2019/04/famous-people-inspiring-quotes-3b-5cb43958baf96__700.jpg)
 - William Shakespeare
-  - No legacy is so rich as honesty. <br> ![](https://pbs.twimg.com/media/CvZATfpUIAEg_7i.jpg)
+  - No legacy is so rich as honesty. <br> ![](https://www.azquotes.com/picture-quotes/quote-no-legacy-is-so-rich-as-honesty-william-shakespeare-26-72-72.jpg)
 - Jürgen Klopp
   - I lost the last six finals I was in. They were hardly the best days of my life, but they didn't make me a broken person. For me, life is about trying again and again. <br> ![](https://pbs.twimg.com/media/D8NkGYHXkAApBgg.jpg)
 - Bruce Lee
@@ -89,30 +89,30 @@
 - Socrates
   - I cannot teach anybody anything, I can only make them think. <br> ![](https://live.staticflickr.com/5759/23059484096_7b09e7ae1f_b.jpg)
 - Rick Warren
-  - True humility is not thinking less of yourself; it is thinking of yourself less.
+  - Humility is not thinking less of yourself; it is thinking of yourself less. Humility is thinking more of others. <br> ![](https://www.azquotes.com/picture-quotes/quote-humility-is-not-thinking-less-of-yourself-it-is-thinking-of-yourself-less-humility-is-rick-warren-44-32-81.jpg)
 - Ir. Soekarno
   - Rose <b>never</b> propagandize its fragnant, but its own fragnant spreads through its surrounding. <br> ![](https://www.azquotes.com/picture-quotes/quote-rose-never-propagandize-its-fragrant-but-its-own-fragrance-spreads-through-its-surrounding-sukarno-109-63-43.jpg)
 - David Goggins
-  - Most people who are criticizing and judging haven't even tried what you failed at. <br> ![]()
+  - Most people who are criticizing and judging haven't even tried what you failed at. <br> ![](https://succedict.com/wp-content/uploads/2020/06/david-goggins-quotes-2-1024x683.jpg?ezimgfmt=ng:webp/ngcb2)
 - Jimmy Dean
   - I can’t change the direction of the wind, but I can adjust my sails to always reach my destination. <br> ![](http://www.power-living.com/blog/wp-content/uploads/2014/10/JimmyDeanSailcflatJ.jpg)
 - Akshata Gunapache
   - Some stranger somewhere still remembers you because you were kind to them when no one else was. Be kind and spread love. <br> ![]()
 - Ecclesiastes 9:10
-  - Whatever your hand finds to do, do it with all your might <br>
+  - Whatever your hand finds to do, do it with all your might <br> ![]()
 - Stephen King
-  - The scariest moment is always right before you start. <br> ![](https://i.pinimg.com/originals/98/a5/d1/98a5d1b0767ccacba01411552213cc92.jpg)
+  - The scariest moment is always right before you start. <br> ![](https://www.azquotes.com/picture-quotes/quote-the-scariest-moment-is-always-just-before-you-start-stephen-king-35-71-97.jpg)
 - Steve Jobs
   - Your time is limited. Don't waste it living someone else's life. <br> ![](https://fossbytes.com/wp-content/uploads/2017/02/steve.png)
 - Hellen Keller
   - Life is either a daring adventure, or nothing at all. <br> ![](https://www.azquotes.com/picture-quotes/quote-life-is-a-daring-adventure-or-nothing-helen-keller-53-8-0856.jpg)
 - Winston Churchill
-  - Attitude is a little thing thats makes a big difference.
+  - Attitude is a little thing thats makes a big difference. <br> ![](https://www.azquotes.com/picture-quotes/quote-attitude-is-a-little-thing-that-makes-a-big-difference-winston-churchill-5-62-96.jpg)
 - C.S. Lewis
-  - You can't go back and change the beginning, but you can start where you are and change the ending. <br> ![](https://i.pinimg.com/originals/b1/60/95/b16095ff6800621d8b7161abfe365b87.jpg)
+  - You can't go back and change the beginning, but you can start where you are and change the ending. <br> ![](https://www.azquotes.com/picture-quotes/quote-you-can-t-go-back-and-change-the-beginning-but-you-can-start-where-you-are-and-change-c-s-lewis-133-40-84.jpg)
 - Richard Branson
   - My biggest motivation? Just to keep challenging myself. I see life almost like one long University education that I never had - every day I'm learning something new. <br> ![](https://www.azquotes.com/picture-quotes/quote-my-biggest-motivation-just-to-keep-challenging-myself-i-see-life-almost-like-one-long-richard-branson-58-29-74.jpg)
-- Thomas A. Edison
+- Thomas Alva Edison
   - Many of life's failures are people who did not realize how close they were to success when they gave up. <br> ![](https://www.azquotes.com/picture-quotes/quote-many-of-life-s-failures-are-people-who-did-not-realize-how-close-they-were-to-success-thomas-a-edison-8-65-00.jpg)
 
 ## Songs

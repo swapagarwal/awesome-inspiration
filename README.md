@@ -112,6 +112,8 @@
   - You can't go back and change the beginning, but you can start where you are and change the ending. <br> ![](https://i.pinimg.com/originals/b1/60/95/b16095ff6800621d8b7161abfe365b87.jpg)
 - Richard Branson
   - My biggest motivation? Just to keep challenging myself. I see life almost like one long University education that I never had - every day I'm learning something new. <br> ![](https://www.azquotes.com/picture-quotes/quote-my-biggest-motivation-just-to-keep-challenging-myself-i-see-life-almost-like-one-long-richard-branson-58-29-74.jpg)
+- Thomas A. Edison
+  - Many of life's failures are people who did not realize how close they were to success when they gave up. <br> ![](https://www.azquotes.com/picture-quotes/quote-many-of-life-s-failures-are-people-who-did-not-realize-how-close-they-were-to-success-thomas-a-edison-8-65-00.jpg)
 
 ## Songs
 

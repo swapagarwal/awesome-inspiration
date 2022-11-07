@@ -114,6 +114,8 @@
   - My biggest motivation? Just to keep challenging myself. I see life almost like one long University education that I never had - every day I'm learning something new. <br> ![](https://www.azquotes.com/picture-quotes/quote-my-biggest-motivation-just-to-keep-challenging-myself-i-see-life-almost-like-one-long-richard-branson-58-29-74.jpg)
 - Thomas Alva Edison
   - Many of life's failures are people who did not realize how close they were to success when they gave up. <br> ![](https://www.azquotes.com/picture-quotes/quote-many-of-life-s-failures-are-people-who-did-not-realize-how-close-they-were-to-success-thomas-a-edison-8-65-00.jpg)
+- Bob Ross
+  - As long as you are learning you are not failing. <br> ![](https://www.brianhousand.com/uploads/2/4/2/8/2428164/767912407_orig.jpg)
 
 ## Songs
 
@@ -170,6 +172,7 @@
 - [No Excuses](https://www.youtube.com/watch?v=wnHW6o8WMas)
 - [The poetry of programming, Linda Liukas](https://youtu.be/-jRREn6ifEQ)
 - [Steve Jobs Stanford Commencement Speech "Connect the Dots Speech"](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
+- [Against All Odds by Elon Musk](https://www.youtube.com/watch?v=k9zTr2MAFRg)
 
 <details><summary>Hindi</summary>
 

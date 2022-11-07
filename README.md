@@ -106,8 +106,10 @@
   - Life is either a daring adventure, or nothing at all. <br> ![](https://www.azquotes.com/picture-quotes/quote-life-is-a-daring-adventure-or-nothing-helen-keller-53-8-0856.jpg)
 - Winston Churchill
   - Attitude is a little thing thats makes a big difference.
-  - C.S. Lewis
+- C.S. Lewis
   - You can't go back and change the beginning, but you can start where you are and change the ending. <br> ![](https://i.pinimg.com/originals/b1/60/95/b16095ff6800621d8b7161abfe365b87.jpg)
+- Richard Branson
+  - My biggest motivation? Just to keep challenging myself. I see life almost like one long University education that I never had - every day I'm learning something new. <br> ![](https://www.azquotes.com/picture-quotes/quote-my-biggest-motivation-just-to-keep-challenging-myself-i-see-life-almost-like-one-long-richard-branson-58-29-74.jpg)
 
 ## Songs
 

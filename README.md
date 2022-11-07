@@ -183,7 +183,7 @@
 - Don’t Sweat the Small Stuff, by Richard Carlson
 - The Gifts of Imperfection, by Brene Brown
 - Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, by Ashlee Vance
-- [Atomic Habits by James Clear] (https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/)
+- [Atomic Habits by James Clear](https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/)
 
 ## Contributing
 

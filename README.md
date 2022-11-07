@@ -58,6 +58,8 @@
   - You feel good, you feel bad, and these feelings are bubbling from your own unconsciousness, from your own past. Nobody is responsible except you. Nobody can make you angry, and nobody can make you happy.
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://succeedfeed.com/wp-content/uploads/2016/12/mark-cuban-quote-work-like-24.jpg)
+- William Shakespeare
+  - It is not in the stars to hold our destiny but in ourselves <br> ![](http://www.maxioms.com/uploads/quotes/r/p_1476293146_28156.jpg)
 - Mahatma Gandhi
   - Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength. <br> ![](https://i.ytimg.com/vi/aq2XqaPqQuE/maxresdefault.jpg) 
 - Albert Einstein
@@ -146,6 +148,7 @@
 | We Will Recover                  | [Youtube](https://www.youtube.com/watch?v=XHC3O1bwTzk) | [Wikipedia](https://de.wikipedia.org/wiki/Kaaze)                                  | [Lyrics](https://www.musixmatch.com/lyrics/Kaaze-Michael-Feiner/We-Will-Recover)   |
 | Fight back                       | [Youtube](https://youtu.be/CYDP_8UTAus)                | [Wikipedia](https://en.wikipedia.org/wiki/Neffex)                                 | [Lyrics](https://www.azlyrics.com/lyrics/neffex/fightback.html)                    |
 | Make Moves                       | [Youtube](https://www.youtube.com/watch?v=N10D8LZKWr8) | [Wikipedia](https://en.wikipedia.org/wiki/Neffex)                                 | [Lyrics](https://www.azlyrics.com/lyrics/neffex/makemoves.html)                    |
+| Heading Up High                  | [Youtube](https://www.youtube.com/watch?v=Q2C2V3kac08) | [Wikipedia](https://nl.wikipedia.org/wiki/Heading_Up_High)                        | [Lyrics](https://www.azlyrics.com/lyrics/arminvanbuuren/headinguphigh.html)        |
 
 ## Videos
 
@@ -156,6 +159,7 @@
 - [A clever lesson in self-worth](https://www.facebook.com/diply/videos/1453994404678917)
 - [Professor Ndubuisi Ekekwe Inspiring Africans at The Tony Elumelu Foundation Program 2017](https://youtu.be/_WYoQgdZxkI)
 - [It all starts from within](https://www.facebook.com/philippinesreportcom/videos/1908189436175704)
+- [How a 13 year old changed 'Impossible' to 'I'm Possible' | Sparsh Shah | TEDxGateway](https://www.youtube.com/watch?v=bC0hlK7WGcM&list=WL&index=9&t=0s)
 - [The true story of Daniel Dejapin. Watch and be inspired.](https://www.youtube.com/watch?v=vGemji4uanU)
 - [Happiness is a journey not a destination](https://www.youtube.com/watch?v=yYNdhOH-k64)
 - [Arnold Schwarzenegger 2018 - The speech that broke the internet](https://www.youtube.com/watch?v=u_ktRTWMX3M)

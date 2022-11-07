@@ -184,6 +184,7 @@
 - The Gifts of Imperfection, by Brene Brown
 - Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, by Ashlee Vance
 - [Atomic Habits by James Clear](https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/)
+- [Unleash Yourself: Become the Champion you have always wanted to be - by Ankush Kotriwal](https://www.goodreads.com/book/show/54560674-unleash-yourself)
 
 ## Contributing
 

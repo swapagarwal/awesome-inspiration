@@ -129,6 +129,8 @@
   - Never let the fear of striking out, keep you from playing the game. <br> ![](https://i5.walmartimages.com/asr/594bbd04-237a-4903-8219-4a965b3bf7a6.8cf9ce46f02aea1317617849eb594970.jpeg)
 - John Johnson
   - First, solve the problem. Then, write the code. <br> ![](https://nitter.pussthecat.org/pic/orig/media%2FBbp5ZNxCIAAZIIm.png)
+- Steve Jobs
+  - Innovation distinguishes between a leader and a follower. <br> ![](https://pbs.twimg.com/media/E2x_2U2XEAEOPaS?format=jpg) 
 
 ## Songs
 

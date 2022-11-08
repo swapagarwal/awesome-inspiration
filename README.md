@@ -125,6 +125,8 @@
   - You are braver than you believe, and stronger than you seem and smarter than you think. <br> ![](https://avemateiu.com/wp-content/uploads/2018/10/quote-109.jpg)
 - Winston Churchill
   - Success is not final, failure is not fatal: it is the courage to continue that counts. <br> ![](https://www.azquotes.com/picture-quotes/quote-success-is-not-final-failure-is-not-fatal-it-is-the-courage-to-continue-that-counts-winston-churchill-5-62-84.jpg)
+- Babe Ruth
+  - Never let the fear of striking out, keep you from playing the game. <br> ![](https://i5.walmartimages.com/asr/594bbd04-237a-4903-8219-4a965b3bf7a6.8cf9ce46f02aea1317617849eb594970.jpeg)
 
 ## Songs
 

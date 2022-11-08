@@ -169,6 +169,7 @@
 | Remember the Name                | [YouTube](https://www.youtube.com/watch?v=VDvr08sCPOc) | [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Name) | [Lyrics](https://www.azlyrics.com/lyrics/fortminor/rememberthename.html)                                |
 | W.A.Y.S.                         | [Youtube](https://www.youtube.com/watch?v=3H17EqhzLdw) | missing                                                                           | [Lyrics](https://www.azlyrics.com/lyrics/jheneaiko/ways.html)                      |
 | Fight Song                       | [YouTube](https://www.youtube.com/watch?v=xo1VInw-SKc) | [Wikipedia](https://en.wikipedia.org/wiki/Fight_Song_(Rachel_Platten_song))       | [Lyrics](https://www.azlyrics.com/lyrics/rachelplatten/fightsong.html)             |
+| Whatever It Takes                | [YouTube](https://www.youtube.com/watch?v=gOsM-DYAEhY) | [Wikipedia](https://en.wikipedia.org/wiki/Whatever_It_Takes_(Imagine_Dragons_song)) | [Lyrics](https://genius.com/Imagine-dragons-whatever-it-takes-lyrics)            |
 
 ## Videos
 

@@ -202,10 +202,10 @@
 - The Gifts of Imperfection, by Brene Brown
 - Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, by Ashlee Vance
 - [Atomic Habits by James Clear](https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/)
-- [Unleash Yourself: Become the Champion you have always wanted to be - by Ankush Kotriwal](https://www.goodreads.com/book/show/54560674-unleash-yourself)
-- [David Goggins - Can't Hurt Me: Master Your Mind and Defy the Odds](https://davidgoggins.com/book/)
-- [Charles Duhigg - Smarter, Faster, Better: The Secrets of Being Productive in Life and Business](https://charlesduhigg.com/books/smarter-faster-better/)
-- [Arnold Schwarzenegger - Total Recall: My Unbelievably True Life Story](http://www.schwarzenegger.com/totalrecall)
+- [Unleash Yourself: Become the Champion you have always wanted to be, by Ankush Kotriwal](https://www.goodreads.com/book/show/54560674-unleash-yourself)
+- [Can't Hurt Me: Master Your Mind and Defy the Odds, by David Goggins](https://davidgoggins.com/book/)
+- [Smarter, Faster, Better: The Secrets of Being Productive in Life and Business, by Charles Duhigg](https://charlesduhigg.com/books/smarter-faster-better/)
+- [Total Recall: My Unbelievably True Life Story, by Arnold Schwarzenegger](http://www.schwarzenegger.com/totalrecall)
 
 ## Contributing
 

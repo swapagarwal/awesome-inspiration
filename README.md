@@ -18,7 +18,7 @@
   - [Ending Scene](https://www.youtube.com/watch?v=x8-7mHT9edg) This part of my life... this part right here? This is called "happyness."
 - Facing the Giants [IMDb](https://www.imdb.com/title/tt0805526/) [Wikipedia](https://en.wikipedia.org/wiki/Facing_the_Giants)
   - [The Death Crawl Scene](https://www.youtube.com/watch?v=-sUKoKQlEC4) The scene where the football coach gets the most influential player on the team to do a blind-fold crawl, so that he would not know how far he could go, while carrying a teammate on his back. The coach pushes him with extreme motivation and tells him to never quit. Even when the player yells it hurts, the coach yells "let it!". The player finally drops and he has made it all the way to the end zone, where the coach tells him how important it is for an influential individual to lead by example.
-- Rocky Balboa [IMDb](https://www.imdb.com/title/tt0479143/) [Wikipedia](<https://en.wikipedia.org/wiki/Rocky_Balboa_(film)>)
+- Rocky Balboa [IMDb](https://www.imdb.com/title/tt0479143/) [Wikipedia](https://en.wikipedia.org/wiki/Rocky_Balboa_(film))
   - [Inspirational Speech](https://www.youtube.com/watch?v=D_Vg4uyYwEk) Let me tell you something you already know. The world ain't all sunshine and rainbows. It's a very mean and nasty place and I don't care how tough you are it will beat you to your knees and keep you there permanently if you let it. You, me, or nobody is gonna hit as hard as life. But it ain't about how hard you hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward. That's how winning is done! Now if you know what you're worth then go out and get what you're worth. But ya gotta be willing to take the hits, and not pointing fingers saying you ain't where you wanna be because of him, or her, or anybody! Cowards do that and that ain't you! You're better than that!
 - Lost In Translation [IMDB](https://www.imdb.com/title/tt0335266/) [Wikipedia](https://en.wikipedia.org/wiki/Lost_in_Translation_(film))
   - [Does it get easier?](https://www.youtube.com/watch?v=eNK7N3AwVFQ) I'm stuck. Does it get easier? Charlotte and Bob lie beside each other in bed while talking about hardships in life and relationships.
@@ -122,7 +122,15 @@
 - Elon Musk
   - Persistence is very important. You should not give up unless you are forced to give up. <br> ![](https://www.azquotes.com/picture-quotes/quote-persistence-is-very-important-you-should-not-give-up-unless-you-are-forced-to-give-up-elon-musk-70-56-73.jpg)
 - Christopher Robbins (said to Winnie the Pooh)
-  - You are braver than you believe, and stronger than you seem and smarter than you think. ![](https://avemateiu.com/wp-content/uploads/2018/10/quote-109.jpg)
+  - You are braver than you believe, and stronger than you seem and smarter than you think. <br> ![](https://avemateiu.com/wp-content/uploads/2018/10/quote-109.jpg)
+- Winston Churchill
+  - Success is not final, failure is not fatal: it is the courage to continue that counts. <br> ![](https://www.azquotes.com/picture-quotes/quote-success-is-not-final-failure-is-not-fatal-it-is-the-courage-to-continue-that-counts-winston-churchill-5-62-84.jpg)
+- Babe Ruth
+  - Never let the fear of striking out, keep you from playing the game. <br> ![](https://i5.walmartimages.com/asr/594bbd04-237a-4903-8219-4a965b3bf7a6.8cf9ce46f02aea1317617849eb594970.jpeg)
+- John Johnson
+  - First, solve the problem. Then, write the code. <br> ![](https://nitter.pussthecat.org/pic/orig/media%2FBbp5ZNxCIAAZIIm.png)
+- Steve Jobs
+  - Innovation distinguishes between a leader and a follower. <br> ![](https://pbs.twimg.com/media/E2x_2U2XEAEOPaS?format=jpg) 
 
 ## Songs
 
@@ -162,6 +170,9 @@
 | Heading Up High                  | [Youtube](https://www.youtube.com/watch?v=Q2C2V3kac08) | [Wikipedia](https://nl.wikipedia.org/wiki/Heading_Up_High)                        | [Lyrics](https://www.azlyrics.com/lyrics/arminvanbuuren/headinguphigh.html)        |
 | Remember the Name                | [YouTube](https://www.youtube.com/watch?v=VDvr08sCPOc) | [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Name) | [Lyrics](https://www.azlyrics.com/lyrics/fortminor/rememberthename.html)                                |
 | W.A.Y.S.                         | [Youtube] (https://www.youtube.com/watch?v=3H17EqhzLdw)| missing                                                                           | [Lyrics](https://www.azlyrics.com/lyrics/jheneaiko/ways.html)                      |
+| Fight Song                       | [YouTube](https://www.youtube.com/watch?v=xo1VInw-SKc) | [Wikipedia](https://en.wikipedia.org/wiki/Fight_Song_(Rachel_Platten_song))       | [Lyrics](https://www.azlyrics.com/lyrics/rachelplatten/fightsong.html)             |
+| Whatever It Takes                | [YouTube](https://www.youtube.com/watch?v=gOsM-DYAEhY) | [Wikipedia](https://en.wikipedia.org/wiki/Whatever_It_Takes_(Imagine_Dragons_song)) | [Lyrics](https://genius.com/Imagine-dragons-whatever-it-takes-lyrics)            |
+| Underdog                         | [YouTube](https://www.youtube.com/watch?v=izyZLKIWGiA) | [Wikipedia](https://en.wikipedia.org/wiki/Underdog_(Alicia_Keys_song))            | [Lyrics](https://www.azlyrics.com/lyrics/aliciakeys/underdog.html)                 |
 | Hymn For The Weekend             | [YouTube](https://yewtu.be/watch?v=YykjpeuMNEk)        | [Wikipedia](https://en.wikipedia.org/wiki/Hymn_for_the_Weekend)                   | [Lyrics](https://www.coldplay.com/song/hymn-for-the-weekend/)                      |
 
 ## Videos
@@ -181,6 +192,7 @@
 - [The poetry of programming, Linda Liukas](https://youtu.be/-jRREn6ifEQ)
 - [Steve Jobs Stanford Commencement Speech "Connect the Dots Speech"](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
 - [Against All Odds by Elon Musk](https://www.youtube.com/watch?v=k9zTr2MAFRg)
+- [What decides our Success by SadhGuru](https://www.youtube.com/watch?v=bt-N8tZY8Lg)
 
 <details><summary>Hindi</summary>
 
@@ -199,6 +211,9 @@
 - [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, by Ashlee Vance](https://www.goodreads.com/book/show/25541028-elon-musk)
 - [Atomic Habits, by James Clear](https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/)
 - [Unleash Yourself: Become the Champion you have always wanted to be, by Ankush Kotriwal](https://www.goodreads.com/book/show/54560674-unleash-yourself)
+- [Can't Hurt Me: Master Your Mind and Defy the Odds, by David Goggins](https://davidgoggins.com/book/)
+- [Smarter, Faster, Better: The Secrets of Being Productive in Life and Business, by Charles Duhigg](https://charlesduhigg.com/books/smarter-faster-better/)
+- [Total Recall: My Unbelievably True Life Story, by Arnold Schwarzenegger](http://www.schwarzenegger.com/totalrecall)
 
 ## Contributing
 

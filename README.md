@@ -170,6 +170,7 @@
 | W.A.Y.S.                         | [Youtube](https://www.youtube.com/watch?v=3H17EqhzLdw) | missing                                                                           | [Lyrics](https://www.azlyrics.com/lyrics/jheneaiko/ways.html)                      |
 | Fight Song                       | [YouTube](https://www.youtube.com/watch?v=xo1VInw-SKc) | [Wikipedia](https://en.wikipedia.org/wiki/Fight_Song_(Rachel_Platten_song))       | [Lyrics](https://www.azlyrics.com/lyrics/rachelplatten/fightsong.html)             |
 | Whatever It Takes                | [YouTube](https://www.youtube.com/watch?v=gOsM-DYAEhY) | [Wikipedia](https://en.wikipedia.org/wiki/Whatever_It_Takes_(Imagine_Dragons_song)) | [Lyrics](https://genius.com/Imagine-dragons-whatever-it-takes-lyrics)            |
+| Underdog                         | [YouTube](https://www.youtube.com/watch?v=izyZLKIWGiA) | [Wikipedia](https://en.wikipedia.org/wiki/Underdog_(Alicia_Keys_song))            | [Lyrics](https://www.azlyrics.com/lyrics/aliciakeys/underdog.html)                 |
 
 ## Videos
 

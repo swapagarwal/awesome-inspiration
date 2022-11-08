@@ -129,7 +129,6 @@
 | Song Name                        |                        YouTube                         |                                      Wikipedia                                    |                                       Lyrics                                       |
 | -------------------------------  | :----------------------------------------------------: | :-------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
 | Hall of Fame                     | [YouTube](https://www.youtube.com/watch?v=mk48xRzuNvA) | [Wikipedia](https://en.wikipedia.org/wiki/Hall_of_Fame_(song))                    | [Lyrics](https://www.azlyrics.com/lyrics/script/halloffame.html)                   |
-| Hymn For The Weekend             | [YouTube](https://en.wikipedia.org/wiki/Hymn_for_the_Weekend) | [Wikipedia](https://en.wikipedia.org/wiki/Hall_of_Fame_(song))                    | [Lyrics](https://www.coldplay.com/song/hymn-for-the-weekend/)             |
 | Don't You Worry Child            | [YouTube](https://www.youtube.com/watch?v=1y6smkh6c-0) | [Wikipedia](https://en.wikipedia.org/wiki/Don%27t_You_Worry_Child)                | [Lyrics](https://www.azlyrics.com/lyrics/swedishhousemafia/dontyouworrychild.html) |
 | Remember the Name                | [YouTube](https://www.youtube.com/watch?v=VDvr08sCPOc) | [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Name)                      | [Lyrics](https://www.azlyrics.com/lyrics/fortminor/rememberthename.html)           |
 | Survivor                         | [YouTube](https://www.youtube.com/watch?v=Wmc8bQoL-J0) | [Wikipedia](https://en.wikipedia.org/wiki/Survivor_(Destiny%27s_Child_song))      | [Lyrics](https://genius.com/Destinys-child-survivor-lyrics)                        |
@@ -163,6 +162,7 @@
 | Heading Up High                  | [Youtube](https://www.youtube.com/watch?v=Q2C2V3kac08) | [Wikipedia](https://nl.wikipedia.org/wiki/Heading_Up_High)                        | [Lyrics](https://www.azlyrics.com/lyrics/arminvanbuuren/headinguphigh.html)        |
 | Remember the Name                | [YouTube](https://www.youtube.com/watch?v=VDvr08sCPOc) | [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Name) | [Lyrics](https://www.azlyrics.com/lyrics/fortminor/rememberthename.html)                                |
 | W.A.Y.S.                         | [Youtube] (https://www.youtube.com/watch?v=3H17EqhzLdw)| missing                                                                           | [Lyrics](https://www.azlyrics.com/lyrics/jheneaiko/ways.html)                      |
+| Hymn For The Weekend             | [YouTube](https://yewtu.be/watch?v=YykjpeuMNEk)        | [Wikipedia](https://en.wikipedia.org/wiki/Hymn_for_the_Weekend)                   | [Lyrics](https://www.coldplay.com/song/hymn-for-the-weekend/)                      |
 
 ## Videos
 
@@ -197,8 +197,8 @@
 - [Don’t Sweat the Small Stuff, by Richard Carlson](https://www.goodreads.com/book/show/170548.Don_t_Sweat_the_Small_Stuff_and_It_s_All_Small_Stuff)
 - [The Gifts of Imperfection, by Brene Brown](https://brenebrown.com/book/the-gifts-of-imperfection/)
 - [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, by Ashlee Vance](https://www.goodreads.com/book/show/25541028-elon-musk)
-- [Atomic Habits by James Clear](https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/)
-- [Unleash Yourself: Become the Champion you have always wanted to be - by Ankush Kotriwal](https://www.goodreads.com/book/show/54560674-unleash-yourself)
+- [Atomic Habits, by James Clear](https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/)
+- [Unleash Yourself: Become the Champion you have always wanted to be, by Ankush Kotriwal](https://www.goodreads.com/book/show/54560674-unleash-yourself)
 
 ## Contributing
 

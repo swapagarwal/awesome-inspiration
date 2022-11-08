@@ -122,7 +122,9 @@
 - Elon Musk
   - Persistence is very important. You should not give up unless you are forced to give up. <br> ![](https://www.azquotes.com/picture-quotes/quote-persistence-is-very-important-you-should-not-give-up-unless-you-are-forced-to-give-up-elon-musk-70-56-73.jpg)
 - Christopher Robbins (said to Winnie the Pooh)
-  - You are braver than you believe, and stronger than you seem and smarter than you think. ![](https://avemateiu.com/wp-content/uploads/2018/10/quote-109.jpg)
+  - You are braver than you believe, and stronger than you seem and smarter than you think. <br> ![](https://avemateiu.com/wp-content/uploads/2018/10/quote-109.jpg)
+- Winston Churchill
+  - Success is not final, failure is not fatal: it is the courage to continue that counts. <br> ![](https://www.azquotes.com/picture-quotes/quote-success-is-not-final-failure-is-not-fatal-it-is-the-courage-to-continue-that-counts-winston-churchill-5-62-84.jpg)
 
 ## Songs
 

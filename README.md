@@ -185,6 +185,7 @@
 - [The poetry of programming, Linda Liukas](https://youtu.be/-jRREn6ifEQ)
 - [Steve Jobs Stanford Commencement Speech "Connect the Dots Speech"](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
 - [Against All Odds by Elon Musk](https://www.youtube.com/watch?v=k9zTr2MAFRg)
+- [What decides our Success by SadhGuru](https://www.youtube.com/watch?v=bt-N8tZY8Lg)
 
 <details><summary>Hindi</summary>
 

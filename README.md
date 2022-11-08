@@ -18,7 +18,7 @@
   - [Ending Scene](https://www.youtube.com/watch?v=x8-7mHT9edg) This part of my life... this part right here? This is called "happyness."
 - Facing the Giants [IMDb](https://www.imdb.com/title/tt0805526/) [Wikipedia](https://en.wikipedia.org/wiki/Facing_the_Giants)
   - [The Death Crawl Scene](https://www.youtube.com/watch?v=-sUKoKQlEC4) The scene where the football coach gets the most influential player on the team to do a blind-fold crawl, so that he would not know how far he could go, while carrying a teammate on his back. The coach pushes him with extreme motivation and tells him to never quit. Even when the player yells it hurts, the coach yells "let it!". The player finally drops and he has made it all the way to the end zone, where the coach tells him how important it is for an influential individual to lead by example.
-- Rocky Balboa [IMDb](https://www.imdb.com/title/tt0479143/) [Wikipedia](<https://en.wikipedia.org/wiki/Rocky_Balboa_(film)>)
+- Rocky Balboa [IMDb](https://www.imdb.com/title/tt0479143/) [Wikipedia](https://en.wikipedia.org/wiki/Rocky_Balboa_(film))
   - [Inspirational Speech](https://www.youtube.com/watch?v=D_Vg4uyYwEk) Let me tell you something you already know. The world ain't all sunshine and rainbows. It's a very mean and nasty place and I don't care how tough you are it will beat you to your knees and keep you there permanently if you let it. You, me, or nobody is gonna hit as hard as life. But it ain't about how hard you hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward. That's how winning is done! Now if you know what you're worth then go out and get what you're worth. But ya gotta be willing to take the hits, and not pointing fingers saying you ain't where you wanna be because of him, or her, or anybody! Cowards do that and that ain't you! You're better than that!
 - Lost In Translation [IMDB](https://www.imdb.com/title/tt0335266/) [Wikipedia](https://en.wikipedia.org/wiki/Lost_in_Translation_(film))
   - [Does it get easier?](https://www.youtube.com/watch?v=eNK7N3AwVFQ) I'm stuck. Does it get easier? Charlotte and Bob lie beside each other in bed while talking about hardships in life and relationships.
@@ -127,6 +127,8 @@
   - Success is not final, failure is not fatal: it is the courage to continue that counts. <br> ![](https://www.azquotes.com/picture-quotes/quote-success-is-not-final-failure-is-not-fatal-it-is-the-courage-to-continue-that-counts-winston-churchill-5-62-84.jpg)
 - Babe Ruth
   - Never let the fear of striking out, keep you from playing the game. <br> ![](https://i5.walmartimages.com/asr/594bbd04-237a-4903-8219-4a965b3bf7a6.8cf9ce46f02aea1317617849eb594970.jpeg)
+- John Johnson
+  - First, solve the problem. Then, write the code. <br> ![](https://nitter.pussthecat.org/pic/orig/media%2FBbp5ZNxCIAAZIIm.png)
 
 ## Songs
 

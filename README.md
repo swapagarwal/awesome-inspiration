@@ -173,6 +173,7 @@
 | Fight Song                       | [YouTube](https://www.youtube.com/watch?v=xo1VInw-SKc) | [Wikipedia](https://en.wikipedia.org/wiki/Fight_Song_(Rachel_Platten_song))       | [Lyrics](https://www.azlyrics.com/lyrics/rachelplatten/fightsong.html)             |
 | Whatever It Takes                | [YouTube](https://www.youtube.com/watch?v=gOsM-DYAEhY) | [Wikipedia](https://en.wikipedia.org/wiki/Whatever_It_Takes_(Imagine_Dragons_song)) | [Lyrics](https://genius.com/Imagine-dragons-whatever-it-takes-lyrics)            |
 | Underdog                         | [YouTube](https://www.youtube.com/watch?v=izyZLKIWGiA) | [Wikipedia](https://en.wikipedia.org/wiki/Underdog_(Alicia_Keys_song))            | [Lyrics](https://www.azlyrics.com/lyrics/aliciakeys/underdog.html)                 |
+| Hymn For The Weekend             | [YouTube](https://yewtu.be/watch?v=YykjpeuMNEk)        | [Wikipedia](https://en.wikipedia.org/wiki/Hymn_for_the_Weekend)                   | [Lyrics](https://www.coldplay.com/song/hymn-for-the-weekend/)                      |
 
 ## Videos
 
@@ -202,13 +203,13 @@
 
 ## Books
 
-- Screw It Lets Do It: Lessons in Life, by Richard Branson
-- The Art of Happiness, by Dalai Lama
-- The Magic of Thinking Big, by David J Schwartz
-- Don’t Sweat the Small Stuff, by Richard Carlson
-- The Gifts of Imperfection, by Brene Brown
-- Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, by Ashlee Vance
-- [Atomic Habits by James Clear](https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/)
+- [Screw It Lets Do It: Lessons in Life, by Richard Branson](https://www.virgin.com/branson-family/books/richard-branson/screw-it-lets-do-it)
+- [The Art of Happiness, by Dalai Lama](https://www.getstoryshots.com/books/the-art-of-happiness-summary/)
+- [The Magic of Thinking Big, by David J Schwartz](https://en.wikipedia.org/wiki/The_Magic_of_Thinking_Big)
+- [Don’t Sweat the Small Stuff, by Richard Carlson](https://www.goodreads.com/book/show/170548.Don_t_Sweat_the_Small_Stuff_and_It_s_All_Small_Stuff)
+- [The Gifts of Imperfection, by Brene Brown](https://brenebrown.com/book/the-gifts-of-imperfection/)
+- [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, by Ashlee Vance](https://www.goodreads.com/book/show/25541028-elon-musk)
+- [Atomic Habits, by James Clear](https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/)
 - [Unleash Yourself: Become the Champion you have always wanted to be, by Ankush Kotriwal](https://www.goodreads.com/book/show/54560674-unleash-yourself)
 - [Can't Hurt Me: Master Your Mind and Defy the Odds, by David Goggins](https://davidgoggins.com/book/)
 - [Smarter, Faster, Better: The Secrets of Being Productive in Life and Business, by Charles Duhigg](https://charlesduhigg.com/books/smarter-faster-better/)

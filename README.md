@@ -191,12 +191,12 @@
 
 ## Books
 
-- Screw It Lets Do It: Lessons in Life, by Richard Branson
-- The Art of Happiness, by Dalai Lama
-- The Magic of Thinking Big, by David J Schwartz
-- Don’t Sweat the Small Stuff, by Richard Carlson
-- The Gifts of Imperfection, by Brene Brown
-- Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, by Ashlee Vance
+- [Screw It Lets Do It: Lessons in Life, by Richard Branson](https://www.virgin.com/branson-family/books/richard-branson/screw-it-lets-do-it)
+- [The Art of Happiness, by Dalai Lama](https://www.getstoryshots.com/books/the-art-of-happiness-summary/)
+- [The Magic of Thinking Big, by David J Schwartz](https://en.wikipedia.org/wiki/The_Magic_of_Thinking_Big)
+- [Don’t Sweat the Small Stuff, by Richard Carlson](https://www.goodreads.com/book/show/170548.Don_t_Sweat_the_Small_Stuff_and_It_s_All_Small_Stuff)
+- [The Gifts of Imperfection, by Brene Brown](https://brenebrown.com/book/the-gifts-of-imperfection/)
+- [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, by Ashlee Vance](https://www.goodreads.com/book/show/25541028-elon-musk)
 - [Atomic Habits by James Clear](https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/)
 - [Unleash Yourself: Become the Champion you have always wanted to be - by Ankush Kotriwal](https://www.goodreads.com/book/show/54560674-unleash-yourself)
 

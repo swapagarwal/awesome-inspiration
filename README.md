@@ -217,6 +217,7 @@
 - [How to Win Friends and Influence People, by Dale Carnegie](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 - [The Psychology of Money, by Morgan Housel](https://www.goodreads.com/book/show/41881472-the-psychology-of-money)
 - [The School of Life, by The School of Life](https://www.goodreads.com/book/show/15946768-the-school-of-life)
+- [A Thousand Splendid Suns, by Khaled Hosseini](https://www.goodreads.com/book/show/128029.A_Thousand_Splendid_Suns)
 
 ## Contributing
 

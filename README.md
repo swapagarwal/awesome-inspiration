@@ -214,6 +214,9 @@
 - [Can't Hurt Me: Master Your Mind and Defy the Odds, by David Goggins](https://davidgoggins.com/book/)
 - [Smarter, Faster, Better: The Secrets of Being Productive in Life and Business, by Charles Duhigg](https://charlesduhigg.com/books/smarter-faster-better/)
 - [Total Recall: My Unbelievably True Life Story, by Arnold Schwarzenegger](http://www.schwarzenegger.com/totalrecall)
+- [How to Win Friends and Influence People, by Dale Carnegie](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
+- [The Psychology of Money, by Morgan Housel](https://www.goodreads.com/book/show/41881472-the-psychology-of-money)
+- [The School of Life, by The School of Life](https://www.goodreads.com/book/show/15946768-the-school-of-life)
 
 ## Contributing
 

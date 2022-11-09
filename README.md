@@ -133,6 +133,8 @@
   - Innovation distinguishes between a leader and a follower. <br> ![](https://pbs.twimg.com/media/E2x_2U2XEAEOPaS?format=jpg)
 - Bill Gates
   - It's fine to celebrate success, but it is more important to heed the lessons of failure. <br> ![](https://www.azquotes.com/picture-quotes/quote-it-s-fine-to-celebrate-success-but-it-is-more-important-to-heed-the-lessons-of-failure-bill-gates-10-73-17.jpg)
+-  Imran Khan
+  - Leaders leads people. Leader does not follow public opinion. <br> ![](https://quotefancy.com/media/wallpaper/800x450/6442708-Imran-Khan-Quote-Leader-leads-people-Leader-does-not-follow-public.jpg)
 
 ## Songs
 

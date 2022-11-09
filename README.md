@@ -130,7 +130,9 @@
 - John Johnson
   - First, solve the problem. Then, write the code. <br> ![](https://nitter.pussthecat.org/pic/orig/media%2FBbp5ZNxCIAAZIIm.png)
 - Steve Jobs
-  - Innovation distinguishes between a leader and a follower. <br> ![](https://pbs.twimg.com/media/E2x_2U2XEAEOPaS?format=jpg) 
+  - Innovation distinguishes between a leader and a follower. <br> ![](https://pbs.twimg.com/media/E2x_2U2XEAEOPaS?format=jpg)
+- Bill Gates
+  - It's fine to celebrate success, but it is more important to heed the lessons of failure. <br> ![](https://www.azquotes.com/picture-quotes/quote-it-s-fine-to-celebrate-success-but-it-is-more-important-to-heed-the-lessons-of-failure-bill-gates-10-73-17.jpg)
 
 ## Songs
 

@@ -18,20 +18,23 @@
   - [Ending Scene](https://www.youtube.com/watch?v=x8-7mHT9edg) This part of my life... this part right here? This is called "happyness."
 - Facing the Giants [IMDb](https://www.imdb.com/title/tt0805526/) [Wikipedia](https://en.wikipedia.org/wiki/Facing_the_Giants)
   - [The Death Crawl Scene](https://www.youtube.com/watch?v=-sUKoKQlEC4) The scene where the football coach gets the most influential player on the team to do a blind-fold crawl, so that he would not know how far he could go, while carrying a teammate on his back. The coach pushes him with extreme motivation and tells him to never quit. Even when the player yells it hurts, the coach yells "let it!". The player finally drops and he has made it all the way to the end zone, where the coach tells him how important it is for an influential individual to lead by example.
-- Rocky Balboa [IMDb](https://www.imdb.com/title/tt0479143/) [Wikipedia](<https://en.wikipedia.org/wiki/Rocky_Balboa_(film)>)
+- Rocky Balboa [IMDb](https://www.imdb.com/title/tt0479143/) [Wikipedia](https://en.wikipedia.org/wiki/Rocky_Balboa_(film))
   - [Inspirational Speech](https://www.youtube.com/watch?v=D_Vg4uyYwEk) Let me tell you something you already know. The world ain't all sunshine and rainbows. It's a very mean and nasty place and I don't care how tough you are it will beat you to your knees and keep you there permanently if you let it. You, me, or nobody is gonna hit as hard as life. But it ain't about how hard you hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward. That's how winning is done! Now if you know what you're worth then go out and get what you're worth. But ya gotta be willing to take the hits, and not pointing fingers saying you ain't where you wanna be because of him, or her, or anybody! Cowards do that and that ain't you! You're better than that!
 - Lost In Translation [IMDB](https://www.imdb.com/title/tt0335266/) [Wikipedia](https://en.wikipedia.org/wiki/Lost_in_Translation_(film))
   - [Does it get easier?](https://www.youtube.com/watch?v=eNK7N3AwVFQ) I'm stuck. Does it get easier? Charlotte and Bob lie beside each other in bed while talking about hardships in life and relationships.
 - Independence Day [IMDb](https://www.imdb.com/title/tt0116629/) [Wikipedia](https://en.wikipedia.org/wiki/Independence_Day_(1996_film))
   - [Inspirational Speech](https://www.youtube.com/watch?v=oj16vfbsM9A) We’re fighting for our right to live, to exist and should we win the day, the Fourth of July will no longer be known as an American holiday, but as the day when the world declared in one voice, ‘We will not go quietly into the night! We will not vanish without a fight! We’re going to live on, we're going to survive.’ Today we celebrate our Independence Day!
-  - The Shawshank Redemption [IMDB](https://www.imdb.com/title/tt0111161/) [Wikipedia](https://en.wikipedia.org/wiki/The_Shawshank_Redemption)
-    - [Hope is a good thing](https://youtu.be/DAYXlC59yWs) Hope is a good thing, maybe the best of things, and no good thing ever dies.
-  - Remember the Titans [IMDB](https://www.imdb.com/title/tt0210945/) [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Titans)
-    - [Remember the Titans](https://youtu.be/vVOqoh43L8c) People say that it can't work, black and white. Here, we make it work every day. We still have our disagreements, of course, but before we reach for hate, always, always, we remember the Titans.
+- Forrest Gump [IMDB](https://www.imdb.com/title/tt0109830/) [Wikipedia](https://en.wikipedia.org/wiki/Forrest_Gump)
+  - [Life is like a box of chocolate](https://www.youtube.com/watch?v=CJh59vZ8ccc) The very first line where "Robert Zemeckis" said: "My mama always said, life is like a box of chocolate. You never know what you gonna get." Shoes implements the character of the person. And the story starts. If anyone watches this movie, they may compare their life with it. Everyone has a life turning moment and we need to react upon it; we need to face it otherwise we'll have guilt for our whole life.
+- The Shawshank Redemption [IMDB](https://www.imdb.com/title/tt0111161/) [Wikipedia](https://en.wikipedia.org/wiki/The_Shawshank_Redemption)
+  - [Hope is a good thing](https://youtu.be/DAYXlC59yWs) Hope is a good thing, maybe the best of things, and no good thing ever dies.
+- Remember the Titans [IMDB](https://www.imdb.com/title/tt0210945/) [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Titans)
+  - [Remember the Titans](https://youtu.be/vVOqoh43L8c) People say that it can't work, black and white. Here, we make it work every day. We have our disagreements, of course, but before we reach for hate, always, always, we remember the Titans.
 
 ## Posts
 
 - [Nobody’s going to help you. It’s all up to you.](https://sivers.org/up2you)
+- [Good students find questions, not answers](https://lemire.me/blog/2020/09/07/good-students-find-questions-not-answers/)
 - [Positive Thinking - Give Life To Your Dreams And Change Your Destiny.](https://www.motivation-for-dreamers.com/positive-thinking.html)
 - [You are awesome.](https://themindofsteel.com/best-motivation-ever/)
 - [Elon Musk: Success Story](https://www.investopedia.com/university/elon-musk-biography/elon-musk-success-story.asp)
@@ -45,23 +48,25 @@
 - Will Smith
   - The only thing that I see that is distinctly different about me is I'm not afraid to die on a treadmill. I will not be out-worked, period. You might have more talent than me, you might be smarter than me, you might be sexier than me, you might be all of those things you got it on me in nine categories. But if we get on the treadmill together, there's two things: You're getting off first, or I'm going to die. It's really that simple, right? <br> ![](https://image.slidesharecdn.com/pppt-willsmith-140925035833-phpapp01/95/will-smith-quotes-9-638.jpg?cb=1411617693)
 - Steven Furtick
-  - The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else's highlight reel. <br> ![](https://i.pinimg.com/originals/46/45/c3/4645c3caec17c4bdb22a4bad231fd16d.jpg)
+  - The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else's highlight reel. <br> ![](https://www.azquotes.com/picture-quotes/quote-the-reason-why-we-struggle-with-insecurity-is-because-we-compare-our-behind-the-scenes-steven-furtick-53-16-87.jpg)
 - Steve Jobs
   - Sometimes life is going to hit you in the head with a brick. Don't lose faith <br> ![](https://www.netizenshouse.com/wp-content/uploads/2018/11/stevejobsmostinspiringquotes.jpg)
 - Dr. Seuss
-  - Sometimes the questions are complicated and the answers are simple.
+  - Sometimes the questions are complicated and the answers are simple. <br> ![](https://www.azquotes.com/picture-quotes/quote-sometimes-the-questions-are-complicated-and-the-answers-are-simple-dr-seuss-34-53-98.jpg)
 - John Henry Newman
-  - To live is to change, and to be perfect is to have changed often.
+  - To live is to change, and to be perfect is to have changed often. <br> ![](https://www.azquotes.com/picture-quotes/quote-to-live-is-to-change-and-to-be-perfect-is-to-have-changed-often-john-henry-newman-21-34-43.jpg)
 - Rabindranath Tagore 
-  - You can't cross the sea merely by standing and staring at the water.
+  - You can't cross the sea merely by standing and staring at the water. <br> ![](https://www.azquotes.com/picture-quotes/quote-you-can-t-cross-the-sea-merely-by-standing-and-staring-at-the-water-rabindranath-tagore-28-97-81.jpg)
 - George Bernard Shaw
-  -  Life isn't about finding yourself. Life is about creating yourself.
+  -  Life isn't about finding yourself. Life is about creating yourself. <br> ![](https://www.azquotes.com/picture-quotes/quote-life-isn-t-about-finding-yourself-life-is-about-creating-yourself-george-bernard-shaw-26-83-56.jpg)
 - Sadhguru 
-  - If you resist change, you resist life.
+  - If you resist change, you resist life. <br> ![](https://www.quotes.pics/i/quotes-pictures/10/246-sadhguru-resisting-change-change-ah.jpg)
 - Osho  
-  - You feel good, you feel bad, and these feelings are bubbling from your own unconsciousness, from your own past. Nobody is responsible except you. Nobody can make you angry, and nobody can make you happy.
+  - You feel good, you feel bad, and these feelings are bubbling from your own unconsciousness, from your own past. Nobody is responsible except you. Nobody can make you angry, and nobody can make you happy. <br> ![](https://3.bp.blogspot.com/--ron0U6trh8/VicxLAdWDxI/AAAAAAAAbOw/yuHzh9l1ruY/s1600/DailythoughtFeelgoodbad.png)
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://succeedfeed.com/wp-content/uploads/2016/12/mark-cuban-quote-work-like-24.jpg)
+- William Shakespeare
+  - It is not in the stars to hold our destiny but in ourselves <br> ![](http://www.maxioms.com/uploads/quotes/r/p_1476293146_28156.jpg)
 - Mahatma Gandhi
   - Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength. <br> ![](https://i.ytimg.com/vi/aq2XqaPqQuE/maxresdefault.jpg) 
 - Albert Einstein
@@ -83,7 +88,7 @@
 - Mark Twain
   - The two most important days in your life are the day you are born and the day you find out why.<br> ![](https://static.boredpanda.com/blog/wp-content/uploads/2019/04/famous-people-inspiring-quotes-3b-5cb43958baf96__700.jpg)
 - William Shakespeare
-  - No legacy is so rich as honesty. <br> ![](https://pbs.twimg.com/media/CvZATfpUIAEg_7i.jpg)
+  - No legacy is so rich as honesty. <br> ![](https://www.azquotes.com/picture-quotes/quote-no-legacy-is-so-rich-as-honesty-william-shakespeare-26-72-72.jpg)
 - Jürgen Klopp
   - I lost the last six finals I was in. They were hardly the best days of my life, but they didn't make me a broken person. For me, life is about trying again and again. <br> ![](https://pbs.twimg.com/media/D8NkGYHXkAApBgg.jpg)
 - Bruce Lee
@@ -91,25 +96,49 @@
 - Socrates
   - I cannot teach anybody anything, I can only make them think. <br> ![](https://live.staticflickr.com/5759/23059484096_7b09e7ae1f_b.jpg)
 - Rick Warren
-  - True humility is not thinking less of yourself; it is thinking of yourself less.
+  - Humility is not thinking less of yourself; it is thinking of yourself less. Humility is thinking more of others. <br> ![](https://www.azquotes.com/picture-quotes/quote-humility-is-not-thinking-less-of-yourself-it-is-thinking-of-yourself-less-humility-is-rick-warren-44-32-81.jpg)
 - Ir. Soekarno
   - Rose <b>never</b> propagandize its fragnant, but its own fragnant spreads through its surrounding. <br> ![](https://www.azquotes.com/picture-quotes/quote-rose-never-propagandize-its-fragrant-but-its-own-fragrance-spreads-through-its-surrounding-sukarno-109-63-43.jpg)
 - David Goggins
-  - Most people who are criticizing and judging haven't even tried what you failed at. <br> ![]()
+  - Most people who are criticizing and judging haven't even tried what you failed at. <br> ![](https://succedict.com/wp-content/uploads/2020/06/david-goggins-quotes-2-1024x683.jpg?ezimgfmt=ng:webp/ngcb2)
 - Jimmy Dean
   - I can’t change the direction of the wind, but I can adjust my sails to always reach my destination. <br> ![](http://www.power-living.com/blog/wp-content/uploads/2014/10/JimmyDeanSailcflatJ.jpg)
 - Akshata Gunapache
   - Some stranger somewhere still remembers you because you were kind to them when no one else was. Be kind and spread love. <br> ![]()
 - Ecclesiastes 9:10
-  - Whatever your hand finds to do, do it with all your might <br>
+  - Whatever your hand finds to do, do it with all your might <br> ![]()
 - Stephen King
-  - The scariest moment is always right before you start. <br> ![](https://i.pinimg.com/originals/98/a5/d1/98a5d1b0767ccacba01411552213cc92.jpg)
+  - The scariest moment is always right before you start. <br> ![](https://www.azquotes.com/picture-quotes/quote-the-scariest-moment-is-always-just-before-you-start-stephen-king-35-71-97.jpg)
 - Steve Jobs
   - Your time is limited. Don't waste it living someone else's life. <br> ![](https://fossbytes.com/wp-content/uploads/2017/02/steve.png)
 - Hellen Keller
   - Life is either a daring adventure, or nothing at all. <br> ![](https://www.azquotes.com/picture-quotes/quote-life-is-a-daring-adventure-or-nothing-helen-keller-53-8-0856.jpg)
 - Winston Churchill
-  - Attitude is a little thing thats makes a big difference.
+  - Attitude is a little thing thats makes a big difference. <br> ![](https://www.azquotes.com/picture-quotes/quote-attitude-is-a-little-thing-that-makes-a-big-difference-winston-churchill-5-62-96.jpg)
+- C.S. Lewis
+  - You can't go back and change the beginning, but you can start where you are and change the ending. <br> ![](https://www.azquotes.com/picture-quotes/quote-you-can-t-go-back-and-change-the-beginning-but-you-can-start-where-you-are-and-change-c-s-lewis-133-40-84.jpg)
+- Richard Branson
+  - My biggest motivation? Just to keep challenging myself. I see life almost like one long University education that I never had - every day I'm learning something new. <br> ![](https://www.azquotes.com/picture-quotes/quote-my-biggest-motivation-just-to-keep-challenging-myself-i-see-life-almost-like-one-long-richard-branson-58-29-74.jpg)
+- Thomas Alva Edison
+  - Many of life's failures are people who did not realize how close they were to success when they gave up. <br> ![](https://www.azquotes.com/picture-quotes/quote-many-of-life-s-failures-are-people-who-did-not-realize-how-close-they-were-to-success-thomas-a-edison-8-65-00.jpg)
+- Bob Ross
+  - As long as you are learning you are not failing. <br> ![](https://www.brianhousand.com/uploads/2/4/2/8/2428164/767912407_orig.jpg)
+- Elon Musk
+  - Persistence is very important. You should not give up unless you are forced to give up. <br> ![](https://www.azquotes.com/picture-quotes/quote-persistence-is-very-important-you-should-not-give-up-unless-you-are-forced-to-give-up-elon-musk-70-56-73.jpg)
+- Christopher Robbins (said to Winnie the Pooh)
+  - You are braver than you believe, and stronger than you seem and smarter than you think. <br> ![](https://avemateiu.com/wp-content/uploads/2018/10/quote-109.jpg)
+- Winston Churchill
+  - Success is not final, failure is not fatal: it is the courage to continue that counts. <br> ![](https://www.azquotes.com/picture-quotes/quote-success-is-not-final-failure-is-not-fatal-it-is-the-courage-to-continue-that-counts-winston-churchill-5-62-84.jpg)
+- Babe Ruth
+  - Never let the fear of striking out, keep you from playing the game. <br> ![](https://i5.walmartimages.com/asr/594bbd04-237a-4903-8219-4a965b3bf7a6.8cf9ce46f02aea1317617849eb594970.jpeg)
+- John Johnson
+  - First, solve the problem. Then, write the code. <br> ![](https://nitter.pussthecat.org/pic/orig/media%2FBbp5ZNxCIAAZIIm.png)
+- Steve Jobs
+  - Innovation distinguishes between a leader and a follower. <br> ![](https://pbs.twimg.com/media/E2x_2U2XEAEOPaS?format=jpg)
+- Bill Gates
+  - It's fine to celebrate success, but it is more important to heed the lessons of failure. <br> ![](https://www.azquotes.com/picture-quotes/quote-it-s-fine-to-celebrate-success-but-it-is-more-important-to-heed-the-lessons-of-failure-bill-gates-10-73-17.jpg)
+- Imran Khan
+  - Leaders leads people. Leader does not follow public opinion. <br> ![](https://quotefancy.com/media/wallpaper/800x450/6442708-Imran-Khan-Quote-Leader-leads-people-Leader-does-not-follow-public.jpg)
 
 ## Songs
 
@@ -146,6 +175,13 @@
 | We Will Recover                  | [Youtube](https://www.youtube.com/watch?v=XHC3O1bwTzk) | [Wikipedia](https://de.wikipedia.org/wiki/Kaaze)                                  | [Lyrics](https://www.musixmatch.com/lyrics/Kaaze-Michael-Feiner/We-Will-Recover)   |
 | Fight back                       | [Youtube](https://youtu.be/CYDP_8UTAus)                | [Wikipedia](https://en.wikipedia.org/wiki/Neffex)                                 | [Lyrics](https://www.azlyrics.com/lyrics/neffex/fightback.html)                    |
 | Make Moves                       | [Youtube](https://www.youtube.com/watch?v=N10D8LZKWr8) | [Wikipedia](https://en.wikipedia.org/wiki/Neffex)                                 | [Lyrics](https://www.azlyrics.com/lyrics/neffex/makemoves.html)                    |
+| Heading Up High                  | [Youtube](https://www.youtube.com/watch?v=Q2C2V3kac08) | [Wikipedia](https://nl.wikipedia.org/wiki/Heading_Up_High)                        | [Lyrics](https://www.azlyrics.com/lyrics/arminvanbuuren/headinguphigh.html)        |
+| Remember the Name                | [YouTube](https://www.youtube.com/watch?v=VDvr08sCPOc) | [Wikipedia](https://en.wikipedia.org/wiki/Remember_the_Name) | [Lyrics](https://www.azlyrics.com/lyrics/fortminor/rememberthename.html)                                |
+| W.A.Y.S.                         | [Youtube](https://www.youtube.com/watch?v=3H17EqhzLdw) | missing                                                                           | [Lyrics](https://www.azlyrics.com/lyrics/jheneaiko/ways.html)                      |
+| Fight Song                       | [YouTube](https://www.youtube.com/watch?v=xo1VInw-SKc) | [Wikipedia](https://en.wikipedia.org/wiki/Fight_Song_(Rachel_Platten_song))       | [Lyrics](https://www.azlyrics.com/lyrics/rachelplatten/fightsong.html)             |
+| Whatever It Takes                | [YouTube](https://www.youtube.com/watch?v=gOsM-DYAEhY) | [Wikipedia](https://en.wikipedia.org/wiki/Whatever_It_Takes_(Imagine_Dragons_song)) | [Lyrics](https://genius.com/Imagine-dragons-whatever-it-takes-lyrics)            |
+| Underdog                         | [YouTube](https://www.youtube.com/watch?v=izyZLKIWGiA) | [Wikipedia](https://en.wikipedia.org/wiki/Underdog_(Alicia_Keys_song))            | [Lyrics](https://www.azlyrics.com/lyrics/aliciakeys/underdog.html)                 |
+| Hymn For The Weekend             | [YouTube](https://yewtu.be/watch?v=YykjpeuMNEk)        | [Wikipedia](https://en.wikipedia.org/wiki/Hymn_for_the_Weekend)                   | [Lyrics](https://www.coldplay.com/song/hymn-for-the-weekend/)                      |
 
 ## Videos
 
@@ -156,10 +192,15 @@
 - [A clever lesson in self-worth](https://www.facebook.com/diply/videos/1453994404678917)
 - [Professor Ndubuisi Ekekwe Inspiring Africans at The Tony Elumelu Foundation Program 2017](https://youtu.be/_WYoQgdZxkI)
 - [It all starts from within](https://www.facebook.com/philippinesreportcom/videos/1908189436175704)
+- [How a 13 year old changed 'Impossible' to 'I'm Possible' | Sparsh Shah | TEDxGateway](https://www.youtube.com/watch?v=bC0hlK7WGcM&list=WL&index=9&t=0s)
+- [The true story of Daniel Dejapin. Watch and be inspired.](https://www.youtube.com/watch?v=vGemji4uanU)
 - [Happiness is a journey not a destination](https://www.youtube.com/watch?v=yYNdhOH-k64)
 - [Arnold Schwarzenegger 2018 - The speech that broke the internet](https://www.youtube.com/watch?v=u_ktRTWMX3M)
 - [No Excuses](https://www.youtube.com/watch?v=wnHW6o8WMas)
 - [The poetry of programming, Linda Liukas](https://youtu.be/-jRREn6ifEQ)
+- [Steve Jobs Stanford Commencement Speech "Connect the Dots Speech"](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
+- [Against All Odds by Elon Musk](https://www.youtube.com/watch?v=k9zTr2MAFRg)
+- [What decides our Success by SadhGuru](https://www.youtube.com/watch?v=bt-N8tZY8Lg)
 
 <details><summary>Hindi</summary>
 
@@ -170,12 +211,24 @@
 
 ## Books
 
-- Screw It Lets Do It: Lessons in Life, by Richard Branson
-- The Art of Happiness, by Dalai Lama
-- The Magic of Thinking Big, by David J Schwartz
-- Don’t Sweat the Small Stuff, by Richard Carlson
-- The Gifts of Imperfection, by Brene Brown
-- Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, by Ashlee Vance
+- [Screw It Lets Do It: Lessons in Life, by Richard Branson](https://www.virgin.com/branson-family/books/richard-branson/screw-it-lets-do-it)
+- [The Art of Happiness, by Dalai Lama](https://www.getstoryshots.com/books/the-art-of-happiness-summary/)
+- [The Magic of Thinking Big, by David J Schwartz](https://en.wikipedia.org/wiki/The_Magic_of_Thinking_Big)
+- [Don’t Sweat the Small Stuff, by Richard Carlson](https://www.goodreads.com/book/show/170548.Don_t_Sweat_the_Small_Stuff_and_It_s_All_Small_Stuff)
+- [The Gifts of Imperfection, by Brene Brown](https://brenebrown.com/book/the-gifts-of-imperfection/)
+- [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, by Ashlee Vance](https://www.goodreads.com/book/show/25541028-elon-musk)
+- [Atomic Habits, by James Clear](https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/)
+- [Unleash Yourself: Become the Champion you have always wanted to be, by Ankush Kotriwal](https://www.goodreads.com/book/show/54560674-unleash-yourself)
+- [Can't Hurt Me: Master Your Mind and Defy the Odds, by David Goggins](https://davidgoggins.com/book/)
+- [Smarter, Faster, Better: The Secrets of Being Productive in Life and Business, by Charles Duhigg](https://charlesduhigg.com/books/smarter-faster-better/)
+- [Total Recall: My Unbelievably True Life Story, by Arnold Schwarzenegger](http://www.schwarzenegger.com/totalrecall)
+- [How to Win Friends and Influence People, by Dale Carnegie](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
+- [The Psychology of Money, by Morgan Housel](https://www.goodreads.com/book/show/41881472-the-psychology-of-money)
+- [The School of Life, by The School of Life](https://www.goodreads.com/book/show/15946768-the-school-of-life)
+- [A Thousand Splendid Suns, by Khaled Hosseini](https://www.goodreads.com/book/show/128029.A_Thousand_Splendid_Suns)
+- [The 7 Habits of Highly Effective People, by Stephen Covey](https://www.goodreads.com/en/book/show/36072.The_7_Habits_of_Highly_Effective_People)
+- [The 4-Hour Workweek, by Tim Ferris](https://fourhourworkweek.com/)
+- [Rich Dad Poor Dad, by Robert Kiyosaki](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad)
 
 ## Contributing
 

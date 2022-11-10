@@ -223,6 +223,8 @@
 - [The School of Life, by The School of Life](https://www.goodreads.com/book/show/15946768-the-school-of-life)
 - [A Thousand Splendid Suns, by Khaled Hosseini](https://www.goodreads.com/book/show/128029.A_Thousand_Splendid_Suns)
 - [The 7 Habits of Highly Effective People, by Stephen Covey](https://www.goodreads.com/en/book/show/36072.The_7_Habits_of_Highly_Effective_People)
+- [The 4-Hour Workweek, by Tim Ferris](https://fourhourworkweek.com/)
+- [Rich Dad Poor Dad, by Robert Kiyosaki](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad)
 
 ## Contributing
 

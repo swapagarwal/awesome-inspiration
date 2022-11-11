@@ -141,6 +141,10 @@
   - It's fine to celebrate success, but it is more important to heed the lessons of failure. <br> ![](https://www.azquotes.com/picture-quotes/quote-it-s-fine-to-celebrate-success-but-it-is-more-important-to-heed-the-lessons-of-failure-bill-gates-10-73-17.jpg)
 - Imran Khan
   - Leaders leads people. Leader does not follow public opinion. <br> ![](https://quotefancy.com/media/wallpaper/800x450/6442708-Imran-Khan-Quote-Leader-leads-people-Leader-does-not-follow-public.jpg)
+- Robert H. Schuller
+  - Tough times never last, but tough people do. <br> ![](http://files.planetofsuccess.com/blog/wp-content/uploads/2015/10/tough-times1.jpg)
+- Confucius
+  - Our greatest glory is not in never falling, but in rising every time we fall. <br> ![](https://motivationping.com/wp-content/uploads/2017/10/motivational-inspirational-quotes-41.jpg)
 
 ## Songs
 

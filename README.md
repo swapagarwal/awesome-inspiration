@@ -196,6 +196,7 @@
 | Underdog                         | [YouTube](https://www.youtube.com/watch?v=izyZLKIWGiA) | [Wikipedia](https://en.wikipedia.org/wiki/Underdog_(Alicia_Keys_song))            | [Lyrics](https://www.azlyrics.com/lyrics/aliciakeys/underdog.html)                 |
 | Hymn For The Weekend             | [YouTube](https://yewtu.be/watch?v=YykjpeuMNEk)        | [Wikipedia](https://en.wikipedia.org/wiki/Hymn_for_the_Weekend)                   | [Lyrics](https://www.coldplay.com/song/hymn-for-the-weekend/)                      |
 | Legacy                           | [YouTube](https://www.youtube.com/watch?v=7csKaIhn8NY) | [Wikipedia](https://en.wikipedia.org/wiki/Legacy_(Eminem_song))                   | [Lyrics](https://www.azlyrics.com/lyrics/eminem/legacy.html)                       |
+| You're the best                  | [YouTube](https://www.youtube.com/watch?v=oomCIXGzsR0) | [Wikipedia](https://en.wikipedia.org/wiki/You%27re_the_Best)                      | [Lyrics](https://lyrics.az/joe-esposito/-/youre-the-best.html)                     |
 
 ## Videos
 

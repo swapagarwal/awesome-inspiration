@@ -145,6 +145,8 @@
   - Tough times never last, but tough people do. <br> ![](http://files.planetofsuccess.com/blog/wp-content/uploads/2015/10/tough-times1.jpg)
 - Confucius
   - Our greatest glory is not in never falling, but in rising every time we fall. <br> ![](https://motivationping.com/wp-content/uploads/2017/10/motivational-inspirational-quotes-41.jpg)
+- M.S.Dhoni
+  - No matter what profession you are into, always give your 100% commitment to your work. Because it’s not always about winning the game! It’s about the work satisfaction in the end. <br> ![](https://cricketislifes.com/ezoimgfmt/i0.wp.com/cricketislifes.com/wp-content/uploads/2019/08/%E2%80%9CNo-matter-what-profession-you-are-into-always-give-your-100-commitment-to-your-work.-Because-it%E2%80%99s-not-always-about-winning-the-game-It%E2%80%99s-about-work-satisfaction-in-the-end.-%E2%80%9C.jpg)
 
 ## Songs
 
@@ -189,6 +191,7 @@
 | Whatever It Takes                | [YouTube](https://www.youtube.com/watch?v=gOsM-DYAEhY) | [Wikipedia](https://en.wikipedia.org/wiki/Whatever_It_Takes_(Imagine_Dragons_song)) | [Lyrics](https://genius.com/Imagine-dragons-whatever-it-takes-lyrics)            |
 | Underdog                         | [YouTube](https://www.youtube.com/watch?v=izyZLKIWGiA) | [Wikipedia](https://en.wikipedia.org/wiki/Underdog_(Alicia_Keys_song))            | [Lyrics](https://www.azlyrics.com/lyrics/aliciakeys/underdog.html)                 |
 | Hymn For The Weekend             | [YouTube](https://yewtu.be/watch?v=YykjpeuMNEk)        | [Wikipedia](https://en.wikipedia.org/wiki/Hymn_for_the_Weekend)                   | [Lyrics](https://www.coldplay.com/song/hymn-for-the-weekend/)                      |
+| Legacy                           | [YouTube](https://www.youtube.com/watch?v=7csKaIhn8NY) | [Wikipedia](https://en.wikipedia.org/wiki/Legacy_(Eminem_song))                   | [Lyrics](https://www.azlyrics.com/lyrics/eminem/legacy.html)                       |
 
 ## Videos
 

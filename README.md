@@ -149,6 +149,8 @@
   - No matter what profession you are into, always give your 100% commitment to your work. Because it’s not always about winning the game! It’s about the work satisfaction in the end. <br> ![](https://cricketislifes.com/ezoimgfmt/i0.wp.com/cricketislifes.com/wp-content/uploads/2019/08/%E2%80%9CNo-matter-what-profession-you-are-into-always-give-your-100-commitment-to-your-work.-Because-it%E2%80%99s-not-always-about-winning-the-game-It%E2%80%99s-about-work-satisfaction-in-the-end.-%E2%80%9C.jpg)
 - Walt Disney
   - All your dreams can come true if you have the courage to pursue them. <br> ![](https://www.azquotes.com/picture-quotes/quote-all-your-dreams-can-come-true-if-you-have-the-courage-to-pursue-them-walt-disney-7-91-62.jpg)
+- Epictetus
+  - First say to yourself what you would be; and then do what you have to do. <br> ![](https://www.azquotes.com/picture-quotes/quote-first-say-to-yourself-what-you-would-be-and-then-do-what-you-have-to-do-epictetus-9-2-0289.jpg)
 
 ## Songs
 

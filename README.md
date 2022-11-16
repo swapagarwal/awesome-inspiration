@@ -197,6 +197,7 @@
 | Hymn For The Weekend             | [YouTube](https://yewtu.be/watch?v=YykjpeuMNEk)        | [Wikipedia](https://en.wikipedia.org/wiki/Hymn_for_the_Weekend)                   | [Lyrics](https://www.coldplay.com/song/hymn-for-the-weekend/)                      |
 | Legacy                           | [YouTube](https://www.youtube.com/watch?v=7csKaIhn8NY) | [Wikipedia](https://en.wikipedia.org/wiki/Legacy_(Eminem_song))                   | [Lyrics](https://www.azlyrics.com/lyrics/eminem/legacy.html)                       |
 | You're the best                  | [YouTube](https://www.youtube.com/watch?v=oomCIXGzsR0) | [Wikipedia](https://en.wikipedia.org/wiki/You%27re_the_Best)                      | [Lyrics](https://lyrics.az/joe-esposito/-/youre-the-best.html)                     |
+| Move Along                       | [YouTube](https://www.youtube.com/watch?v=XleOkGsYgO8) | [Wikipedia](https://en.wikipedia.org/wiki/Move_Along_(song))                      | [Lyrics](https://genius.com/The-all-american-rejects-move-along-lyrics)            |
 
 ## Videos
 

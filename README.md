@@ -151,6 +151,8 @@
   - All your dreams can come true if you have the courage to pursue them. <br> ![](https://www.azquotes.com/picture-quotes/quote-all-your-dreams-can-come-true-if-you-have-the-courage-to-pursue-them-walt-disney-7-91-62.jpg)
 - Epictetus
   - First say to yourself what you would be; and then do what you have to do. <br> ![](https://www.azquotes.com/picture-quotes/quote-first-say-to-yourself-what-you-would-be-and-then-do-what-you-have-to-do-epictetus-9-2-0289.jpg)
+- Dwayne Johnson
+  - Success isn't always about greatness. It's about consistency. Consistent hard work leads to success. Greatness will come. <br> ![](https://www.projectmanager.com/wp-content/uploads/2018/10/Consistency_Johnson.jpg)
 
 ## Songs
 

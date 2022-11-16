@@ -153,6 +153,8 @@
   - First say to yourself what you would be; and then do what you have to do. <br> ![](https://www.azquotes.com/picture-quotes/quote-first-say-to-yourself-what-you-would-be-and-then-do-what-you-have-to-do-epictetus-9-2-0289.jpg)
 - Dwayne Johnson
   - Success isn't always about greatness. It's about consistency. Consistent hard work leads to success. Greatness will come. <br> ![](https://www.projectmanager.com/wp-content/uploads/2018/10/Consistency_Johnson.jpg)
+- Wayne Gretzky
+  - You miss 100 percent of the shots you don't take. <br> ![](https://www.azquotes.com/picture-quotes/quote-you-miss-100-of-the-shots-you-don-t-take-wayne-gretzky-11-73-09.jpg)
 
 ## Songs
 

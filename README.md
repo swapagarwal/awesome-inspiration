@@ -205,6 +205,7 @@
 | You're the best                  | [YouTube](https://www.youtube.com/watch?v=oomCIXGzsR0) | [Wikipedia](https://en.wikipedia.org/wiki/You%27re_the_Best)                      | [Lyrics](https://lyrics.az/joe-esposito/-/youre-the-best.html)                     |
 | Move Along                       | [YouTube](https://www.youtube.com/watch?v=XleOkGsYgO8) | [Wikipedia](https://en.wikipedia.org/wiki/Move_Along_(song))                      | [Lyrics](https://genius.com/The-all-american-rejects-move-along-lyrics)            |
 | The Nights                       | [YouTube](https://www.youtube.com/watch?v=UtF6Jej8yb4) | [Wikipedia](https://en.wikipedia.org/wiki/The_Nights)                             | [Lyrics](https://www.azlyrics.com/lyrics/avicii/thenights.html)                    |
+| Best Friend                      | [YouTube](https://www.youtube.com/watch?v=OqBuXQLR4Y8) | [Wikipedia](https://en.wikipedia.org/wiki/Rex_Orange_County)                      | [Lyrics](https://genius.com/Rex-orange-county-best-friend-lyrics)                  |
 
 ## Videos
 

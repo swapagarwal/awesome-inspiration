@@ -206,6 +206,8 @@
 | Move Along                       | [YouTube](https://www.youtube.com/watch?v=XleOkGsYgO8) | [Wikipedia](https://en.wikipedia.org/wiki/Move_Along_(song))                      | [Lyrics](https://genius.com/The-all-american-rejects-move-along-lyrics)            |
 | The Nights                       | [YouTube](https://www.youtube.com/watch?v=UtF6Jej8yb4) | [Wikipedia](https://en.wikipedia.org/wiki/The_Nights)                             | [Lyrics](https://www.azlyrics.com/lyrics/avicii/thenights.html)                    |
 | Best Friend                      | [YouTube](https://www.youtube.com/watch?v=OqBuXQLR4Y8) | [Wikipedia](https://en.wikipedia.org/wiki/Rex_Orange_County)                      | [Lyrics](https://genius.com/Rex-orange-county-best-friend-lyrics)                  |
+| I Want To Break Free             | [YouTube](https://youtu.be/f4Mc-NYPHaQ)                | [Wikipedia](https://en.wikipedia.org/wiki/I_Want_to_Break_Free)                   | [Lyrics](https://genius.com/Queen-i-want-to-break-free-lyrics)                     |
+| We Are The Champions             | [YouTube](https://youtu.be/04854XqcfCY)                | [Wikipedia](https://en.wikipedia.org/wiki/We_Are_the_Champions)                   | [Lyrics](https://genius.com/Queen-we-are-the-champions-lyrics)                     |
 
 ## Videos
 

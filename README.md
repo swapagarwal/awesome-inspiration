@@ -42,6 +42,7 @@
 - [Positive Thinking - Give Life To Your Dreams And Change Your Destiny.](https://www.motivation-for-dreamers.com/positive-thinking.html)
 - [You are awesome.](https://themindofsteel.com/best-motivation-ever/)
 - [Elon Musk: Success Story](https://www.investopedia.com/university/elon-musk-biography/elon-musk-success-story.asp)
+- [6 Life-Changing Lessons, Advice, & Tips From Elon Musk](https://blog.hubspot.com/sales/lessons-from-elon-musk)
 
 ## Quotes
 

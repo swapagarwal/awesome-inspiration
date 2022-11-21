@@ -219,6 +219,7 @@
 - [A clever lesson in self-worth](https://www.facebook.com/diply/videos/1453994404678917)
 - [Professor Ndubuisi Ekekwe Inspiring Africans at The Tony Elumelu Foundation Program 2017](https://youtu.be/_WYoQgdZxkI)
 - [It all starts from within](https://www.facebook.com/philippinesreportcom/videos/1908189436175704)
+- [The Most Inspiring Speech: 4 True Rules To Success | A. P. J. Abdul Kalam](https://www.youtube.com/watch?v=3SDkzDlw1yc)
 - [How a 13 year old changed 'Impossible' to 'I'm Possible' | Sparsh Shah | TEDxGateway](https://www.youtube.com/watch?v=bC0hlK7WGcM&list=WL&index=9&t=0s)
 - [The true story of Daniel Dejapin. Watch and be inspired.](https://www.youtube.com/watch?v=vGemji4uanU)
 - [Happiness is a journey not a destination](https://www.youtube.com/watch?v=yYNdhOH-k64)

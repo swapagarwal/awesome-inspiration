@@ -231,6 +231,7 @@
 - [What decides our Success by SadhGuru](https://www.youtube.com/watch?v=bt-N8tZY8Lg)
 - [Dwayne "The Rock" Johnson's Eye Opening Speech](https://www.youtube.com/watch?v=W5tlGJwvmCQ)
 - [Ira Glass on the Creative Process](https://www.youtube.com/watch?v=GHrmKL2XKcE)
+- [Pick Yourself Up And Keep Going - Powerful Motivational Speech by Various](https://yewtu.be/watch?v=fF0hdNqC3Xs)
 
 <details><summary>Hindi</summary>
 

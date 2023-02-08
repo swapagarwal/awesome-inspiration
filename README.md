@@ -43,6 +43,7 @@
 - [You are awesome.](https://themindofsteel.com/best-motivation-ever/)
 - [Elon Musk: Success Story](https://www.investopedia.com/university/elon-musk-biography/elon-musk-success-story.asp)
 - [6 Life-Changing Lessons, Advice, & Tips From Elon Musk](https://blog.hubspot.com/sales/lessons-from-elon-musk)
+- [The Productivity Guide: Time Management Strategies That Work](https://jamesclear.com/productivity)
 
 ## Quotes
 
@@ -158,6 +159,8 @@
   - Success isn't always about greatness. It's about consistency. Consistent hard work leads to success. Greatness will come. <br> ![](https://www.projectmanager.com/wp-content/uploads/2018/10/Consistency_Johnson.jpg)
 - Wayne Gretzky
   - You miss 100 percent of the shots you don't take. <br> ![](https://www.azquotes.com/picture-quotes/quote-you-miss-100-of-the-shots-you-don-t-take-wayne-gretzky-11-73-09.jpg)
+- Robert Downey Junior
+  - Do I want to be a hero to my son? No, I would like to be a very real human being. That’s hard enough. <br> ![](https://static.india.com/wp-content/uploads/2017/06/Robert-Downey-Jr-1.jpg) 
 
 ## Songs
 
@@ -209,6 +212,7 @@
 | Best Friend                      | [YouTube](https://www.youtube.com/watch?v=OqBuXQLR4Y8) | [Wikipedia](https://en.wikipedia.org/wiki/Rex_Orange_County)                      | [Lyrics](https://genius.com/Rex-orange-county-best-friend-lyrics)                  |
 | I Want To Break Free             | [YouTube](https://youtu.be/f4Mc-NYPHaQ)                | [Wikipedia](https://en.wikipedia.org/wiki/I_Want_to_Break_Free)                   | [Lyrics](https://genius.com/Queen-i-want-to-break-free-lyrics)                     |
 | We Are The Champions             | [YouTube](https://youtu.be/04854XqcfCY)                | [Wikipedia](https://en.wikipedia.org/wiki/We_Are_the_Champions)                   | [Lyrics](https://genius.com/Queen-we-are-the-champions-lyrics)                     |
+| We don't talk anymore            | [YouTube](https://www.youtube.com/watch?v=3AtDnEC4zak) | [Wikipedia](https://en.wikipedia.org/wiki/We_Don%27t_Talk_Anymore_(Charlie_Puth_song)) | [Lyrics](https://www.azlyrics.com/lyrics/charlieputh/wedonttalkanymore.html)  |
 
 ## Videos
 
@@ -233,12 +237,15 @@
 - [Ira Glass on the Creative Process](https://www.youtube.com/watch?v=GHrmKL2XKcE)
 - [Pick Yourself Up And Keep Going - Powerful Motivational Speech by Various](https://yewtu.be/watch?v=fF0hdNqC3Xs)
 - [Robert Downey Jr's Speech Will Leave You SPEECHLESS - Best Life Advice](https://yewtu.be/watch?v=7vBb4-E-4Qc)
+- [Dream - Motivational Video](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
+- [8 traits of successful people - Richard St. John](https://www.youtube.com/watch?v=NOl0v54DaXo)
 
 <details><summary>Hindi</summary>
 
 - <a href="https://www.facebook.com/hrithikroshan/videos/10156426479529407" target="_blank">Don't fear... fear</a><br>
 - <a href="https://www.facebook.com/BuddyBits/videos/1997502376986459" target="_blank">Never lose hope. Universe will make it happen. 🙂</a><br>
 - <a href="https://www.youtube.com/watch?v=6agY0okQiAg" target="_blank">WHY SMILING CAN CHANGE YOUR LIFE by Gaur Gopal Das</a>
+- <a href="https://www.youtube.com/watch?v=le6eNngljto" target="_blank">Enjoy the Journey by Ayush Mehra</a>
 </details>
 
 ## Books

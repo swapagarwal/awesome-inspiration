@@ -161,6 +161,8 @@
   - You miss 100 percent of the shots you don't take. <br> ![](https://www.azquotes.com/picture-quotes/quote-you-miss-100-of-the-shots-you-don-t-take-wayne-gretzky-11-73-09.jpg)
 - Robert Downey Junior
   - Do I want to be a hero to my son? No, I would like to be a very real human being. That’s hard enough. <br> ![](https://static.india.com/wp-content/uploads/2017/06/Robert-Downey-Jr-1.jpg) 
+- Jeon Jungkook (BTS)
+  - Effort makes you. You will regret someday if you don't do your best now. Don't think it's too late but keep working on it. It may take time, but there's nothing that gets worse due to practicing. So practice. You may get depressed but it's evidence that you are doing good. <br> ![](https://pm1.narvii.com/6905/34f29841c9fc0b7cc4b7fa405e770df8ed50c6e6r1-940-788v2_hq.jpg)
 
 ## Songs
 

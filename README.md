@@ -272,6 +272,7 @@
 - [Rich Dad Poor Dad, by Robert Kiyosaki](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad)
 - [Think And Grow Rich, by Napoleon Hill and Rosa Lee Beeland](https://archive.org/embed/in.ernet.dli.2015.274523) [Wikipedia](https://en.wikipedia.org/wiki/Think_and_Grow_Rich)
 - [As A Man Thinketh, by James Allen](https://archive.org/details/asmanthinketh00alle) [Wikipedia](https://en.wikipedia.org/wiki/As_a_Man_Thinketh)
+- [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck) 
 
 ## Contributing
 

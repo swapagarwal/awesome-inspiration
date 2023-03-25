@@ -215,6 +215,7 @@
 | I Want To Break Free             | [YouTube](https://youtu.be/f4Mc-NYPHaQ)                | [Wikipedia](https://en.wikipedia.org/wiki/I_Want_to_Break_Free)                   | [Lyrics](https://genius.com/Queen-i-want-to-break-free-lyrics)                     |
 | We Are The Champions             | [YouTube](https://youtu.be/04854XqcfCY)                | [Wikipedia](https://en.wikipedia.org/wiki/We_Are_the_Champions)                   | [Lyrics](https://genius.com/Queen-we-are-the-champions-lyrics)                     |
 | We don't talk anymore            | [YouTube](https://www.youtube.com/watch?v=3AtDnEC4zak) | [Wikipedia](https://en.wikipedia.org/wiki/We_Don%27t_Talk_Anymore_(Charlie_Puth_song)) | [Lyrics](https://www.azlyrics.com/lyrics/charlieputh/wedonttalkanymore.html)  |
+| Fearless (Taylor's Version)             | [YouTube](https://youtu.be/eVNNfmr_vWI)                | [Wikipedia](https://en.wikipedia.org/wiki/Fearless_(Taylor%27s_Version) | [Lyrics](https://genius.com/Taylor-swift-fearless-taylors-version-lyrics) 
 
 ## Videos
 

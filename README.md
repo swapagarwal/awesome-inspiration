@@ -47,6 +47,8 @@
 
 ## Quotes
 
+- Nikola Tesla
+  - If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. <br> ![](https://www.azquotes.com/vangogh-image-quotes/43/76/Quotation-Nikola-Tesla-If-you-want-to-find-the-secrets-of-the-universe-43-76-81.jpg)
 - Michael Jordan
   - I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed. <br> ![](https://www.azquotes.com/picture-quotes/quote-i-ve-missed-more-than-9000-shots-in-my-career-i-ve-lost-almost-300-games-26-times-i-michael-jordan-15-6-0618.jpg)
 - Thomas Alva Edison

@@ -216,6 +216,7 @@
 | We Are The Champions             | [YouTube](https://youtu.be/04854XqcfCY)                | [Wikipedia](https://en.wikipedia.org/wiki/We_Are_the_Champions)                   | [Lyrics](https://genius.com/Queen-we-are-the-champions-lyrics)                     |
 | We don't talk anymore            | [YouTube](https://www.youtube.com/watch?v=3AtDnEC4zak) | [Wikipedia](https://en.wikipedia.org/wiki/We_Don%27t_Talk_Anymore_(Charlie_Puth_song)) | [Lyrics](https://www.azlyrics.com/lyrics/charlieputh/wedonttalkanymore.html)  |
 | Fearless (Taylor's Version)      | [YouTube](https://youtu.be/eVNNfmr_vWI)                | [Wikipedia](https://en.wikipedia.org/wiki/Fearless_(Taylor%27s_Version))          | [Lyrics](https://genius.com/Taylor-swift-fearless-taylors-version-lyrics)          |
+| Best of Me                       | [YouTube](https://www.youtube.com/watch?v=0Wa_CR0H8g4) | [Wikipedia](https://en.wikipedia.org/wiki/The_Best_of_Me_(David_Foster_song))     | [Lyrics](https://genius.com/Neffex-best-of-me-lyrics)                              |
 
 ## Videos
 

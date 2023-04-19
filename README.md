@@ -34,6 +34,8 @@
   - [Remember the Titans](https://youtu.be/vVOqoh43L8c) People say that it can't work, black and white. Here, we make it work every day. We have our disagreements, of course, but before we reach for hate, always, always, we remember the Titans.
 - The Greatest Game Ever Played [IMDb](https://www.imdb.com/title/tt0388980/) [Wikipedia](https://en.wikipedia.org/wiki/The_Greatest_Game_Ever_Played)
   - [Ending Scene](https://www.youtube.com/watch?v=13ylVfXVHLo) Throughout the movie, the protagonist's father expresses severe discontent with his son playing golf. However, this does not stop Francis Ouimet from participating in the U.S. Open as an amateur. Most of the movie shows the games that Francis played in the U.S. Open and how he competed against top players at that time like the British golf champions Harry Vardon and Ted Ray. After a compelling tie-breaker at the end, Francis wins the U.S. Open and is the first amateur to do so. He is lifted into the air by the crowd to celebrate his success and people pass around his hat to give him tips. While Francis is happy with his success, he does not accept anyone's tip and suggests that they tip his caddie (Eddie Lowery). However, he does accept only one note as a tip, and it is shown to be his father, who has tears in his eyes due to joy.
+- Batman Begins [IMDb](https://www.imdb.com/title/tt0372784/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_batman%2520begins) [Wikipedia](https://en.wikipedia.org/wiki/Batman_Begins)
+  - [The will to act Scene](https://www.youtube.com/watch?v=Q-2l2nPmhOQ) Bruce is taking the training from Ra's al Ghul. Ducard tells him that his parents' death was not his fault and that he has to learn to channelise his anger into vengeance. 
 
 ## Posts
 

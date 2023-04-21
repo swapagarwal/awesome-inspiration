@@ -274,6 +274,7 @@
 - [Rich Dad Poor Dad, by Robert Kiyosaki](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad)
 - [Think And Grow Rich, by Napoleon Hill and Rosa Lee Beeland](https://archive.org/embed/in.ernet.dli.2015.274523) [Wikipedia](https://en.wikipedia.org/wiki/Think_and_Grow_Rich)
 - [As A Man Thinketh, by James Allen](https://archive.org/details/asmanthinketh00alle) [Wikipedia](https://en.wikipedia.org/wiki/As_a_Man_Thinketh)
+- [Man's Search for Meaning (Goodreads)](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) [Wikipedia](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning)
 
 ## Contributing
 

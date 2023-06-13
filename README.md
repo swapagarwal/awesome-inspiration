@@ -157,6 +157,8 @@
   - All your dreams can come true if you have the courage to pursue them. <br> ![](https://www.azquotes.com/picture-quotes/quote-all-your-dreams-can-come-true-if-you-have-the-courage-to-pursue-them-walt-disney-7-91-62.jpg)
 - Epictetus
   - First say to yourself what you would be; and then do what you have to do. <br> ![](https://www.azquotes.com/picture-quotes/quote-first-say-to-yourself-what-you-would-be-and-then-do-what-you-have-to-do-epictetus-9-2-0289.jpg)
+- Sadhguru
+  - Only when you do not know yourself, do other people's opinions become important. <br> ![](https://www.sadhguruwisdom.org/wp-content/uploads/q_230531.jpg)
 - Dwayne Johnson
   - Success isn't always about greatness. It's about consistency. Consistent hard work leads to success. Greatness will come. <br> ![](https://www.projectmanager.com/wp-content/uploads/2018/10/Consistency_Johnson.jpg)
 - Wayne Gretzky
@@ -167,6 +169,8 @@
   - Effort makes you. You will regret someday if you don't do your best now. Don't think it's too late but keep working on it. It may take time, but there's nothing that gets worse due to practicing. So practice. You may get depressed but it's evidence that you are doing good. <br> ![](https://pm1.narvii.com/6905/34f29841c9fc0b7cc4b7fa405e770df8ed50c6e6r1-940-788v2_hq.jpg)
 - Kobe Bryant
   - If you're afraid to fail, then you're probably going to fail. <br> ![](https://addicted2success.com/wp-content/uploads/2016/01/Kobe-Bryant-2.jpg)
+- Sadhguru
+  - If you simply commit yourself to what you really care for, now once again your thougths gets organized in such a way that there are no hurdles. Your thoughts flow freely toward what you want, and once this happens, the manifestation of your desire is a natural consequence. <br> ![](https://quotefancy.com/media/wallpaper/3840x2160/7008873-Sadhguru-Quote-If-you-simply-commit-yourself-to-creating-what-you.jpg)
 
 ## Songs
 

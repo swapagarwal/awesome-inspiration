@@ -167,6 +167,8 @@
   - Effort makes you. You will regret someday if you don't do your best now. Don't think it's too late but keep working on it. It may take time, but there's nothing that gets worse due to practicing. So practice. You may get depressed but it's evidence that you are doing good. <br> ![](https://pm1.narvii.com/6905/34f29841c9fc0b7cc4b7fa405e770df8ed50c6e6r1-940-788v2_hq.jpg)
 - Kobe Bryant
   - If you're afraid to fail, then you're probably going to fail. <br> ![](https://addicted2success.com/wp-content/uploads/2016/01/Kobe-Bryant-2.jpg)
+- Alan Watts
+  - Waking up to who you are requires letting go of who you imagine yourself to be. <br> ![](https://www.azquotes.com/picture-quotes/quote-waking-up-to-who-you-are-requires-letting-go-of-who-you-imagine-yourself-to-be-alan-watts-59-21-09.jpg)
 
 ## Songs
 

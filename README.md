@@ -63,20 +63,20 @@
   - Sometimes the questions are complicated and the answers are simple. <br> ![](https://www.azquotes.com/picture-quotes/quote-sometimes-the-questions-are-complicated-and-the-answers-are-simple-dr-seuss-34-53-98.jpg)
 - John Henry Newman
   - To live is to change, and to be perfect is to have changed often. <br> ![](https://www.azquotes.com/picture-quotes/quote-to-live-is-to-change-and-to-be-perfect-is-to-have-changed-often-john-henry-newman-21-34-43.jpg)
-- Rabindranath Tagore 
+- Rabindranath Tagore
   - You can't cross the sea merely by standing and staring at the water. <br> ![](https://www.azquotes.com/picture-quotes/quote-you-can-t-cross-the-sea-merely-by-standing-and-staring-at-the-water-rabindranath-tagore-28-97-81.jpg)
 - George Bernard Shaw
   -  Life isn't about finding yourself. Life is about creating yourself. <br> ![](https://www.azquotes.com/picture-quotes/quote-life-isn-t-about-finding-yourself-life-is-about-creating-yourself-george-bernard-shaw-26-83-56.jpg)
-- Sadhguru 
+- Sadhguru
   - If you resist change, you resist life. <br> ![](https://www.quotes.pics/i/quotes-pictures/10/246-sadhguru-resisting-change-change-ah.jpg)
-- Osho  
+- Osho
   - You feel good, you feel bad, and these feelings are bubbling from your own unconsciousness, from your own past. Nobody is responsible except you. Nobody can make you angry, and nobody can make you happy. <br> ![](https://3.bp.blogspot.com/--ron0U6trh8/VicxLAdWDxI/AAAAAAAAbOw/yuHzh9l1ruY/s1600/DailythoughtFeelgoodbad.png)
 - Mark Cuban
   - Work like there is someone working 24 hours a day to take it all away from you! <br> ![](https://succeedfeed.com/wp-content/uploads/2016/12/mark-cuban-quote-work-like-24.jpg)
 - William Shakespeare
   - It is not in the stars to hold our destiny but in ourselves <br> ![](http://www.maxioms.com/uploads/quotes/r/p_1476293146_28156.jpg)
 - Mahatma Gandhi
-  - Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength. <br> ![](https://i.ytimg.com/vi/aq2XqaPqQuE/maxresdefault.jpg) 
+  - Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength. <br> ![](https://i.ytimg.com/vi/aq2XqaPqQuE/maxresdefault.jpg)
 - Albert Einstein
   - Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. <br> ![](https://www.azquotes.com/picture-quotes/quote-learn-from-yesterday-live-for-today-hope-for-tomorrow-the-important-thing-is-not-to-albert-einstein-8-72-83.jpg)
 - Marilyn Monroe
@@ -162,7 +162,7 @@
 - Wayne Gretzky
   - You miss 100 percent of the shots you don't take. <br> ![](https://www.azquotes.com/picture-quotes/quote-you-miss-100-of-the-shots-you-don-t-take-wayne-gretzky-11-73-09.jpg)
 - Robert Downey Junior
-  - Do I want to be a hero to my son? No, I would like to be a very real human being. That’s hard enough. <br> ![](https://static.india.com/wp-content/uploads/2017/06/Robert-Downey-Jr-1.jpg) 
+  - Do I want to be a hero to my son? No, I would like to be a very real human being. That’s hard enough. <br> ![](https://static.india.com/wp-content/uploads/2017/06/Robert-Downey-Jr-1.jpg)
 - Jeon Jungkook (BTS)
   - Effort makes you. You will regret someday if you don't do your best now. Don't think it's too late but keep working on it. It may take time, but there's nothing that gets worse due to practicing. So practice. You may get depressed but it's evidence that you are doing good. <br> ![](https://pm1.narvii.com/6905/34f29841c9fc0b7cc4b7fa405e770df8ed50c6e6r1-940-788v2_hq.jpg)
 - Kobe Bryant
@@ -276,7 +276,8 @@
 - [Rich Dad Poor Dad, by Robert Kiyosaki](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad)
 - [Think And Grow Rich, by Napoleon Hill and Rosa Lee Beeland](https://archive.org/embed/in.ernet.dli.2015.274523) - ([Wikipedia article](https://en.wikipedia.org/wiki/Think_and_Grow_Rich))
 - [As A Man Thinketh, by James Allen](https://archive.org/details/asmanthinketh00alle) - ([Wikipedia article](https://en.wikipedia.org/wiki/As_a_Man_Thinketh))
-- [Man's Search for Meaning (Goodreads)](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) - ([Wikipedia article](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning))
+- [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) - ([Wikipedia article](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning))
+- [12 Rules for Life: An Antidote to Chaos, by Jordan B. Peterson](https://www.goodreads.com/book/show/30257963-12-rules-for-life) - ([Wikipedia article](https://en.wikipedia.org/wiki/12_Rules_for_Life))
 
 ## Contributing
 

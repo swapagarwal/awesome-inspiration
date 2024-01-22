@@ -49,6 +49,10 @@
 
 - Nikola Tesla
   - If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. <br> ![](https://www.azquotes.com/vangogh-image-quotes/43/76/Quotation-Nikola-Tesla-If-you-want-to-find-the-secrets-of-the-universe-43-76-81.jpg)
+
+- Maya Angelou
+  Hope for the best and be prepared for the worst. <br> ![] (https://risingkashmir.com/-hope-for-the-best-prepare-for-the-worst#:~:text=%E2%80%9CHope%20for%20the%20best%20and,best%20prepare%20for%20the%20worst%E2%80%9D.) <br> ![] (https://taiwo-adetiloye.medium.com/hope-for-the-best-prepare-for-the-worst-28d44461c189)
+
 - Michael Jordan
   - I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed. <br> ![](https://www.azquotes.com/picture-quotes/quote-i-ve-missed-more-than-9000-shots-in-my-career-i-ve-lost-almost-300-games-26-times-i-michael-jordan-15-6-0618.jpg)
 - Thomas Alva Edison
@@ -278,6 +282,8 @@
 - [As A Man Thinketh, by James Allen](https://archive.org/details/asmanthinketh00alle) - ([Wikipedia article](https://en.wikipedia.org/wiki/As_a_Man_Thinketh))
 - [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) - ([Wikipedia article](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning))
 - [12 Rules for Life: An Antidote to Chaos, by Jordan B. Peterson](https://www.goodreads.com/book/show/30257963-12-rules-for-life) - ([Wikipedia article](https://en.wikipedia.org/wiki/12_Rules_for_Life))
+
+- [Create Your Own Net Worth, by Sunday Adelaja] (https://www.amazon.com/Create-Your-Own-Net-Worth/dp/1908040300) ([Wikipedia article] (https://en.wikipedia.org/wiki/Sunday_Adelaja))
 
 ## Contributing
 

@@ -250,6 +250,8 @@
 - [Dream - Motivational Video](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
 - [8 traits of successful people - Richard St. John](https://www.youtube.com/watch?v=NOl0v54DaXo)
 
+- [Becoming - Oprah Winfrey and Michelle Obama interview](https://youtu.be/c0qV1ZGh1yM?si=nbqL9KS1_Ze99EPd)
+
 <details><summary>Hindi</summary>
 
 - <a href="https://www.facebook.com/hrithikroshan/videos/10156426479529407" target="_blank">Don't fear... fear</a><br>
